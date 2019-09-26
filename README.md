@@ -4,11 +4,12 @@ Matériel de la formation ["Gérer facilement sa bibliographie avec Zotero"](htt
 
 Le matériel est composé des éléments suivants.
 
-<!--attention si pas de branche remplacer 2019-01 par master-->
 
 * Document de cours - [md](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/2019_gerer_biblio_zotero_cours.md) 
-* Programme (diaporama) - [md](https://github.com/fflamerie/zotero_collaborative/blob/2019-01/content/2019_zotero_collab_programme.md) et [pdf](https://github.com/fflamerie/zotero_collaborative/blob/2019-01/content/2019_zotero_collab_programme.pdf)
-* Exercices - [md](https://github.com/fflamerie/zotero_collaborative/blob/2019-01/content/2019_zotero_collab_exercices.md) et [pdf](https://github.com/fflamerie/zotero_collaborative/blob/2019-01/content/2019_zotero_collab_exercices.pdf)
+* Programme (diaporama) - [md](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/2019_gerer_biblio_zotero_prog.md) et [pdf à venir](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/2019_gerer_biblio_zotero_prog.pdf)
+* Exercices
+ * TP importer et nettoyer des références bibliographiques : [fichier .rdf à importer](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_tp_import.rdf) et [fichier .rdf corrigé](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_tp_import_COR.rdf)
+* TP insérer des citations et une bibliographie : [fichier Word à modifier](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_tp_redac.docx), [fichier Word avec corrigé](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_tp_redac_COR.docx) et [fichier PDF avec corrigé](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_tp_redac_COR.pdf)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/fr/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/fr/88x31.png" /></a><br />Les supports sont mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/fr/">Licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 3.0 France</a>.
 
