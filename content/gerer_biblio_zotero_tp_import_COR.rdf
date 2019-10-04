@@ -69,43 +69,7 @@
         <rdf:value>&lt;h1&gt;Corrigé&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;auteur : inversion prénom/nom du dernier auteur&lt;/li&gt;
-&lt;li&gt;pages : ajout &lt;/li&gt;
-&lt;/ul&gt;</rdf:value>
-    </bib:Memo>
-    <bib:Book rdf:about="urn:isbn:978-2-84934-356-2">
-        <z:itemType>book</z:itemType>
-        <dc:publisher>
-            <foaf:Organization>
-                <vcard:adr>
-                    <vcard:Address>
-                       <vcard:locality>Paris</vcard:locality>
-                    </vcard:Address>
-                </vcard:adr>
-                <foaf:name>mare &amp; martin</foaf:name>
-            </foaf:Organization>
-        </dc:publisher>
-        <bib:authors>
-            <rdf:Seq>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Ayad-Bergounioux</foaf:surname>
-                        <foaf:givenName>Soulef</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-            </rdf:Seq>
-        </bib:authors>
-        <dcterms:isReferencedBy rdf:resource="#item_34223"/>
-        <dc:subject>2019_gerer_sa_biblio</dc:subject>
-        <dc:identifier>ISBN 978-2-84934-356-2</dc:identifier>
-        <dc:date>2018</dc:date>
-        <dcterms:abstract>La 4e de couverture indique : &quot;Qu'est-ce que le droit ? Un fait social, une science, un pouvoir ? Peut-on réduire le droit à sa force de coercition et partant, le considérer comme un instrument disciplinaire qui contraint sans violence apparente, les agents sociaux à l'obéissance ? Les logiques du droit constituent une invitation à s'interroger sur les logiques sociales et historiques du droit, donc sur les enjeux de pouvoir qu'il enferme, les rapports de domination qu'il objective, naturalise et par-là neutralise. En somme, cet ouvrage collectif rassemblant historiens, juristes, sociologues et politistes, proposent une définition renouvelée de la sociologie historique du droit, pensée à la fois comme science des normes, des faits sociaux et des régimes de domination.&quot;</dcterms:abstract>
-        <dc:title>Les logiques du droit : science de la norme et des régimes de domination 2-3 avril 2015, Faculté Jean Monnet - Université Paris-Sud</dc:title>
-    </bib:Book>
-    <bib:Memo rdf:about="#item_34223">
-        <rdf:value>&lt;h1&gt;Corrigé&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;auteur : suppression de la date de naissance + passage du champ unique à 2 champs et inversion nom/prénom&lt;/li&gt;
-&lt;li&gt;éditeur : suppression du lieu de publication&lt;/li&gt;
+&lt;li&gt;pages : ajout&lt;/li&gt;
 &lt;/ul&gt;</rdf:value>
     </bib:Memo>
     <bib:Thesis rdf:about="#item_33723">
@@ -154,8 +118,8 @@
 &lt;ul&gt;
 &lt;li&gt;titre : transformation en mode &quot;phrase&quot;&lt;/li&gt;
 &lt;li&gt;titre : correcitions manuelles complémentaires : initiales pour les noms propres et caractères accentués à rétablir&lt;/li&gt;
-&lt;li&gt;titre : ajout balises &amp;lt;sup&amp;gt;&amp;lt;/sup&amp;gt; pour l'exposant &lt;/li&gt;
-&lt;li&gt;genre : transformation manuelle en mode &quot;phrase&quot; &lt;/li&gt;
+&lt;li&gt;titre : ajout balises &amp;lt;sup&amp;gt;&amp;lt;/sup&amp;gt; pour l'exposant&lt;/li&gt;
+&lt;li&gt;genre : transformation manuelle en mode &quot;phrase&quot;&lt;/li&gt;
 &lt;li&gt;lieu : suppression du pays&lt;/li&gt;
 &lt;/ul&gt;</rdf:value>
     </bib:Memo>
@@ -194,6 +158,7 @@
     <bib:Memo rdf:about="#item_34225">
         <rdf:value>&lt;h1&gt;Corrigé&lt;/h1&gt;
 &lt;ul&gt;
+&lt;li&gt;lieu : suppression du pays&lt;/li&gt;
 &lt;li&gt;éditeur : suppression des mentions autres que &quot;Dalloz&quot;&lt;/li&gt;
 &lt;li&gt;date : réduction à l'année, i. e. &quot;2014&quot;&lt;/li&gt;
 &lt;/ul&gt;</rdf:value>

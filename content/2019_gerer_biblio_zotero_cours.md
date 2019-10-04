@@ -59,7 +59,7 @@ Robles, J. S. (2019, 26 août). Me when I have to go back to writing to change t
 
 ![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Préférences](https://www.zotero.org/support/fr/preferences) - en :fr:
 
-:warning: Les pages consacrées aux différents onglets des préférencesne sont pas toutes traduites en français.
+:warning: Les pages consacrées aux différents onglets des préférences ne sont pas toutes traduites en français.
 
 ### Configuration minimale recommandée
 
@@ -96,11 +96,11 @@ Que vous cherchiez à localiser un article déterminé ou que vous effectuiez un
 
 Cela correspond à la méthode à la fois la plus simple, la plus courante et la plus recommandée pour ajouter des documents dans Zotero.
 
-#### Exercice 2
+#### Exercice 3a
 
 :gear: :pencil: Nous prenons **10 minutes** pour cette activité : enregistrez dans votre bibliothèque des documents depuis les sites que vous utilisez habituellement.
 
-### Vérifier les documents que vous avez enregistrés
+### Vérifier et mettre à jour les documents que vous avez enregistrés
 
 Quelle que soit la méthode que vous utilisez pour ajouter des documents dans votre bibliothèque, il peut y avoir des coquilles à corriger ou des informations à ajouter.
 
@@ -108,7 +108,7 @@ Quelle que soit la méthode que vous utilisez pour ajouter des documents dans vo
 
 Privilégiez les sources fiables et exhaustives pour créer ou compléter vos documents, c'est-à-dire :
 * les sites d'éditeur et les bases de données bibliographiques pour les articles de revue et les chapitres de livre (SpringerLink, Scopus, etc. // évitez Google Scholar),
-* les catalogues de bibliothèques les livres (Sudoc, BnF // évitez amazon, WorldCat).
+* les catalogues de bibliothèques pour les livres (Sudoc, WorldCat // évitez amazon).
 
 #### Recommandation 2 : anticiper les normes
 
@@ -118,7 +118,7 @@ Renseignez-vous sur les exigences minimales en termes de rédaction bibliographi
 
 Procédez aux ajouts et modifications tout de suite! Tant que vous avez le document sous la main et/ou que vous avez l'information à portée de clic.
 
-### Exercice 3
+#### Exercice 3b
 
 :gear: :pencil: Nous prenons **15 minutes** pour cette activité ; vous travaillez à 2 avec votre voisin.
 
@@ -139,15 +139,15 @@ Indépendamment du logiciel utilisé et de la volumétrie à considérer, voici 
 
 ### Ressources 4
 
-![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Duplicate detection](https://www.zotero.org/support/duplicate_detection) - en :gb:, la version :fr: n'est pas à jour
+![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Détection des doublons](https://www.zotero.org/support/fr/duplicate_detection) - en :fr:
 
 ![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Collections and Tags](https://www.zotero.org/support/collections_and_tags) - en :gb:, la version :fr: n'existe pas encore
 
-![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Searching](https://www.zotero.org/support/searching) - en :gb:, la version :fr: n'existe pas encore
+![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Rechercher](https://www.zotero.org/support/fr/searching) - en :fr:
 
-![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Sorting](https://www.zotero.org/support/fr/sorting) - en :gb:, la version :fr: n'est pas à jour
+![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Tri](https://www.zotero.org/support/fr/sorting) - en :fr:
 
-![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Notes](https://www.zotero.org/support/fr/notes) - en :gb:, la version :fr: n'est pas à jour
+![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Notes](https://www.zotero.org/support/fr/notes) - en :fr:
 
 ![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Related](https://www.zotero.org/support/related) - en :gb:, la version :fr: n'existe pas encore
 
@@ -169,7 +169,7 @@ Muller, C. (2018, 4 mars). Cinq ans d’usage de Zotero, un bilan [Billet]. _Acq
 
 ![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Les styles bibliographiques](https://www.zotero.org/support/fr/styles) - en :fr:
 
-![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Préférences > Citer](https://www.zotero.org/support/fr/preferences/cite)
+![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Préférences > Citer](https://www.zotero.org/support/fr/preferences/cite) - en :fr:
 
 ### Les types de style bibliographique
 
