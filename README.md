@@ -6,7 +6,7 @@ Le matériel est composé des éléments suivants.
 
 
 * Document de cours - [md](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/2019_gerer_biblio_zotero_cours.md) 
-* Programme (diaporama) - [md](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/2019_gerer_biblio_zotero_prog.md) et [pdf à venir](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/2019_gerer_biblio_zotero_prog.pdf)
+* Programme (diaporama) - [md](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/2019_gerer_biblio_zotero_prog.md) et [pdf](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/2019_gerer_biblio_zotero_prog.pdf)
 * Exercices
  * TP importer et nettoyer des références bibliographiques : [fichier .rdf à importer](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_tp_import.rdf) et [fichier .rdf corrigé](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_tp_import_COR.rdf)
 * TP insérer des citations et une bibliographie : [fichier Word à modifier](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_tp_redac.docx), [fichier Word avec corrigé](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_tp_redac_COR.docx) et [fichier PDF avec corrigé](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_tp_redac_COR.pdf)
