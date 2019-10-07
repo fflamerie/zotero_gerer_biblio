@@ -5,7 +5,7 @@ Matériel de la formation ["Gérer facilement sa bibliographie avec Zotero"](htt
 Le matériel est composé des éléments suivants.
 
 
-* Document de cours - [md](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/2019_gerer_biblio_zotero_cours.md) 
+* Document de cours - [md](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/2019_gerer_biblio_zotero_cours.md) et [pdf](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/2019_gerer_biblio_zotero_cours.pdf)
 * Programme (diaporama) - [md](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/2019_gerer_biblio_zotero_prog.md) et [pdf](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/2019_gerer_biblio_zotero_prog.pdf)
 * Exercices
  * TP importer et nettoyer des références bibliographiques : [fichier .rdf à importer](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_tp_import.rdf) et [fichier .rdf corrigé](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_tp_import_COR.rdf)
