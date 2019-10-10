@@ -6,21 +6,19 @@
 ## Programme et ressources
 **Urfist Bordeaux**
 2019
-Matériel du cours en ligne sur [GitHub > fflamerie](https://github.com/fflamerie/zotero_gerer_biblio)
+Matériel du cours en ligne sur [GitHub > fflamerie > zotero_gerer_biblio](https://github.com/fflamerie/zotero_gerer_biblio)
 <small>
 *Frédérique Flamerie* 
 *chargée de mission science ouverte/données de recherche*
 *Université de Bordeaux - Direction de la documentation*
 </small>
-![licence_cc 50%](img/by-sa.png)
+![licence_cc](img/by-sa.png)
 
 ---
 
 # Programme 1/2
 
-0. Tour de table : votre nom et votre laboratoire de rattachement
-
-:heavy_plus_sign: vos attentes ici : https://lite.framacalc.org/zotero_bx_20191009
+0. Tour de table
 1. Introduction
 
 ## Objectif 1 = Créer et organiser une bibliothèque de références bibliographiques et de PDF avec Zotero
@@ -41,7 +39,7 @@ Matériel du cours en ligne sur [GitHub > fflamerie](https://github.com/fflameri
 
 ## Objectif 3 : comprendre l'environnement de Zotero pour en optimiser et en augmenter l'usage
 7. Où vont vos données Zotero?
-8. Organiser sa bibliothèque Zotero : gestion des fichiers joints dans Zotero avec ZotFile
+8. Exemple d'un module complémentaire :  ZotFile
 9.  Conclusion
 
 ---
@@ -55,6 +53,10 @@ Dingemanse, M. (2018, mars). Collecting, organizing and citing scientific litera
 La plupart des ressources citées proviennent de :
 * La documentation officielle de Zotero : https://www.zotero.org/support/ en :gb:  ou en :fr: 
 * Le blog Zotero francophone : https://zotero.hypotheses.org
+
+Autres supports de formation Urfist Bordeaux concernant Zotero :
+* Modifier un style bibliographique :  [Créer des styles bibliographiques CSL](https://github.com/fflamerie/zotero_csl_2018)
+* Synchroniser sa bibliothèque et utiliser les groupes Zotero :  [Partager sa biblio avec Zotero](https://github.com/fflamerie/zotero_collaborative)
 
 
 ---
