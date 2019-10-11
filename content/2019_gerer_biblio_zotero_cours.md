@@ -96,7 +96,7 @@ Nous prenons **10 minutes** pour cette activité : enregistrez dans votre biblio
 
 ![zotero_ajout_panorama](img/zotero_ajout_overview.png)
 
-1. [Via votre navigateur web](https://www.zotero.org/support/fr/adding_items_to_zotero#via_votre_navigateur_web) - nous allons en parler tout de suite
+1. [Via votre navigateur web](https://www.zotero.org/support/fr/adding_items_to_zotero#via_votre_navigateur_web) - c'est la méthode que nous venons d'utiliser
 2. [Importer depuis d'autres outils](https://www.zotero.org/support/fr/adding_items_to_zotero#importer_depuis_d_autres_outils) - nous testerons cette méthode pendant le TP
 3. [Ajouter manuellement des documents](https://www.zotero.org/support/fr/adding_items_to_zotero#ajouter_manuellement_des_documents) - vous pourrez tester cette méthode pendant le TP
 4. [Ajouter un document par son identifiant](https://www.zotero.org/support/fr/adding_items_to_zotero#ajouter_un_document_par_son_identifiant) - vous pourrez tester cette méthode pendant le TP
@@ -112,7 +112,7 @@ Quelle que soit la méthode que vous utilisez pour ajouter des documents dans vo
 
 Privilégiez les sources fiables et exhaustives pour créer ou compléter vos documents, c'est-à-dire :
 * les sites d'éditeur et les bases de données bibliographiques pour les articles de revue et les chapitres de livre (SpringerLink, Scopus, Cairn, etc. // évitez Google Scholar),
-* les catalogues de bibliothèques pour les livres (Sudoc, WorldCat // évitez amazon).
+* les catalogues de bibliothèques pour les livres (Babord+, Sudoc, WorldCat // évitez amazon).
 
 #### Recommandation 2 : anticiper les normes
 
@@ -364,7 +364,7 @@ Support de formation Urfist Bordeaux : [Partager sa biblio avec Zotero](https://
 ![zotero_pref_emplacement_perso](img/zotero_pref_emplacement_perso.png)
 
 
-## 8.  8. Exemple d'un module complémentaire :  ZotFile
+## 8.  Exemple d'un module complémentaire :  ZotFile
 
 ### Ressources - 8
 Billet du blog Zotero francophone [ZotFile : un outil pour gérer vos PDF](https://zotero.hypotheses.org/2838)
