@@ -135,10 +135,10 @@ Nous faisons les points 1 et 2 ensemble.
 
 3. Testez ensuite une autre méthode d'import en fonction de vos besoins et méthodes de travail.
 
-* Vous avez **un stock de PDF** à intégrer? Importez les PDF du dossier `tp_import`. Que pensez-vous du résultat?
+* Vous avez **un stock de PDF** à intégrer? Faites glisser les PDF du dossier `tp_import` dans votre bibliothèque Zotero. Que pensez-vous du résultat?
 * Saisissez **manuellement** une présentation, un poster, un rapport ou un autre document pour lequel vous ne pouvez pas trouver/importer les informations dans  une source bibliographique. Attachez-lui un (ou des) fichier(s) de texte intégral.
 * Vous avez une liste bibliographique au format Word, Excel ou autre, comportant **les DOI, les PMID ou les identifiants arXiv**? Importez la liste de DOI du fichier `test_import_doi.txt`.
-* Les sites que vous utilisez n'affichent pas l'icône Zotero ? Ou l'icône Zotero est affichée mais elle ne permet pas d'enregistrer des informations complètes? Testez **l'import .ris** sur Cairn, avec le chapitre suivant [la référence bibliographique est volontairement elliptique et non rédigée]:  Réglementation du temps de travail - par Yvan Loufrani - Dans Droit du travail. Outils et méthodes de management
+* Les sites que vous utilisez n'affichent pas l'icône Zotero ? Ou l'icône Zotero est affichée mais elle ne permet pas d'enregistrer des informations complètes? Testez **l'import .ris** sur Cairn, avec le chapitre suivant [la référence bibliographique est volontairement elliptique et non rédigée]:  Réglementation du temps de travail - par Yvan Loufrani - Dans Droit du travail. Outils et méthodes de management . URL directe Cairn UB : https://www-cairn-info.docelec.u-bordeaux.fr/droit-du-travail-outils-et-methodes-de-management--9782847699487-page-31.htm
 
 ### Ressources - 3
 ![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Ajouter des documents à Zotero](https://www.zotero.org/support/fr/adding_items_to_zotero) - en français ![icone_fr](img/icone_fr.png)
@@ -172,7 +172,10 @@ Gruson-Daniel, C. (2016, novembre). Atelier #05 : La biblio, c’est fantastiq
 
 Muller, C. (2018, 4 mars). Cinq ans d’usage de Zotero, un bilan [Billet]. _Acquis de conscience_. Repéré à https://consciences.hypotheses.org/1184
 
-Discusssion sur le forum Zotero : [How/ Why do you use Zotero?](https://forums.zotero.org/discussion/comment/340945#Comment_340945)
+Saunders, T. (2019, 13 février). Guide to Getting the Most out of Zotero. _Tom Saunders_. Repéré à https://tomsaunders.co.nz/zotero-guide/
+
+
+![icone_zotero](img/icone_zotero.png) [Forum Zotero : How/ Why do you use Zotero?](https://forums.zotero.org/discussion/comment/340945#Comment_340945)
 
 
 ### Ressources 4
@@ -288,7 +291,7 @@ Le format du marqueur doit être paramétré dans le **traitement de texte**.
 Les critères de choix suivants peuvent être pris en compte.
 
 #### Existence d'un modèle de référence
-Existe-t-il un style de référence ou fréquemment utilisé dans votre domaine? Par exemple "Vancouver" et "American Psychological Association" pour les sciences de la santé, "Modern Language Association" pour certaines domaines de la littérature, "IEEE" pour les sciences de l'ingénieur, etc.
+Existe-t-il un style de référence ou fréquemment utilisé dans votre domaine? Par exemple "Vancouver" et "American Psychological Association" pour les sciences de la santé, "Modern Language Association" pour certains domaines de la littérature, "IEEE" pour les sciences de l'ingénieur, etc.
 
 Vous utilisez le style de l'ED droit de Bordeaux? Consultez la [Documentation du style CSL “Université de Bordeaux - École doctorale de droit (French)” pour Zotero](https://documentation-style-csl-ed-droit-ubx.readthedocs.io/en/latest/) : le site intègre toutes les spécificités de saisie et des exemples pour tous les types de document.
 
