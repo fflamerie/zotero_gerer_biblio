@@ -5,7 +5,7 @@
 # Gérer facilement sa bibliographie avec Zotero
 ## Programme et ressources
 **Urfist Bordeaux**
-2019
+2019-2020
 Matériel du cours en ligne sur [GitHub > fflamerie > zotero_gerer_biblio](https://github.com/fflamerie/zotero_gerer_biblio)
 <small>
 *Frédérique Flamerie* 
@@ -16,9 +16,22 @@ Matériel du cours en ligne sur [GitHub > fflamerie > zotero_gerer_biblio](https
 
 ---
 
+# Tour de table
+
+Qui êtes-vous d'un point de vue bibliographique?
+
+1. Utilisez-vous déjà un logiciel de gestion bibliographique? Si oui lequel?
+2. Quelles sources utilisez-vous pour effectuer vos recherches bibliographiques?
+3. Quels types de documents souhaitez-vous pouvoir enregistrer dans votre bibliothèque Zotero et citer?
+4. :black_joker: Quel est votre objectif principal pour la formation d'aujourd'hui? A la fin de la matinée, à quelle question devons-nous avoir répondu en priorité?
+
+
+
+
+---
+
 # Programme 1/2
 
-0. Tour de table
 1. Introduction
 
 ## Objectif 1 = Créer et organiser une bibliothèque de références bibliographiques et de PDF avec Zotero
