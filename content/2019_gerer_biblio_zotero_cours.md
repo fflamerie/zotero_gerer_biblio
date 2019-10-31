@@ -9,6 +9,7 @@ Dingemanse, M. (2018, mars). Collecting, organizing and citing scientific litera
 
 <!-- MDTOC maxdepth:3 firsth1:0 numbering:0 flatten:0 bullets:1 updateOnSave:1 -->
 
+- [Sommaire](#sommaire)   
 - [1. Introduction](#1-introduction)   
    - [Peut-être procédez-vous de la façon suivante?](#peut-être-procédez-vous-de-la-façon-suivante)   
       - [Etape 01, collecter la biblio](#etape-01-collecter-la-biblio)   
@@ -64,17 +65,17 @@ Dingemanse, M. (2018, mars). Collecting, organizing and citing scientific litera
 
 ### Peut-être procédez-vous de la façon suivante?
 
-#### Etape 01 : collecter la biblio
+#### Etape 01, collecter la biblio
 ![pre_worflow_01](img/zotero_pre_workflow_01.png)
 
 ****
 
-#### Etape 02 : organiser la biblio
+#### Etape 02, organiser la biblio
 ![pre_worflow_02](img/zotero_pre_workflow_02.png)
 
 ****
 
-#### Etape 03 : citer ses sources
+#### Etape 03, citer ses sources
 ![pre_worflow_03](img/zotero_pre_workflow_03.png)
 
 ****
@@ -130,7 +131,7 @@ A ce stade, on se concentre sur les "Préférences > Générales".
 Décochez la case "Ajouter automatiquement aux documents des marqueurs à partir des mots-clés fournis" pour éviter de parasiter votre liste de marqueurs personnels avec tous les mots-clés associés aux documents que vous enregistrez. Variables en fonction de la source dont ils proviennent (mots-clés auteur, indexation sujet des catalogues de bibliothèque, etc.), ces termes accumulés peuvent en effet finir par produire une liste de termes redondants (synonymes, variantes diverses d'un même mot), difficile à exploiter de ce fait.
 
 
-## 3. Constituer sa bibliothèque Zotero : importer des références bibliographiques depuis diverses sources et leur associer des fichiers joints
+## 3. Constituer sa bibliothèque Zotero en important des références bibliographiques depuis diverses sources et en leur associant des fichiers joints
 
 ![zotero_collect](img/zotero_collect.png)
 
@@ -142,7 +143,7 @@ Cela correspond à la méthode à la fois la plus simple, la plus courante et la
 
 ![icone_laptop](img/icone_laptop.png)
 
-#### Exercice 3a : enregistrer des documents depuis les sites en ligne
+#### Exercice 3a, enregistrer des documents depuis les sites en ligne
 
 Nous prenons **10 minutes** pour cette activité : enregistrez dans votre bibliothèque des documents depuis les sites que vous utilisez habituellement. Ajoutez des fichiers (pdf, jpg ou autres) si applicable.
 
@@ -163,23 +164,23 @@ Nous prenons **10 minutes** pour cette activité : enregistrez dans votre biblio
 
 Quelle que soit la méthode que vous utilisez pour ajouter des documents dans votre bibliothèque, il peut y avoir des coquilles à corriger ou des informations à ajouter.
 
-#### Recommandation 1 : choisir la bonne source
+#### Recommandation 1, choisir la bonne source
 
 Privilégiez les sources fiables et exhaustives pour créer ou compléter vos documents, c'est-à-dire :
 * les sites d'éditeur et les bases de données bibliographiques pour les articles de revue et les chapitres de livre (SpringerLink, Scopus, Cairn, etc. // évitez Google Scholar),
 * les catalogues de bibliothèques pour les livres (Babord+, Sudoc, WorldCat // évitez amazon).
 
-#### Recommandation 2 : anticiper les normes
+#### Recommandation 2, anticiper les normes
 
 Renseignez-vous sur les exigences minimales en termes de rédaction bibliographique de votre domaine de recherche. Faut-il pour chaque livre enregistrer les date, lieu et éditeur commerciaux originaux? Si oui, recherchez-les et enregistrez-les en même temps que vous créez le document dans votre bibliothèque Zotero.
 
-#### Recommandation 3 : ne pas procrastiner
+#### Recommandation 3, ne pas procrastiner
 
 Procédez aux ajouts et modifications tout de suite! Tant que vous avez le document sous la main et/ou que vous avez l'information à portée de clic.
 
 ![icone_laptop](img/icone_laptop.png)
 
-#### Exercice 3b : autres méthodes d'ajout et nettoyage des documents ajoutés
+#### Exercice 3b, autres méthodes d'ajout et nettoyage des documents ajoutés
 
 Nous prenons **20 minutes** pour cette activité. Les fichiers sont disponibles sur l'espace de partage, dans le dossier `tp_import`.
 
@@ -204,7 +205,7 @@ Nous faisons les points 1 et 2 ensemble.
 
 Billet du blog Zotero francophone : [Nettoyer les références collectées, quelques astuces](https://zotero.hypotheses.org/760)
 
-## 4. Organiser sa bibliothèque Zotero : collections, marqueurs, recherches enregistrées, etc.
+## 4. Organiser sa bibliothèque Zotero avec les collections, marqueurs, recherches enregistrées, etc.
 
 ![zotero_organize.png](img/zotero_organize.png)
 
@@ -266,7 +267,7 @@ On distingue différents types de style bibliographiques, correspondant à des f
 *   les styles _**in-text**_, dans lesquels un appel de citation dans le texte renvoie à une entrée de la bibliographie,
 *   les styles _**note**_, dans lesquels un marqueur (symbole, nombre, etc.) pointe vers une note de bas de page ou de fin, qui permet d’identifier le document cité.
 
-#### Les styles _in-text_ : numériques
+#### Les styles _in-text_ numériques
 Dans le texte : chaque référence citée est appelée par un **numéro**.
 
 >Yeast cells were grown at 25°C in batch cultures on 0.5% methanol for 36 hours <span style="color:#0000CD;">[21, 22]</span>.
@@ -277,7 +278,7 @@ Dans la bibliographie : les références sont classées par **ordre d’appariti
 >
 ><span style="color:#0000CD;">22\.</span> van der Klei IJ, Harder W, Veenhuis M (1991) Methanol metabolism in a peroxisome-deficient mutant of Hansenula polymorpha: a physiological study. Arch Microbiol 156: 15-23.
 
-#### Les styles  _in-text_ : numériques composites
+#### Les styles  _in-text_  numériques composites
 Les styles numériques composites, dans lesquels une entrée bibliographique peut contenir plusieurs références, sont très utilisés en chimie.
 
 **Ce type de style n'est pas pris en charge par CSL, le langage dans lequel sont écrits les styles bibliographiques utilisés par Zotero.**
@@ -290,7 +291,7 @@ Dans la bibliographie :
 
 ><span style="color:#0000CD;">1\. a)</span> Zwart KB, et al. (1983) Antonie van Leeuwenhoek 49: 369-385, <span style="color:#0000CD;">b)</span> van der Klei IJ, et al. (1991) Arch Microbiol 156: 15-23.
 
-#### Les styles  _in-text_ : auteur et auteur-date
+#### Les styles  _in-text_  auteur et auteur-date
 Dans le texte : chaque référence citée est appelée par le **nom de l'auteur** ou **le nom de l'auteur et la date de publication**.
 
 > Yeast cells were grown at 25°C in batch cultures on 0.5% methanol for 36 hours <span style="color:#0000CD;">(van der Klei et al. 1991; Zwart et al. 1983)</span>
@@ -303,7 +304,7 @@ Dans la bibliographie : les références sont classées par **ordre alphabétiqu
 >
 >Zwart KB, Veenhuis M, Harder W (1983) Significance of yeast peroxisomes in the metabolism of choline and ethanolamine. Antonie Van Leeuwenhoek 49: 369-385.
 
-#### Les styles  _in-text_ : label
+#### Les styles  _in-text_ label
 Dans le texte : chaque référence citée est appelée par un **code**.
 
 >Yeast cells were grown at 25°C in batch cultures on 0.5% methanol for 36 hours <span style="color:#0000CD;">[ZwVH1983; vaHV1991]</span>.</cite>
@@ -365,7 +366,7 @@ Tous les styles "localisés" pour une langue autre que l'anglais comporte le nom
 
 Modifier un style bibliographique : support de formation Urfist Bordeaux : [Créer des styles bibliographiques CSL](https://github.com/fflamerie/zotero_csl_2018)
 
-## 6. Exploiter sa bibliothèque Zotero : rédaction bibliographique
+## 6. Exploiter sa bibliothèque Zotero pour la rédaction bibliographique
 
 ![zotero_cite](img/zotero_cite.png)
 
@@ -385,7 +386,7 @@ Zotero fait également ce qui suit.
 
 ![icone_laptop](img/icone_laptop.png)
 
-### Exercice 6 : utiliser le module Word de Zotero
+### Exercice 6, utiliser le module Word de Zotero
 
 Nous prenons **15 minutes** pour cette activité.
 
@@ -420,7 +421,7 @@ Support de formation Urfist Bordeaux : [Partager sa biblio avec Zotero](https://
 ![zotero_pref_emplacement_perso](img/zotero_pref_emplacement_perso.png)
 
 
-## 8. Exemple d'un module complémentaire :  ZotFile
+## 8. Exemple d'un module complémentaire, ZotFile
 
 ### Ressources
 Billet du blog Zotero francophone [ZotFile : un outil pour gérer vos PDF](https://zotero.hypotheses.org/2838)
