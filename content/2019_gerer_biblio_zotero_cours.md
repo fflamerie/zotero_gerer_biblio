@@ -5,6 +5,61 @@ L'ensemble de ce document est  partiellement traduit et adapté de :
 
 Dingemanse, M. (2018, mars). Collecting, organizing and citing scientific literature : An intro to Zotero. Repéré à https://speakerdeck.com/markding/collecting-organizing-and-citing-scientific-literature-an-intro-to-zotero [sous licence CC-BY]
 
+## Sommaire
+
+<!-- MDTOC maxdepth:3 firsth1:0 numbering:0 flatten:0 bullets:1 updateOnSave:1 -->
+
+- [1. Introduction](#1-introduction)   
+   - [Peut-être procédez-vous de la façon suivante?](#peut-être-procédez-vous-de-la-façon-suivante)   
+      - [Etape 01 : collecter la biblio](#etape-01-collecter-la-biblio)   
+      - [Etape 02 : organiser la biblio](#etape-02-organiser-la-biblio)   
+      - [Etape 03 : citer ses sources](#etape-03-citer-ses-sources)   
+   - [Et peut-être rencontrez-vous aussi les difficultés suivantes?](#et-peut-être-rencontrez-vous-aussi-les-difficultés-suivantes)   
+   - [Zotero?](#zotero)   
+- [2.  Installer et configurer Zotero](#2-installer-et-configurer-zotero)   
+   - [Ressources - 2](#ressources-2)   
+   - [Configuration minimale recommandée](#configuration-minimale-recommandée)   
+      - [Rubrique "Gestion des fichiers"](#rubrique-gestion-des-fichiers)   
+      - [Rubrique "Divers"](#rubrique-divers)   
+- [3.  Constituer sa bibliothèque Zotero : importer des références bibliographiques depuis diverses sources et leur associer des fichiers joints](#3-constituer-sa-bibliothèque-zotero-importer-des-références-bibliographiques-depuis-diverses-sources-et-leur-associer-des-fichiers-joints)   
+   - [Enregistrer des documents dans votre navigateur](#enregistrer-des-documents-dans-votre-navigateur)   
+      - [Exercice 3a : enregistrer des documents depuis les sites en ligne](#exercice-3a-enregistrer-des-documents-depuis-les-sites-en-ligne)   
+   - [Toutes les méthodes d'ajout](#toutes-les-méthodes-dajout)   
+   - [Vérifier et mettre à jour les documents que vous avez enregistrés](#vérifier-et-mettre-à-jour-les-documents-que-vous-avez-enregistrés)   
+      - [Recommandation 1 : choisir la bonne source](#recommandation-1-choisir-la-bonne-source)   
+      - [Recommandation 2 : anticiper les normes](#recommandation-2-anticiper-les-normes)   
+      - [Recommandation 3 : ne pas procrastiner](#recommandation-3-ne-pas-procrastiner)   
+      - [Exercice 3b : autres méthodes d'ajout et nettoyage des documents ajoutés](#exercice-3b-autres-méthodes-dajout-et-nettoyage-des-documents-ajoutés)   
+   - [Ressources - 3](#ressources-3)   
+- [4. Organiser sa bibliothèque Zotero : collections, marqueurs, recherches enregistrées, etc.](#4-organiser-sa-bibliothèque-zotero-collections-marqueurs-recherches-enregistrées-etc)   
+   - [Les principaux outils pour organiser votre bibliothèque](#les-principaux-outils-pour-organiser-votre-bibliothèque)   
+   - [Des exemples d'organisation](#des-exemples-dorganisation)   
+   - [Ressources - 4](#ressources-4)   
+- [5. Identifier et installer dans Zotero les styles bibliographiques de référence de sa discipline](#5-identifier-et-installer-dans-zotero-les-styles-bibliographiques-de-référence-de-sa-discipline)   
+   - [Les types de style bibliographique](#les-types-de-style-bibliographique)   
+      - [Les styles _in-text_ : numériques](#les-styles-_in-text_-numériques)   
+      - [Les styles  _in-text_ : numériques composites](#les-styles-_in-text_-numériques-composites)   
+      - [Les styles  _in-text_ : auteur et auteur-date](#les-styles-_in-text_-auteur-et-auteur-date)   
+      - [Les styles  _in-text_ : label](#les-styles-_in-text_-label)   
+      - [Les styles _note_](#les-styles-_note_)   
+   - [Comment choisir un style bibliographique lorsqu'aucun n'est imposé?](#comment-choisir-un-style-bibliographique-lorsquaucun-nest-imposé)   
+      - [Existence d'un modèle de référence](#existence-dun-modèle-de-référence)   
+      - [Typologie documentaire prise en charge](#typologie-documentaire-prise-en-charge)   
+      - [Langue de rédaction](#langue-de-rédaction)   
+   - [Ressources - 5](#ressources-5)   
+- [6. Exploiter sa bibliothèque Zotero : rédaction bibliographique](#6-exploiter-sa-bibliothèque-zotero-rédaction-bibliographique)   
+   - [Exercice 6 : utiliser le module Word de Zotero](#exercice-6-utiliser-le-module-word-de-zotero)   
+   - [Ressources - 6](#ressources-6)   
+- [7. Où vont vos données Zotero?](#7-où-vont-vos-données-zotero)   
+- [8.  Exemple d'un module complémentaire :  ZotFile](#8-exemple-dun-module-complémentaire-zotfile)   
+   - [Ressources - 8](#ressources-8)   
+- [9. Conclusion](#9-conclusion)   
+   - [Zotero est un logiciel libre](#zotero-est-un-logiciel-libre)   
+   - [Des questions?](#des-questions)   
+   - [Aller plus loin](#aller-plus-loin)   
+
+<!-- /MDTOC -->
+
 ## 1. Introduction
 
 ### Peut-être procédez-vous de la façon suivante?
@@ -52,7 +107,7 @@ Robles, J. S. (2019, 26 août). Me when I have to go back to writing to change t
 
 ## 2.  Installer et configurer Zotero
 
-### Ressources 2
+### Ressources - 2
 
 ![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Installation](https://www.zotero.org/support/fr/installation) - en français ![icone_fr](img/icone_fr.png)
 
@@ -178,7 +233,7 @@ Saunders, T. (2019, 13 février). Guide to Getting the Most out of Zotero. _Tom 
 ![icone_zotero](img/icone_zotero.png) [Forum Zotero : How/ Why do you use Zotero?](https://forums.zotero.org/discussion/comment/340945#Comment_340945)
 
 
-### Ressources 4
+### Ressources - 4
 
 ![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Détection des doublons](https://www.zotero.org/support/fr/duplicate_detection) - en français ![icone_fr](img/icone_fr.png)
 
@@ -409,12 +464,6 @@ Nous avons parcouru les principale fonctionnalités de Zotero, mais Zotero peut 
 Vous trouverez un premier ensemble de trucs et astuces pour optimiser et augmenter votre usage de Zotero dans le billet du blog Zotero francophone [Un été avec Zotero](https://zotero.hypotheses.org/1840).
 
 Dans la documentation Zotero, la rubrique [Getting the Most out of Zotero](https://www.zotero.org/support/start) constitue un bon point de départ pour explorer toutes les potentialités du logiciel.
-
-
-
-
-
-
 
 # Crédits
 
