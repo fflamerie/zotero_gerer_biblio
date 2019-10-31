@@ -11,48 +11,48 @@ Dingemanse, M. (2018, mars). Collecting, organizing and citing scientific litera
 
 - [1. Introduction](#1-introduction)   
    - [Peut-être procédez-vous de la façon suivante?](#peut-être-procédez-vous-de-la-façon-suivante)   
-      - [Etape 01 : collecter la biblio](#etape-01-collecter-la-biblio)   
-      - [Etape 02 : organiser la biblio](#etape-02-organiser-la-biblio)   
-      - [Etape 03 : citer ses sources](#etape-03-citer-ses-sources)   
+      - [Etape 01, collecter la biblio](#etape-01-collecter-la-biblio)   
+      - [Etape 02, organiser la biblio](#etape-02-organiser-la-biblio)   
+      - [Etape 03, citer ses sources](#etape-03-citer-ses-sources)   
    - [Et peut-être rencontrez-vous aussi les difficultés suivantes?](#et-peut-être-rencontrez-vous-aussi-les-difficultés-suivantes)   
    - [Zotero?](#zotero)   
-- [2.  Installer et configurer Zotero](#2-installer-et-configurer-zotero)   
-   - [Ressources - 2](#ressources-2)   
+- [2. Installer et configurer Zotero](#2-installer-et-configurer-zotero)   
+   - [Ressources](#ressources)   
    - [Configuration minimale recommandée](#configuration-minimale-recommandée)   
       - [Rubrique "Gestion des fichiers"](#rubrique-gestion-des-fichiers)   
       - [Rubrique "Divers"](#rubrique-divers)   
-- [3.  Constituer sa bibliothèque Zotero : importer des références bibliographiques depuis diverses sources et leur associer des fichiers joints](#3-constituer-sa-bibliothèque-zotero-importer-des-références-bibliographiques-depuis-diverses-sources-et-leur-associer-des-fichiers-joints)   
+- [3. Constituer sa bibliothèque Zotero en important des références bibliographiques depuis diverses sources et en leur associant des fichiers joints](#3-constituer-sa-bibliothèque-zotero-en-important-des-références-bibliographiques-depuis-diverses-sources-et-en-leur-associant-des-fichiers-joints)   
    - [Enregistrer des documents dans votre navigateur](#enregistrer-des-documents-dans-votre-navigateur)   
-      - [Exercice 3a : enregistrer des documents depuis les sites en ligne](#exercice-3a-enregistrer-des-documents-depuis-les-sites-en-ligne)   
+      - [Exercice 3a, enregistrer des documents depuis les sites en ligne](#exercice-3a-enregistrer-des-documents-depuis-les-sites-en-ligne)   
    - [Toutes les méthodes d'ajout](#toutes-les-méthodes-dajout)   
    - [Vérifier et mettre à jour les documents que vous avez enregistrés](#vérifier-et-mettre-à-jour-les-documents-que-vous-avez-enregistrés)   
-      - [Recommandation 1 : choisir la bonne source](#recommandation-1-choisir-la-bonne-source)   
-      - [Recommandation 2 : anticiper les normes](#recommandation-2-anticiper-les-normes)   
-      - [Recommandation 3 : ne pas procrastiner](#recommandation-3-ne-pas-procrastiner)   
-      - [Exercice 3b : autres méthodes d'ajout et nettoyage des documents ajoutés](#exercice-3b-autres-méthodes-dajout-et-nettoyage-des-documents-ajoutés)   
-   - [Ressources - 3](#ressources-3)   
-- [4. Organiser sa bibliothèque Zotero : collections, marqueurs, recherches enregistrées, etc.](#4-organiser-sa-bibliothèque-zotero-collections-marqueurs-recherches-enregistrées-etc)   
+      - [Recommandation 1, choisir la bonne source](#recommandation-1-choisir-la-bonne-source)   
+      - [Recommandation 2, anticiper les normes](#recommandation-2-anticiper-les-normes)   
+      - [Recommandation 3, ne pas procrastiner](#recommandation-3-ne-pas-procrastiner)   
+      - [Exercice 3b, autres méthodes d'ajout et nettoyage des documents ajoutés](#exercice-3b-autres-méthodes-dajout-et-nettoyage-des-documents-ajoutés)   
+   - [Ressources](#ressources)   
+- [4. Organiser sa bibliothèque Zotero avec les collections, marqueurs, recherches enregistrées, etc.](#4-organiser-sa-bibliothèque-zotero-avec-les-collections-marqueurs-recherches-enregistrées-etc)   
    - [Les principaux outils pour organiser votre bibliothèque](#les-principaux-outils-pour-organiser-votre-bibliothèque)   
    - [Des exemples d'organisation](#des-exemples-dorganisation)   
-   - [Ressources - 4](#ressources-4)   
+   - [Ressources](#ressources)   
 - [5. Identifier et installer dans Zotero les styles bibliographiques de référence de sa discipline](#5-identifier-et-installer-dans-zotero-les-styles-bibliographiques-de-référence-de-sa-discipline)   
    - [Les types de style bibliographique](#les-types-de-style-bibliographique)   
-      - [Les styles _in-text_ : numériques](#les-styles-_in-text_-numériques)   
-      - [Les styles  _in-text_ : numériques composites](#les-styles-_in-text_-numériques-composites)   
-      - [Les styles  _in-text_ : auteur et auteur-date](#les-styles-_in-text_-auteur-et-auteur-date)   
-      - [Les styles  _in-text_ : label](#les-styles-_in-text_-label)   
+      - [Les styles _in-text_ numériques](#les-styles-_in-text_-numériques)   
+      - [Les styles  _in-text_  numériques composites](#les-styles-_in-text_-numériques-composites)   
+      - [Les styles  _in-text_  auteur et auteur-date](#les-styles-_in-text_-auteur-et-auteur-date)   
+      - [Les styles  _in-text_ label](#les-styles-_in-text_-label)   
       - [Les styles _note_](#les-styles-_note_)   
    - [Comment choisir un style bibliographique lorsqu'aucun n'est imposé?](#comment-choisir-un-style-bibliographique-lorsquaucun-nest-imposé)   
       - [Existence d'un modèle de référence](#existence-dun-modèle-de-référence)   
       - [Typologie documentaire prise en charge](#typologie-documentaire-prise-en-charge)   
       - [Langue de rédaction](#langue-de-rédaction)   
-   - [Ressources - 5](#ressources-5)   
-- [6. Exploiter sa bibliothèque Zotero : rédaction bibliographique](#6-exploiter-sa-bibliothèque-zotero-rédaction-bibliographique)   
-   - [Exercice 6 : utiliser le module Word de Zotero](#exercice-6-utiliser-le-module-word-de-zotero)   
-   - [Ressources - 6](#ressources-6)   
+   - [Ressources](#ressources)   
+- [6. Exploiter sa bibliothèque Zotero pour la rédaction bibliographique](#6-exploiter-sa-bibliothèque-zotero-pour-la-rédaction-bibliographique)   
+   - [Exercice 6, utiliser le module Word de Zotero](#exercice-6-utiliser-le-module-word-de-zotero)   
+   - [Ressources](#ressources)   
 - [7. Où vont vos données Zotero?](#7-où-vont-vos-données-zotero)   
-- [8.  Exemple d'un module complémentaire :  ZotFile](#8-exemple-dun-module-complémentaire-zotfile)   
-   - [Ressources - 8](#ressources-8)   
+- [8. Exemple d'un module complémentaire, ZotFile](#8-exemple-dun-module-complémentaire-zotfile)   
+   - [Ressources](#ressources)   
 - [9. Conclusion](#9-conclusion)   
    - [Zotero est un logiciel libre](#zotero-est-un-logiciel-libre)   
    - [Des questions?](#des-questions)   
@@ -105,9 +105,9 @@ Robles, J. S. (2019, 26 août). Me when I have to go back to writing to change t
 ![zotero_overview](img/zotero_overview.png)
 
 
-## 2.  Installer et configurer Zotero
+## 2. Installer et configurer Zotero
 
-### Ressources - 2
+### Ressources
 
 ![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Installation](https://www.zotero.org/support/fr/installation) - en français ![icone_fr](img/icone_fr.png)
 
@@ -130,7 +130,7 @@ A ce stade, on se concentre sur les "Préférences > Générales".
 Décochez la case "Ajouter automatiquement aux documents des marqueurs à partir des mots-clés fournis" pour éviter de parasiter votre liste de marqueurs personnels avec tous les mots-clés associés aux documents que vous enregistrez. Variables en fonction de la source dont ils proviennent (mots-clés auteur, indexation sujet des catalogues de bibliothèque, etc.), ces termes accumulés peuvent en effet finir par produire une liste de termes redondants (synonymes, variantes diverses d'un même mot), difficile à exploiter de ce fait.
 
 
-## 3.  Constituer sa bibliothèque Zotero : importer des références bibliographiques depuis diverses sources et leur associer des fichiers joints
+## 3. Constituer sa bibliothèque Zotero : importer des références bibliographiques depuis diverses sources et leur associer des fichiers joints
 
 ![zotero_collect](img/zotero_collect.png)
 
@@ -195,7 +195,7 @@ Nous faisons les points 1 et 2 ensemble.
 * Vous avez une liste bibliographique au format Word, Excel ou autre, comportant **les DOI, les PMID ou les identifiants arXiv**? Importez la liste de DOI du fichier `test_import_doi.txt`.
 * Les sites que vous utilisez n'affichent pas l'icône Zotero ? Ou l'icône Zotero est affichée mais elle ne permet pas d'enregistrer des informations complètes? Testez **l'import .ris** sur Cairn, avec le chapitre suivant [la référence bibliographique est volontairement elliptique et non rédigée]:  Réglementation du temps de travail - par Yvan Loufrani - Dans Droit du travail. Outils et méthodes de management . URL directe Cairn UB : https://www-cairn-info.docelec.u-bordeaux.fr/droit-du-travail-outils-et-methodes-de-management--9782847699487-page-31.htm
 
-### Ressources - 3
+### Ressources
 ![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Ajouter des documents à Zotero](https://www.zotero.org/support/fr/adding_items_to_zotero) - en français ![icone_fr](img/icone_fr.png)
 
 ![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Ajouter des fichiers à votre bibliothèque Zotero](https://www.zotero.org/support/fr/attaching_files) - en français ![icone_fr](img/icone_fr.png)
@@ -232,8 +232,7 @@ Saunders, T. (2019, 13 février). Guide to Getting the Most out of Zotero. _Tom 
 
 ![icone_zotero](img/icone_zotero.png) [Forum Zotero : How/ Why do you use Zotero?](https://forums.zotero.org/discussion/comment/340945#Comment_340945)
 
-
-### Ressources - 4
+### Ressources
 
 ![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Détection des doublons](https://www.zotero.org/support/fr/duplicate_detection) - en français ![icone_fr](img/icone_fr.png)
 
@@ -353,13 +352,12 @@ Vous utilisez le style de l'ED droit de Bordeaux? Consultez la [Documentation du
 #### Typologie documentaire prise en charge
 Citez-vous de nombreux types de documents différents? Tous les styles ne prennent pas en charge tous les types de documents. Le style _Nature_, par exemple, ne sera pas le plus adapté si vous citez des documents non publiés comme les thèses. La revue _Nature_ demande aux auteurs de citer un nombre restreint de types de document (voir les [instructions aux auteurs](http://www.nature.com.docelec.u-bordeaux.fr/nature/for-authors/formatting-guide), rubrique _References_), aussi le style CSL pour Zotero _Nature_ encode-t-il la mise en forme des citations uniquement pour ces types de document.
 
-
 #### Langue de rédaction
 Rédigez-vous seulement en français? Seulement dans une autre langue? Dans différentes langues selon les cas? Si certains styles sont agnostiques du point de vue de la langue, d'autres ont au contraire une langue prédéfinie qui ne peut pas être modifiée. Ainsi le style _Nature_ est-il paramétré uniquement pour la langue anglaise, selon la norme britannique.
 
 Tous les styles "localisés" pour une langue autre que l'anglais comporte le nom de cette langue dans leur intitulé. Ainsi, rechercher **french** dans l'entrepôt des styles Zotero affichera uniquement les styles localisés pour la langue française. Les styles sans mention de langue sont soit "localisés" en anglais, soit agnostiques du point de vue de la langue.
 
-### Ressources - 5
+### Ressources
 
 ![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Les styles bibliographiques](https://www.zotero.org/support/fr/styles) - en français ![icone_fr](img/icone_fr.png)
 
@@ -397,7 +395,7 @@ A partir des documents de la bibliothèque Zotero importés et nettoyés précé
 
 Le style bibliographique utilisé est un style auteur-date, le style **Elsevier - Harvard (with titles)**.
 
-### Ressources - 6
+### Ressources
 
 ![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Créer des bibliographies](https://www.zotero.org/support/fr/creating_bibliographies) - en français ![icone_fr](img/icone_fr.png)
 
@@ -422,9 +420,9 @@ Support de formation Urfist Bordeaux : [Partager sa biblio avec Zotero](https://
 ![zotero_pref_emplacement_perso](img/zotero_pref_emplacement_perso.png)
 
 
-## 8.  Exemple d'un module complémentaire :  ZotFile
+## 8. Exemple d'un module complémentaire :  ZotFile
 
-### Ressources - 8
+### Ressources
 Billet du blog Zotero francophone [ZotFile : un outil pour gérer vos PDF](https://zotero.hypotheses.org/2838)
 
 ## 9. Conclusion
