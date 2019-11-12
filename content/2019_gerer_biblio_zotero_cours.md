@@ -7,59 +7,62 @@ Dingemanse, M. (2018, mars). Collecting, organizing and citing scientific litera
 
 ## Sommaire
 
-<!-- MDTOC maxdepth:3 firsth1:0 numbering:0 flatten:0 bullets:1 updateOnSave:1 -->
+_Liens non cliquables en PDF_
+<!-- MDTOC maxdepth:3 firsth1:0 numbering:0 flatten:0 bullets:1 updateOnSave:0 -->
 
-- [Sommaire](#sommaire)   
-- [1. Introduction](#1-introduction)   
-   - [Peut-être procédez-vous de la façon suivante?](#peut-être-procédez-vous-de-la-façon-suivante)   
-      - [Etape 01, collecter la biblio](#etape-01-collecter-la-biblio)   
-      - [Etape 02, organiser la biblio](#etape-02-organiser-la-biblio)   
-      - [Etape 03, citer ses sources](#etape-03-citer-ses-sources)   
-   - [Et peut-être rencontrez-vous aussi les difficultés suivantes?](#et-peut-être-rencontrez-vous-aussi-les-difficultés-suivantes)   
-   - [Zotero?](#zotero)   
-- [2. Installer et configurer Zotero](#2-installer-et-configurer-zotero)   
-   - [Ressources](#ressources)   
-   - [Configuration minimale recommandée](#configuration-minimale-recommandée)   
-      - [Rubrique "Gestion des fichiers"](#rubrique-gestion-des-fichiers)   
-      - [Rubrique "Divers"](#rubrique-divers)   
-- [3. Constituer sa bibliothèque Zotero en important des références bibliographiques depuis diverses sources et en leur associant des fichiers joints](#3-constituer-sa-bibliothèque-zotero-en-important-des-références-bibliographiques-depuis-diverses-sources-et-en-leur-associant-des-fichiers-joints)   
-   - [Enregistrer des documents dans votre navigateur](#enregistrer-des-documents-dans-votre-navigateur)   
-      - [Exercice 3a, enregistrer des documents depuis les sites en ligne](#exercice-3a-enregistrer-des-documents-depuis-les-sites-en-ligne)   
-   - [Toutes les méthodes d'ajout](#toutes-les-méthodes-dajout)   
-   - [Vérifier et mettre à jour les documents que vous avez enregistrés](#vérifier-et-mettre-à-jour-les-documents-que-vous-avez-enregistrés)   
-      - [Recommandation 1, choisir la bonne source](#recommandation-1-choisir-la-bonne-source)   
-      - [Recommandation 2, anticiper les normes](#recommandation-2-anticiper-les-normes)   
-      - [Recommandation 3, ne pas procrastiner](#recommandation-3-ne-pas-procrastiner)   
-      - [Exercice 3b, autres méthodes d'ajout et nettoyage des documents ajoutés](#exercice-3b-autres-méthodes-dajout-et-nettoyage-des-documents-ajoutés)   
-   - [Ressources](#ressources)   
-- [4. Organiser sa bibliothèque Zotero avec les collections, marqueurs, recherches enregistrées, etc.](#4-organiser-sa-bibliothèque-zotero-avec-les-collections-marqueurs-recherches-enregistrées-etc)   
-   - [Les principaux outils pour organiser votre bibliothèque](#les-principaux-outils-pour-organiser-votre-bibliothèque)   
-   - [Des exemples d'organisation](#des-exemples-dorganisation)   
-   - [Ressources](#ressources)   
-- [5. Identifier et installer dans Zotero les styles bibliographiques de référence de sa discipline](#5-identifier-et-installer-dans-zotero-les-styles-bibliographiques-de-référence-de-sa-discipline)   
-   - [Les types de style bibliographique](#les-types-de-style-bibliographique)   
-      - [Les styles _in-text_ numériques](#les-styles-in-text-numériques)   
-      - [Les styles _in-text_ numériques composites](#les-styles-in-text-numériques-composites)   
-      - [Les styles _in-text_ auteur et auteur-date](#les-styles-in-text-auteur-et-auteur-date)   
-      - [Les styles _in-text_ label](#les-styles-in-text-label)   
-      - [Les styles _note_](#les-styles-note)    
-   - [Comment choisir un style bibliographique lorsqu'aucun n'est imposé?](#comment-choisir-un-style-bibliographique-lorsquaucun-nest-imposé)   
-      - [Existence d'un modèle de référence](#existence-dun-modèle-de-référence)   
-      - [Typologie documentaire prise en charge](#typologie-documentaire-prise-en-charge)   
-      - [Langue de rédaction](#langue-de-rédaction)   
-   - [Ressources](#ressources)   
-- [6. Exploiter sa bibliothèque Zotero pour la rédaction bibliographique](#6-exploiter-sa-bibliothèque-zotero-pour-la-rédaction-bibliographique)   
-   - [Exercice 6, utiliser le module Word de Zotero](#exercice-6-utiliser-le-module-word-de-zotero)   
-   - [Ressources](#ressources)   
-- [7. Où vont vos données Zotero?](#7-où-vont-vos-données-zotero)   
-- [8. Exemple d'un module complémentaire, ZotFile](#8-exemple-dun-module-complémentaire-zotfile)   
-   - [Ressources](#ressources)   
-- [9. Conclusion](#9-conclusion)   
-   - [Zotero est un logiciel libre](#zotero-est-un-logiciel-libre)   
-   - [Des questions?](#des-questions)   
-   - [Aller plus loin](#aller-plus-loin)   
+- [Sommaire](#sommaire)
+- [1. Introduction](#1-introduction)
+   - [Peut-être procédez-vous de la façon suivante?](#peut-être-procédez-vous-de-la-façon-suivante)
+      - [Etape 01, collecter la biblio](#etape-01-collecter-la-biblio)
+      - [Etape 02, organiser la biblio](#etape-02-organiser-la-biblio)
+      - [Etape 03, citer ses sources](#etape-03-citer-ses-sources)
+   - [Et peut-être rencontrez-vous aussi les difficultés suivantes?](#et-peut-être-rencontrez-vous-aussi-les-difficultés-suivantes)
+   - [Zotero?](#zotero)
+- [2. Installer et configurer Zotero](#2-installer-et-configurer-zotero)
+   - [Ressources](#ressources)
+   - [Configuration minimale recommandée](#configuration-minimale-recommandée)
+      - [Rubrique "Gestion des fichiers"](#rubrique-gestion-des-fichiers)
+      - [Rubrique "Divers"](#rubrique-divers)
+- [3. Constituer sa bibliothèque Zotero en important des références bibliographiques depuis diverses sources et en leur associant des fichiers joints](#3-constituer-sa-bibliothèque-zotero-en-important-des-références-bibliographiques-depuis-diverses-sources-et-en-leur-associant-des-fichiers-joints)
+   - [Enregistrer des documents dans votre navigateur](#enregistrer-des-documents-dans-votre-navigateur)
+      - [Exercice 3a, enregistrer des documents depuis les sites en ligne](#exercice-3a-enregistrer-des-documents-depuis-les-sites-en-ligne)
+   - [Toutes les méthodes d'ajout](#toutes-les-méthodes-dajout)
+   - [Vérifier et mettre à jour les documents que vous avez enregistrés](#vérifier-et-mettre-à-jour-les-documents-que-vous-avez-enregistrés)
+      - [Recommandation 1, choisir la bonne source](#recommandation-1-choisir-la-bonne-source)
+      - [Recommandation 2, anticiper les normes](#recommandation-2-anticiper-les-normes)
+      - [Recommandation 3, ne pas procrastiner](#recommandation-3-ne-pas-procrastiner)
+      - [Exercice 3b, autres méthodes d'ajout et nettoyage des documents ajoutés](#exercice-3b-autres-méthodes-dajout-et-nettoyage-des-documents-ajoutés)
+   - [Ressources](#ressources)
+- [4. Organiser sa bibliothèque Zotero avec les collections, marqueurs, recherches enregistrées, etc.](#4-organiser-sa-bibliothèque-zotero-avec-les-collections-marqueurs-recherches-enregistrées-etc)
+   - [Les principaux outils pour organiser votre bibliothèque](#les-principaux-outils-pour-organiser-votre-bibliothèque)
+   - [Des exemples d'organisation](#des-exemples-dorganisation)
+   - [Ressources](#ressources)
+- [5. Identifier et installer dans Zotero les styles bibliographiques de référence de sa discipline](#5-identifier-et-installer-dans-zotero-les-styles-bibliographiques-de-référence-de-sa-discipline)
+   - [Les types de style bibliographique](#les-types-de-style-bibliographique)
+      - [Les styles _in-text_ numériques](#les-styles-_in-text_-numériques)
+      - [Les styles  _in-text_  numériques composites](#les-styles-_in-text_-numériques-composites)
+      - [Les styles  _in-text_  auteur et auteur-date](#les-styles-_in-text_-auteur-et-auteur-date)
+      - [Les styles  _in-text_ label](#les-styles-_in-text_-label)
+      - [Les styles _note_](#les-styles-_note_)
+   - [Comment choisir un style bibliographique lorsqu'aucun n'est imposé?](#comment-choisir-un-style-bibliographique-lorsquaucun-nest-imposé)
+      - [Existence d'un modèle de référence](#existence-dun-modèle-de-référence)
+      - [Typologie documentaire prise en charge](#typologie-documentaire-prise-en-charge)
+      - [Langue de rédaction](#langue-de-rédaction)
+   - [Ressources](#ressources)
+- [6. Exploiter sa bibliothèque Zotero pour la rédaction bibliographique](#6-exploiter-sa-bibliothèque-zotero-pour-la-rédaction-bibliographique)
+   - [Exercice 6, utiliser le module Word de Zotero](#exercice-6-utiliser-le-module-word-de-zotero)
+   - [Ressources](#ressources)
+- [7. Où vont vos données Zotero?](#7-où-vont-vos-données-zotero)
+- [8. Exemple d'un module complémentaire, ZotFile](#8-exemple-dun-module-complémentaire-zotfile)
+   - [Ressources](#ressources)
+- [9. Conclusion](#9-conclusion)
+   - [Zotero est un logiciel libre](#zotero-est-un-logiciel-libre)
+   - [Des questions?](#des-questions)
+   - [Aller plus loin](#aller-plus-loin)
 
 <!-- /MDTOC -->
+
+<div style="page-break-after: always;"></div>
 
 ## 1. Introduction
 
@@ -113,8 +116,6 @@ Robles, J. S. (2019, 26 août). Me when I have to go back to writing to change t
 ![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Installation](https://www.zotero.org/support/fr/installation) - en français ![icone_fr](img/icone_fr.png)
 
 ![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Préférences](https://www.zotero.org/support/fr/preferences) - en français ![icone_fr](img/icone_fr.png)
-
-![icone_attention](img/icone_attention.png) Les pages consacrées aux différents onglets des préférences ne sont pas toutes traduites en français.
 
 ### Configuration minimale recommandée
 
@@ -254,13 +255,12 @@ Billet du blog Zotero francophone : [Comment organiser sa bibliothèque?](https:
 
 ### Les types de style bibliographique
 
-Un style bibliographique définit la façon dont les éléments bibliographiques d’un document :
+Un style bibliographique définit la façon dont les éléments bibliographiques d’un document doivent être organisés et mis en forme.
 
-*   appels de citation,
-*   **notes** si applicable,
-*   **bibliographie**,
+On considère 2 éléments.
 
-doivent être organisés et mis en forme.
+*  Les **citations** : elles peuvent être insérées sous la forme d'appels de citation (nombre, nom de l'auteur et date, etc.) **dans le texte** ou de références plus ou moins abrégées **en note** de bas de page ou de fin.
+*   La **bibliographie**.
 
 On distingue différents types de style bibliographiques, correspondant à des formats de style Zotero différents. On trouve ainsi dans [l'entrepôt des styles Zotero](https://www.zotero.org/styles), près de 9000 styles regroupés en 2 grands ensembles :
 
