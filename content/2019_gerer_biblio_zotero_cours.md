@@ -7,10 +7,8 @@ Dingemanse, M. (2018, mars). Collecting, organizing and citing scientific litera
 
 ## Sommaire
 
-_Liens non cliquables en PDF_
 <!-- MDTOC maxdepth:3 firsth1:0 numbering:0 flatten:0 bullets:1 updateOnSave:0 -->
 
-- [Sommaire](#sommaire)
 - [1. Introduction](#1-introduction)
    - [Peut-être procédez-vous de la façon suivante?](#peut-être-procédez-vous-de-la-façon-suivante)
       - [Etape 01, collecter la biblio](#etape-01-collecter-la-biblio)
