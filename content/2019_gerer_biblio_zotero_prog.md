@@ -18,12 +18,12 @@ Matériel du cours en ligne sur [GitHub > fflamerie > zotero_gerer_biblio](https
 
 # Tour de table
 
-Qui êtes-vous d'un point de vue bibliographique?
+## Qui êtes-vous d'un point de vue bibliographique?
 
 1. Utilisez-vous déjà un logiciel de gestion bibliographique? Si oui lequel?
-2. Quelles sources utilisez-vous pour effectuer vos recherches bibliographiques?
-3. Quels types de documents souhaitez-vous pouvoir enregistrer dans votre bibliothèque Zotero et citer?
-4. :black_joker: Quel est votre objectif principal pour la formation d'aujourd'hui? A la fin de la matinée, à quelle question devons-nous avoir répondu en priorité?
+2. Quelles **sources** utilisez-vous pour effectuer vos recherches bibliographiques?
+3. Quels **types de documents** souhaitez-vous pouvoir enregistrer dans votre bibliothèque Zotero et citer?
+4. :black_joker: Quel est **votre objectif principal** pour la formation d'aujourd'hui? A la fin de la matinée, à quelle question devons-nous avoir répondu en priorité?
 
 
 
@@ -32,12 +32,12 @@ Qui êtes-vous d'un point de vue bibliographique?
 
 # Programme 1/2
 
-1. Introduction
+## 1. Introduction
 
-## Objectif 1 = Créer et organiser une bibliothèque de références bibliographiques et de PDF avec Zotero
-2. Installer et configurer Zotero
-3. Constituer sa bibliothèque Zotero
-4. Organiser sa bibliothèque Zotero 
+_Objectif 1 = Créer et organiser une bibliothèque de références bibliographiques et de PDF avec Zotero_ 
+## 2. Installer et configurer Zotero
+## 3. Constituer sa bibliothèque Zotero
+## 4. Organiser sa bibliothèque Zotero 
 
 ## Pause :coffee: ou :tea: ou :tropical_drink:
 
@@ -45,15 +45,16 @@ Qui êtes-vous d'un point de vue bibliographique?
 ---
 
 # Programme 2/2
-## Objectif 2 = Rédiger un document en générant automatiquement les citations et la bibliographie en fonction des standards propres à sa discipline
 
-5. Identifier et installer dans Zotero les styles bibliographiques de référence de sa discipline
-6. Exploiter sa bibliothèque Zotero pour la rédaction bibliographique
+_Objectif 2 = Rédiger un document en générant automatiquement les citations et la bibliographie en fonction des standards propres à sa discipline_
 
-## Objectif 3 : comprendre l'environnement de Zotero pour en optimiser et en augmenter l'usage
-7. Où vont vos données Zotero?
-8. Exemple d'un module complémentaire :  ZotFile
-9.  Conclusion
+## 5. Identifier et installer dans Zotero les styles bibliographiques de référence de sa discipline
+## 6. Exploiter sa bibliothèque Zotero pour la rédaction bibliographique
+
+_Objectif 3 : comprendre l'environnement de Zotero pour en optimiser et en augmenter l'usage_
+## 7. Où vont vos données Zotero?
+## 8. Exemple d'un module complémentaire :  ZotFile
+## 9.  Conclusion
 
 ---
 
@@ -67,7 +68,7 @@ La plupart des ressources citées proviennent de :
 * La documentation officielle de Zotero : https://www.zotero.org/support/ en :gb:  ou en :fr: 
 * Le blog Zotero francophone : https://zotero.hypotheses.org
 
-Autres supports de formation Urfist Bordeaux concernant Zotero :
+Autres supports de formation de l'Urfist Bordeaux concernant Zotero :
 * Modifier un style bibliographique :  [Créer des styles bibliographiques CSL](https://github.com/fflamerie/zotero_csl_2018)
 * Synchroniser sa bibliothèque et utiliser les groupes Zotero :  [Partager sa biblio avec Zotero](https://github.com/fflamerie/zotero_collaborative)
 
