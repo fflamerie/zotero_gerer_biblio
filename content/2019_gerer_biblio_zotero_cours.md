@@ -277,7 +277,7 @@ Dans la bibliographie : les références sont classées par **ordre d’appariti
 >
 ><span style="color:#0000CD;">22\.</span> van der Klei IJ, Harder W, Veenhuis M (1991) Methanol metabolism in a peroxisome-deficient mutant of Hansenula polymorpha: a physiological study. Arch Microbiol 156: 15-23.
 
-#### Les styles  _in-text_  numériques composites
+#### Les styles _in-text_ numériques composites
 Les styles numériques composites, dans lesquels une entrée bibliographique peut contenir plusieurs références, sont très utilisés en chimie.
 
 **Ce type de style n'est pas pris en charge par CSL, le langage dans lequel sont écrits les styles bibliographiques utilisés par Zotero.**
@@ -290,7 +290,7 @@ Dans la bibliographie :
 
 ><span style="color:#0000CD;">1\. a)</span> Zwart KB, et al. (1983) Antonie van Leeuwenhoek 49: 369-385, <span style="color:#0000CD;">b)</span> van der Klei IJ, et al. (1991) Arch Microbiol 156: 15-23.
 
-#### Les styles  _in-text_  auteur et auteur-date
+#### Les styles _in-text_ auteur et auteur-date
 Dans le texte : chaque référence citée est appelée par le **nom de l'auteur** ou **le nom de l'auteur et la date de publication**.
 
 > Yeast cells were grown at 25°C in batch cultures on 0.5% methanol for 36 hours <span style="color:#0000CD;">(van der Klei et al. 1991; Zwart et al. 1983)</span>
@@ -303,7 +303,7 @@ Dans la bibliographie : les références sont classées par **ordre alphabétiqu
 >
 >Zwart KB, Veenhuis M, Harder W (1983) Significance of yeast peroxisomes in the metabolism of choline and ethanolamine. Antonie Van Leeuwenhoek 49: 369-385.
 
-#### Les styles  _in-text_ label
+#### Les styles _in-text_ label
 Dans le texte : chaque référence citée est appelée par un **code**.
 
 >Yeast cells were grown at 25°C in batch cultures on 0.5% methanol for 36 hours <span style="color:#0000CD;">[ZwVH1983; vaHV1991]</span>.</cite>
