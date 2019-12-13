@@ -37,11 +37,11 @@ Dingemanse, M. (2018, mars). Collecting, organizing and citing scientific litera
    - [Ressources](#ressources)
 - [5. Identifier et installer dans Zotero les styles bibliographiques de référence de sa discipline](#5-identifier-et-installer-dans-zotero-les-styles-bibliographiques-de-référence-de-sa-discipline)
    - [Les types de style bibliographique](#les-types-de-style-bibliographique)
-      - [Les styles _in-text_ numériques](#les-styles-_in-text_-numériques)
-      - [Les styles  _in-text_  numériques composites](#les-styles-_in-text_-numériques-composites)
-      - [Les styles  _in-text_  auteur et auteur-date](#les-styles-_in-text_-auteur-et-auteur-date)
-      - [Les styles  _in-text_ label](#les-styles-_in-text_-label)
-      - [Les styles _note_](#les-styles-_note_)
+      - [Les styles _in-text_ numériques](#les-styles-in-text-numériques)
+      - [Les styles _in-text_ numériques composites](#les-styles-in-text-numériques-composites)
+      - [Les styles _in-text_ auteur et auteur-date](#les-styles-in-text-auteur-et-auteur-date)
+      - [Les styles _in-text_ label](#les-styles-in-text-label)
+      - [Les styles _note_](#les-styles-note)
    - [Comment choisir un style bibliographique lorsqu'aucun n'est imposé?](#comment-choisir-un-style-bibliographique-lorsquaucun-nest-imposé)
       - [Existence d'un modèle de référence](#existence-dun-modèle-de-référence)
       - [Typologie documentaire prise en charge](#typologie-documentaire-prise-en-charge)
@@ -52,11 +52,12 @@ Dingemanse, M. (2018, mars). Collecting, organizing and citing scientific litera
    - [Ressources](#ressources)
 - [7. Où vont vos données Zotero?](#7-où-vont-vos-données-zotero)
 - [8. Exemple d'un module complémentaire, ZotFile](#8-exemple-dun-module-complémentaire-zotfile)
-   - [Ressources](#ressources)
+   - [Ressources](#ressources)   
 - [9. Conclusion](#9-conclusion)
    - [Zotero est un logiciel libre](#zotero-est-un-logiciel-libre)
    - [Des questions?](#des-questions)
    - [Aller plus loin](#aller-plus-loin)
+      - [Configurer l'option "Rechercher dans la bibliothèque"](#configurer-loption-rechercher-dans-la-bibliothèque)
 
 <!-- /MDTOC -->
 
@@ -448,11 +449,13 @@ Vous trouverez davantage de détails et des exemples concernant cette questions 
 
 ### Des questions?
 
-* Lisez la **documentation**! Certaines pages sont disponibles uniquement en anglais, mais la documentation est exhaustive et détaillée. Nous vous recommandons comme point de départ la page d'accueil de la documentation en anglais : https://www.zotero.org/support/. Sur chacune des pages, la mention `fr` grisée ou noire vous indiquera si une version en français est disponible.
+* Lisez la **documentation**! Certaines pages sont disponibles uniquement en anglais, mais la documentation est exhaustive et détaillée. Nous vous recommandons comme point de départ la page d'accueil de la documentation : https://www.zotero.org/support/fr. Ensuite, sur chacune des pages que vous consulterez, la mention `fr` grisée ou noire vous indiquera si une version en français est disponible.
 * Vous rencontrez une difficulté? Vous n'êtes probablement pas le premier ni le seul, consultez le **forum** et créez si besoin une nouvelle discussion : [Forum Zotero](https://forums.zotero.org/)
 * Vos bibliothécaires sont là pour vous aider également.
 
 Vous trouverez davantage de détails et des exemples concernant cette questions dans le billet du blog Zotero francophone : [Besoin d'aide?](https://zotero.hypotheses.org/1192)
+
+![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Besoin d'aide ?](https://www.zotero.org/support/fr/getting_help)
 
 ### Aller plus loin
 
@@ -460,7 +463,27 @@ Nous avons parcouru les principale fonctionnalités de Zotero, mais Zotero peut 
 
 Vous trouverez un premier ensemble de trucs et astuces pour optimiser et augmenter votre usage de Zotero dans le billet du blog Zotero francophone [Un été avec Zotero](https://zotero.hypotheses.org/1840).
 
-Dans la documentation Zotero, la rubrique [Getting the Most out of Zotero](https://www.zotero.org/support/start) constitue un bon point de départ pour explorer toutes les potentialités du logiciel.
+Dans la documentation Zotero, la rubrique [Tirer le meilleur parti de Zotero](https://www.zotero.org/support/fr/start) constitue un bon point de départ pour explorer toutes les potentialités du logiciel.
+
+#### Configurer l'option "Rechercher dans la bibliothèque"
+
+Dans cette rubrique "Tirer le meilleur parti de Zotero", le paramétrage de l'OpenURL de votre institution de recherche est un exemple de réglage complémentaire simple à effectuer et source de gain de temps et  d'efficacité pour localiser le texte intégral d'une ressource et y accéder.
+
+Pour chacun des établissements du réseau documentaire bordelais, vous trouverez ci-dessous l'adresse OpenURL à renseigner dans le champ `Résolveur des liens` accessible depuis les "Préférences > Avancées > Générales".
+
+| Etablissement   |     URL OpenURL |
+|----------|-------------|
+| Université de Bordeaux | https://babordplus.hosted.exlibrisgroup.com/openurl/33PUDB_UB/33PUDB_UB_VU1 |
+| Université Bordeaux Montaigne |   https://babordplus.hosted.exlibrisgroup.com/openurl/33PUDB_UBM/33PUDB_UBM_VU1 |
+| Sciences Po Bordeaux | https://babordplus.hosted.exlibrisgroup.com/openurl/33PUDB_IEP/33PUDB_IEP_VU1 |
+| INP Bordeaux |https://babordplus.hosted.exlibrisgroup.com/openurl/33PUDB_INP/33PUDB_INP_VU1 |
+| Bordeaux Sciences Agro | https://babordplus.hosted.exlibrisgroup.com/openurl/33PUDB_BXSA/33PUDB_BXSA_VU1 |
+
+![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Menu Localiser](https://www.zotero.org/support/fr/locate)
+
+![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Liste des résolveurs de liens > Europe (page en anglais)](https://www.zotero.org/support/locate/openurl_resolvers#europe)
+
+
 
 # Crédits
 
