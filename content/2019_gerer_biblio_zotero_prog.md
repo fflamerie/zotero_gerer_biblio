@@ -65,7 +65,7 @@ La présentation s'inspire beaucoup, pour sa structure comme pour son contenu de
 Dingemanse, M. (2018, mars). Collecting, organizing and citing scientific literature : An intro to Zotero. Repéré à https://speakerdeck.com/markding/collecting-organizing-and-citing-scientific-literature-an-intro-to-zotero [sous licence CC-BY]
 
 La plupart des ressources citées proviennent de :
-* La documentation officielle de Zotero : https://www.zotero.org/support/ en :gb:  ou en :fr: 
+* La documentation officielle de Zotero : https://www.zotero.org/support/fr en :gb:  ou en :fr: 
 * Le blog Zotero francophone : https://zotero.hypotheses.org
 
 Autres supports de formation de l'Urfist Bordeaux concernant Zotero :
