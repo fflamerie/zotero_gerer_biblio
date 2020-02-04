@@ -9,6 +9,7 @@ Dingemanse, M. (2018, mars). Collecting, organizing and citing scientific litera
 
 <!-- MDTOC maxdepth:3 firsth1:0 numbering:0 flatten:0 bullets:1 updateOnSave:0 -->
 
+- [Sommaire](#sommaire)
 - [1. Introduction](#1-introduction)
    - [Peut-être procédez-vous de la façon suivante?](#peut-être-procédez-vous-de-la-façon-suivante)
       - [Etape 01, collecter la biblio](#etape-01-collecter-la-biblio)
@@ -52,7 +53,7 @@ Dingemanse, M. (2018, mars). Collecting, organizing and citing scientific litera
    - [Ressources](#ressources)
 - [7. Où vont vos données Zotero?](#7-où-vont-vos-données-zotero)
 - [8. Exemple d'un module complémentaire, ZotFile](#8-exemple-dun-module-complémentaire-zotfile)
-   - [Ressources](#ressources)   
+   - [Ressources](#ressources)
 - [9. Conclusion](#9-conclusion)
    - [Zotero est un logiciel libre](#zotero-est-un-logiciel-libre)
    - [Des questions?](#des-questions)
@@ -112,9 +113,9 @@ Robles, J. S. (2019, 26 août). Me when I have to go back to writing to change t
 
 ### Ressources
 
-![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Installation](https://www.zotero.org/support/fr/installation) - en français ![icone_fr](img/icone_fr.png)
+![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Installation](https://www.zotero.org/support/fr/installation) - en français
 
-![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Préférences](https://www.zotero.org/support/fr/preferences) - en français ![icone_fr](img/icone_fr.png)
+![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Préférences](https://www.zotero.org/support/fr/preferences) - en français
 
 ### Configuration minimale recommandée
 
@@ -122,13 +123,13 @@ A ce stade, on se concentre sur les "Préférences > Générales".
 
 #### Rubrique "Gestion des fichiers"
 
-* Décochez la case "Faire une capture automatique de la page lors de la création de documents à partir de pages Web", pour éviter d'encombrer votre bibliothèque avec des captures de toutes les pages Web que vous enregistrerez.
-* Cochez la case "Joindre automatiquement les fichiers PDF associés lors de l'enregistrement d'un document", pour récupérer automatiquement les PDFs des articles lorsque vous êtes sur le site d'un éditeur ou tout autre site sur lequel le PDF est présent. Si vous êtes sur PubMed, Scopus ou une autre base de données bibliographiques, il faudra suivre le lien vers le site de l'éditeur pour enregistrer la référence bibliographique + le PDF de l'article. Et il faudra bien sûr, s'il s'agit d'une ressource payante, que votre institution soit abonnée.
-* Cochez la case "Récupérer automatiquement les métadonnées des PDF".
+* Décochez la case "**Faire une capture automatique de la page lors de la création de documents à partir de pages Web**", pour éviter d'encombrer votre bibliothèque avec des captures de toutes les pages Web que vous enregistrerez.
+* Cochez la case "**Joindre automatiquement les fichiers PDF associés lors de l'enregistrement d'un document**", pour récupérer automatiquement les PDFs des articles lorsque vous êtes sur le site d'un éditeur ou tout autre site sur lequel le PDF est présent. Si vous êtes sur PubMed, Scopus ou une autre base de données bibliographiques, il faudra suivre le lien vers le site de l'éditeur pour enregistrer la référence bibliographique + le PDF de l'article. Et il faudra bien sûr, s'il s'agit d'une ressource payante, que votre institution soit abonnée.
+* Cochez la case "**Récupérer automatiquement les métadonnées des PDF**".
 
 #### Rubrique "Divers"
 
-Décochez la case "Ajouter automatiquement aux documents des marqueurs à partir des mots-clés fournis" pour éviter de parasiter votre liste de marqueurs personnels avec tous les mots-clés associés aux documents que vous enregistrez. Variables en fonction de la source dont ils proviennent (mots-clés auteur, indexation sujet des catalogues de bibliothèque, etc.), ces termes accumulés peuvent en effet finir par produire une liste de termes redondants (synonymes, variantes diverses d'un même mot), difficile à exploiter de ce fait.
+Décochez la case "**Ajouter automatiquement aux documents des marqueurs à partir des mots-clés fournis**" pour éviter de parasiter votre liste de marqueurs personnels avec tous les mots-clés associés aux documents que vous enregistrez. Variables en fonction de la source dont ils proviennent (mots-clés auteur, indexation sujet des catalogues de bibliothèque, etc.), ces termes accumulés peuvent en effet finir par produire une liste de termes redondants (synonymes, variantes diverses d'un même mot), difficile à exploiter de ce fait.
 
 
 ## 3. Constituer sa bibliothèque Zotero en important des références bibliographiques depuis diverses sources et en leur associant des fichiers joints
@@ -172,7 +173,7 @@ Privilégiez les sources fiables et exhaustives pour créer ou compléter vos do
 
 #### Recommandation 2, anticiper les normes
 
-Renseignez-vous sur les exigences minimales en termes de rédaction bibliographique de votre domaine de recherche. Faut-il pour chaque livre enregistrer les date, lieu et éditeur commerciaux originaux? Si oui, recherchez-les et enregistrez-les en même temps que vous créez le document dans votre bibliothèque Zotero.
+Renseignez-vous sur les exigences minimales en termes de rédaction bibliographique de votre domaine de recherche. Faut-il pour chaque livre enregistrer les date, lieu et éditeur commercial originaux? Si oui, recherchez-les et enregistrez-les en même temps que vous créez le document dans votre bibliothèque Zotero.
 
 #### Recommandation 3, ne pas procrastiner
 
@@ -197,11 +198,11 @@ Nous faisons les points 1 et 2 ensemble.
 * Les sites que vous utilisez n'affichent pas l'icône Zotero ? Ou l'icône Zotero est affichée mais elle ne permet pas d'enregistrer des informations complètes? Testez **l'import .ris** sur Cairn, avec le chapitre suivant [la référence bibliographique est volontairement elliptique et non rédigée]:  Réglementation du temps de travail - par Yvan Loufrani - Dans Droit du travail. Outils et méthodes de management . URL directe Cairn UB : https://www-cairn-info.docelec.u-bordeaux.fr/droit-du-travail-outils-et-methodes-de-management--9782847699487-page-31.htm
 
 ### Ressources
-![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Ajouter des documents à Zotero](https://www.zotero.org/support/fr/adding_items_to_zotero) - en français ![icone_fr](img/icone_fr.png)
+![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Ajouter des documents à Zotero](https://www.zotero.org/support/fr/adding_items_to_zotero) - en français
 
-![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Ajouter des fichiers à votre bibliothèque Zotero](https://www.zotero.org/support/fr/attaching_files) - en français ![icone_fr](img/icone_fr.png)
+![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Ajouter des fichiers à votre bibliothèque Zotero](https://www.zotero.org/support/fr/attaching_files) - en français
 
-![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Récupérer les métadonnées des PDF](https://www.zotero.org/support/fr/retrieve_pdf_metadata) - en français ![icone_fr](img/icone_fr.png)
+![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Récupérer les métadonnées des PDF](https://www.zotero.org/support/fr/retrieve_pdf_metadata) - en français
 
 Billet du blog Zotero francophone : [Nettoyer les références collectées, quelques astuces](https://zotero.hypotheses.org/760)
 
@@ -235,15 +236,15 @@ Saunders, T. (2019, 13 février). Guide to Getting the Most out of Zotero. _Tom 
 
 ### Ressources
 
-![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Détection des doublons](https://www.zotero.org/support/fr/duplicate_detection) - en français ![icone_fr](img/icone_fr.png)
+![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Détection des doublons](https://www.zotero.org/support/fr/duplicate_detection) - en français
 
 ![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Collections and Tags](https://www.zotero.org/support/collections_and_tags)
 
-![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Rechercher](https://www.zotero.org/support/fr/searching) - en français ![icone_fr](img/icone_fr.png)
+![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Rechercher](https://www.zotero.org/support/fr/searching) - en français
 
-![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Tri](https://www.zotero.org/support/fr/sorting) - en français ![icone_fr](img/icone_fr.png)
+![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Tri](https://www.zotero.org/support/fr/sorting) - en français
 
-![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Notes](https://www.zotero.org/support/fr/notes) - en français ![icone_fr](img/icone_fr.png)
+![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Notes](https://www.zotero.org/support/fr/notes) - en français
 
 ![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Related](https://www.zotero.org/support/related)
 
@@ -359,9 +360,9 @@ Tous les styles "localisés" pour une langue autre que l'anglais comporte le nom
 
 ### Ressources
 
-![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Les styles bibliographiques](https://www.zotero.org/support/fr/styles) - en français ![icone_fr](img/icone_fr.png)
+![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Les styles bibliographiques](https://www.zotero.org/support/fr/styles) - en français
 
-![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Préférences > Citer](https://www.zotero.org/support/fr/preferences/cite) - en français ![icone_fr](img/icone_fr.png)
+![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Préférences > Citer](https://www.zotero.org/support/fr/preferences/cite) - en français
 
 Modifier un style bibliographique : support de formation Urfist Bordeaux : [Créer des styles bibliographiques CSL](https://github.com/fflamerie/zotero_csl_2018)
 
@@ -397,9 +398,9 @@ Le style bibliographique utilisé est un style auteur-date, le style **Elsevier 
 
 ### Ressources
 
-![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Créer des bibliographies](https://www.zotero.org/support/fr/creating_bibliographies) - en français ![icone_fr](img/icone_fr.png)
+![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Créer des bibliographies](https://www.zotero.org/support/fr/creating_bibliographies) - en français
 
-![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Modules de traitement de texte](https://www.zotero.org/support/fr/word_processor_integration) - en français ![icone_fr](img/icone_fr.png)
+![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Modules de traitement de texte](https://www.zotero.org/support/fr/word_processor_integration) - en français
 
 Si vous utilisez d'autres logiciels que Word ou LibreOffice :
 * Billet du blog Zotero francophone : [Zotero et LaTeX](https://zotero.hypotheses.org/762)
@@ -411,7 +412,7 @@ Support de formation Urfist Bordeaux : [Partager sa biblio avec Zotero](https://
 
 ## 7. Où vont vos données Zotero?
 
-![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Le répertoire de données Zotero](https://www.zotero.org/support/fr/zotero_data) - en français ![icone_fr](img/icone_fr.png)
+![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Le répertoire de données Zotero](https://www.zotero.org/support/fr/zotero_data) - en français
 
 ![icone_attention](img/icone_attention.png) 2 points de vigilance :
 * Assurez-vous que le répertoire de données Zotero fait bien partie des données que vous sauvegardez automatiquement et régulièrement.
@@ -431,11 +432,12 @@ Billet du blog Zotero francophone [ZotFile : un outil pour gérer vos PDF](https
 >
 > It puts hair-splitting editors out of business and lets scientists focus on real work
 
-> Zotero s'occupe de tout ce qui vous fait pleurer et maudire quand vous le faites manuellement.
->
-> Il prive de travail les éditeurs pinailleurs et permet aux scientifiques de se concentrer sur le travail réel.
+[_Zotero s'occupe de tout ce qui vous fait pleurer et maudire quand vous le faites manuellement._
+_Il prive de travail les éditeurs pinailleurs et permet aux scientifiques de se concentrer sur le travail réel._]
 
 Source : Dingemanse, M. (2018, mars). Collecting, organizing and citing scientific literature : An intro to Zotero. Repéré à https://speakerdeck.com/markding/collecting-organizing-and-citing-scientific-literature-an-intro-to-zotero
+
+
 
 ### Zotero est un logiciel libre
 
@@ -473,11 +475,11 @@ Pour chacun des établissements du réseau documentaire bordelais, vous trouvere
 
 | Etablissement   |     URL OpenURL |
 |----------|-------------|
-| Université de Bordeaux | https://babordplus.hosted.exlibrisgroup.com/openurl/33PUDB_UB/33PUDB_UB_VU1 |
-| Université Bordeaux Montaigne |   https://babordplus.hosted.exlibrisgroup.com/openurl/33PUDB_UBM/33PUDB_UBM_VU1 |
-| Sciences Po Bordeaux | https://babordplus.hosted.exlibrisgroup.com/openurl/33PUDB_IEP/33PUDB_IEP_VU1 |
-| INP Bordeaux |https://babordplus.hosted.exlibrisgroup.com/openurl/33PUDB_INP/33PUDB_INP_VU1 |
-| Bordeaux Sciences Agro | https://babordplus.hosted.exlibrisgroup.com/openurl/33PUDB_BXSA/33PUDB_BXSA_VU1 |
+| Université de Bordeaux | https://babordplus.hosted.exlibrisgroup.com/primo-explore/openurl?&Force_direct=false&vid=33PUDB_UB_VU1&institution=33PUDB_UB& |
+| Université Bordeaux Montaigne |   https://babordplus.hosted.exlibrisgroup.com/primo-explore/openurl?&Force_direct=false&vid=33PUDB_UBM_VU1&institution=33PUDB_UBM& |
+| Sciences Po Bordeaux | https://babordplus.hosted.exlibrisgroup.com/primo-explore/openurl?&Force_direct=false&vid=33PUDB_IEP_VU1&institution=33PUDB_IEP&|
+| INP Bordeaux |https://babordplus.hosted.exlibrisgroup.com/primo-explore/openurl?&Force_direct=false&vid=33PUDB_INP_VU1&institution=33PUDB_INP& |
+| Bordeaux Sciences Agro | https://babordplus.hosted.exlibrisgroup.com/primo-explore/openurl?&Force_direct=false&vid=33PUDB_BXSA_VU1&institution=33PUDB_BSA& |
 
 ![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Menu Localiser](https://www.zotero.org/support/fr/locate)
 
