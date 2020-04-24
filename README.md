@@ -1,6 +1,6 @@
 # Gérer facilement sa bibliographie avec Zotero
 
-Matériel de la formation ["Gérer facilement sa bibliographie avec Zotero"](https://sygefor.reseau-urfist.fr/#/training/8036/8943) à l'Urfist Bordeaux en 2019-2020.
+Matériel de la formation ["Gérer facilement sa bibliographie avec Zotero"](https://sygefor.reseau-urfist.fr/#/training/8036/8943) à l'Urfist Bordeaux.
 
 Le matériel est composé des éléments suivants.
 
@@ -37,7 +37,6 @@ L’enjeu du stage est de permettre aux participants de maîtriser l'interface e
 * Installer et configurer Zotero
 * Constituer sa bibliothèque Zotero : importer des références bibliographiques depuis diverses sources (bases de données en ligne, catalogues de bibliothèque, fichiers PDF, etc.) et leur associer des fichiers joints
 * Organiser sa bibliothèque Zotero : collections, marqueurs et recherches enregistrées
-* Organiser sa bibliothèque Zotero : gestion des fichiers joints avec ZotFile
 * Identifier et installer dans Zotero les styles bibliographiques de référence de sa discipline
 * Exploiter sa bibliothèque Zotero : rédaction bibliographique, modules Zotero pour Word et LibreOffice, Zotero et LaTeX, etc.
 
