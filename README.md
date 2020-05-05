@@ -5,9 +5,9 @@ Matériel de la formation ["Gérer facilement sa bibliographie avec Zotero"](htt
 Le matériel est composé des éléments suivants.
 
 
-* Document de cours - [md](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/2019_gerer_biblio_zotero_cours.md) et [pdf](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/2019_gerer_biblio_zotero_cours.pdf)
-* Programme (diaporama) - [md](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/2019_gerer_biblio_zotero_prog.md) et [pdf](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/2019_gerer_biblio_zotero_prog.pdf)
-* [Être ou ne pas être dans Zotero : quel choix pour vos PDF et autres fichiers joints ?](https://github.com/zfrancophone/zfrancophone-blog/tree/master/2019-09-zotfile) : schéma disponible aux formats .odg et .pdf, supplément au billet [ZotFile : un outil pour gérer vos PDF](https://zotero.hypotheses.org/2838) du blog Zotero francophone
+* Document de cours - [au format .md recommandé pour la consultation en ligne](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_COURS.md) et [au format .pdf](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_COURS.pdf)
+* Programme (diaporama) - [au format .md](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_PROG.md) et [au format .pdf](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_PROG.pdf)
+* Être ou ne pas être dans Zotero : quel choix pour vos PDF et autres fichiers joints ? - [schéma au format .odg](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_choix_gestion_fichiers.odg) et [schéma au format .png](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_choix_gestion_fichiers.png)
 * Exercices
   * TP ajouter des documents : [fichier .rdf à importer](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/tp_import/gerer_biblio_zotero_tp_import.rdf) et [fichier .rdf corrigé](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/tp_import/gerer_biblio_zotero_tp_import_COR.rdf), [liste de DOI](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/tp_import/test_import_doi.txt) - les PDF d'exemple ne correspondent pas tous à des publications en libre accès et n'ont donc pas été ajoutés
   * TP insérer des citations et une bibliographie : [fichier Word à modifier](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_tp_redac.docx), [fichier Word avec corrigé](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_tp_redac_COR.docx) et [fichier PDF avec corrigé](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_tp_redac_COR.pdf)
@@ -41,3 +41,4 @@ L’enjeu du stage est de permettre aux participants de maîtriser l'interface e
 * Exploiter sa bibliothèque Zotero : rédaction bibliographique, modules Zotero pour Word et LibreOffice, Zotero et LaTeX, etc.
 
 Le partage de références via les groupes Zotero ne fait pas partie du périmètre de la formation.
+
