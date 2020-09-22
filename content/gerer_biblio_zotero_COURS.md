@@ -236,7 +236,7 @@ Saunders, T. (2019, 13 février). Guide to Getting the Most out of Zotero. _Tom 
 
 ![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Détection des doublons](https://www.zotero.org/support/fr/duplicate_detection)
 
-![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Collections and Tags](https://www.zotero.org/support/collections_and_tags)
+![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Collections et marqueurs](https://www.zotero.org/support/fr/collections_and_tags)
 
 ![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Rechercher](https://www.zotero.org/support/fr/searching)
 
