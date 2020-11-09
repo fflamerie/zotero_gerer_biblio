@@ -375,7 +375,7 @@ Ce que fait Zotero :
 * en respectant de façon infaillible et minutieuse les règles de typographie et de ponctuation,
 * en triant correctement toutes les entrées de la bibliographie.
 
-Il vous évite ainsi d'effectuer ces tâches répétitives pour vous permettre de vous concentrer sur les apects de la citation qu'il ne prend pas en charge :
+Il vous évite ainsi d'effectuer ces tâches répétitives pour vous permettre de vous concentrer sur les aspects de la citation qu'il ne prend pas en charge :
 * la sélection des documents à citer,
 * la complétude et l'exactitude des informations bibliographiques à indiquer.
 
@@ -383,7 +383,6 @@ Zotero fait également ce qui suit.
 * Insérer dans n'importe quel document (courriel, fichier .pptx, etc.) des références bibliographiques correctement mises en forme par un simple glisser-déposer.
 * Créer des bibliographies indépendantes dans différents formats (.html, .rtf).
 * Créer des bibliographies dynamiques collaboratives en ligne, grâce à des bibliothèques partagées privées ou publiques.
-
 
 
 ### Exercice 6, utiliser le module Word de Zotero
@@ -460,7 +459,7 @@ Nous avons parcouru les principale fonctionnalités de Zotero, mais Zotero peut 
 
 Vous trouverez un premier ensemble de trucs et astuces pour optimiser et augmenter votre usage de Zotero dans le billet du blog Zotero francophone [Un été avec Zotero](https://zotero.hypotheses.org/1840).
 
-Dans la documentation Zotero, la rubrique [Tirer le meilleur parti de Zotero](https://www.zotero.org/support/fr/start) constitue un bon point de départ pour explorer toutes les potentialités du logiciel.
+![icone_zotero](img/icone_zotero.png) Dans la documentation Zotero, la rubrique [Tirer le meilleur parti de Zotero](https://www.zotero.org/support/fr/start) constitue un bon point de départ pour explorer toutes les potentialités du logiciel.
 
 #### Configurer l'option "Rechercher dans la bibliothèque"
 
