@@ -12,8 +12,11 @@ Matériel de la formation ["Gérer facilement sa bibliographie avec Zotero"](htt
 
 * :question: [Réponses aux questions posées au cours de la formation : récapitulatif](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/questions_reponses.md)
 
-## Cours en distanciel
-:point_right: prochainement disponible
+## Formation en distanciel
+
+* TRAME - [à consulter en ligne en html](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_distanciel_TRAME.md) et [à télécharger en PDF](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_distanciel_TRAME.pdf)
+* PREPARATION - fichier envoyés en :package: [zip](https://github.com/fflamerie/zotero_gerer_biblio/tree/master/content/zip_distanciel) une semaine avant la formation aux stagiaires 
+* [Mode d'emploi personnalisable au format .md](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_distanciel_mode_emploi.md) - une version PDF est incluse dans le zip cité précédemment
 
 ## Suppléments
 ### Gestion des PDF
