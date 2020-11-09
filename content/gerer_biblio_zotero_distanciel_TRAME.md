@@ -96,7 +96,7 @@ Pour éviter les confusions, vous travaillez dans votre bibliothèque personnell
 2. Vérifiez les documents importés : toutes les informations sont-elles exactes et complètes?
 3. Nous effectuons ensemble les mises à jour nécessaires.
 
-💡 **Conseil : vérifier et de modifier au fur et à mesure les documents que vous enregistrez dans votre bibliothèque, en vous assurant au préalable des informations bibliographiques que vous devez enregistrer.**
+💡 **Conseil : vérifiez et modifiez au fur et à mesure les documents que vous enregistrez dans votre bibliothèque, en vous assurant au préalable des informations bibliographiques que vous devez enregistrer.**
 
 Zotero propose des fonctions intelligentes pour rendre cela plus facile et plus rapide que d'effectuer chaque modification entièrement manuellement. Par exemple :
 
@@ -126,7 +126,7 @@ Nous nous concentrons sur les fonctionnalités les plus utiles lorsque l'on comm
 * les recherches -> rapide _vs._ avancée, immédiate _vs._ sauvegardée avec mise à jour dynamique,.
 * les notes.
 
-⚠️  Dans Zotero, l'icône associée à une **collection** est un dossier, mais les collections ressemblent plus à des **listes de lecture musicales** (pensez à iTunes, Spotify, etc.) qu'à des dossiers dans le système de fichiers de votre ordinateur.
+⚠️ Dans Zotero, l'icône associée à une **collection** est un dossier, mais les collections ressemblent plus à des **listes de lecture musicales** (pensez à iTunes, Spotify, etc.) qu'à des dossiers dans le système de fichiers de votre ordinateur.
 
 ### TP 3-1, démarrer avec l'organisation
 
@@ -169,7 +169,7 @@ Zotero fait également ce qui suit.
 * Créer des bibliographies indépendantes dans différents formats (.html, .rtf) : c'est le menu contextuel **Créer une bibliographie à partir des documents sélectionnés...**
 * Créer des bibliographies dynamiques collaboratives en ligne, grâce à des bibliothèques partagées privées ou publiques : c'est l'une des fonctionnalités des **groupes** Zotero.
 
-👉Le poste de commande est l'onglet _Citer_ des _Préférences_ de Zotero.
+👉 Le poste de commande est l'onglet _Citer_ des _Préférences_ de Zotero.
 
 ### TP 4-1, utiliser le module de traitement texte de Zotero
 
@@ -181,7 +181,7 @@ L'objectif est de reproduire exactement le modèle présenté dans le fichier `g
 
 Il nous faut pour ce faire :
 * un fichier de traitement de texte à éditer -> c'est le fichier `gerer_biblio_zotero_TP_redac.doc`
-* les documents Zotero correspondant aux références citées -> ce sont celles que nous avons importées dans le TP 2-3
+* les documents Zotero correspondant aux références citées -> ce sont ceux que nous avons importés dans le TP 2-3
 * le style bibliographique à appliquer -> il s'agit du style **Elsevier - Harvard (with titles)**.
 
 ## Conclusion
