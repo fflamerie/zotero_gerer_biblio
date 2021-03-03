@@ -50,7 +50,7 @@ Si l'installation du module de traitement de texte n'a pas fonctionné, vous pou
 
 * Pour rejoindre le groupe Zotero de la formation, rendez vous ensuite  à l'adresse suivante :
 
-https://www.zotero.org/groups/_VOTRE_GROUPE
+https://www.zotero.org/groups/VOTRE_GROUPE
 
 * Cliquez sur _Join_.
 
