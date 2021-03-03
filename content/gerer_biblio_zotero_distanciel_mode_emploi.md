@@ -1,22 +1,18 @@
-# Gérer facilement sa bibliographie avec Zotero : mode d'emploi formation en distanciel du 2020-11-18
+# Gérer facilement sa bibliographie avec Zotero : mode d'emploi formation en distanciel 2021
 
 Pendant cette formation, nous utiliserons plusieurs bibliothèques Zotero. Nous travaillerons notamment tous ensemble dans la même **bibliothèque de groupe** Zotero. Cela nous permettra de mettre en commun les exemples et facilitera l'identification et la résolution des éventuelles difficultés que vous pourrez rencontrer.
 
-Vous trouverez dans ce document les étapes à effectuer avant la formation. La durée initiale de 3h est maintenue, des temps de pause et de travail en autonomie sont prévus.
+Vous trouverez dans ce document les étapes à effectuer avant la formation.
 
 N'hésitez pas à me solliciter avant la formation si vous rencontrez des difficultés pour effectuer l'une des étapes décrites ci-dessous, nous pourrons ainsi résoudre votre problème individuel avant la formation.
 
-**Contact**:  _votre adresse de courriel_
+**Contact**: _votre adresse de messagerie_
 
-**Lien pour vous connecter à la visioconférence sur XXX** :
+## Support de formation complet
 
-_le lien vers votre visioconférence_
+* [Gérer facilement sa bibliographie avec Zotero - HTML](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_COURS.md)
+* [Gérer facilement sa bibliographie avec Zotero - PDF](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_COURS.pdf)
 
-ID de réunion : XXX
-Code secret : XXXX
-
-
-Vous souhaitez consulter le support de formation à l'avance? Vous pouvez consulter [le support prévu pour la formation en présentiel](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_COURS.md). Le contenu sera globalement le même, proposé selon un rythme différent et avec d'autres activités.
 
 ## Etape 1 : installez Zotero sur votre ordinateur
 
@@ -50,21 +46,55 @@ Si l'installation du module de traitement de texte n'a pas fonctionné, vous pou
 
 ## Etape 2 : créez votre compte Zotero et rejoignez le groupe Zotero de la formation
 
-* Créez  votre compte personnel sur le site zotero.org : https://www.zotero.org/user/register
+* Créez votre compte personnel sur le site zotero.org : https://www.zotero.org/user/register
 
 * Pour rejoindre le groupe Zotero de la formation, rendez vous ensuite  à l'adresse suivante :
 
-https://www.zotero.org/groups/NOM_DU_GROUPE
+https://www.zotero.org/groups/_VOTRE_GROUPE
 
 * Cliquez sur _Join_.
 
 * Je validerai ensuite votre inscription.
 
-**/!\\ Vous ne verrez pas encore apparaître ce groupe dans Zotero, car il faut pour cela activer la synchronisation Zotero. Nous effectuerons ensemble cette étape au début de la formation.**
+**/!\\ Vous ne verrez pas encore apparaître ce groupe dans Zotero.**
 
-## Etape 3 : enregistrez les fichiers de ce dossier
+Pour cela, il faut d'abord que  :
 
-Ce fichier zip contient des fichiers que nous utiliserons au cours de la formation pour des exercices pratiques.
+*  je valide votre inscription,
+*  vous activiez la synchronisation Zotero.
+
+ C'est l'étape suivante.
+
+## Etape 3 : paramétrer la synchronisation de Zotero
+
+ Pour faire apparaître la bibliothèque de groupe dans Zotero, vous devez configurer la synchronisation Zotero.
+
+ Ces paramètres sont accessibles depuis les _Préférences_ > _Synchronisation_.
+
+ Pour démarrer, nous nous en tenons aux paramètres suivants, après la saisie de votre nom d'utilisateur et de votre mot de passe.
+
+### Synchronisation des données
+
+ Cochez _Synchroniser automatiquement_.
+
+### Synchronisation des fichiers
+
+ * Ne cochez pas _Synchroniser les fichiers joints de ma bibliothèque en utilisant..._
+ * Cochez _Synchroniser les fichiers joints dans les bibliothèques en utilisant le stockage de Zotero_.
+
+ ![zotero_pref_sync](img/zotero_pref_sync.png)
+
+ ![zotero][zotero] [Documentation Zotero : Synchronisation](https://www.zotero.org/support/fr/sync)
+
+ Une fois la synchronisation activée, vous devriez voir apparaître une nouvelle rubrique "Bibliothèques de groupe" dans Zotero, en-dessous de "Ma bibliothèque".
+
+ Dans cette rubrique, devrait s'afficher la bibliothèque de groupe _URFISTbx_2021_ que vous venez de rejoindre.
+
+ ![zotero_bib_groupe](img/zotero_bib_groupe.png)
+
+## Etape 4 : enregistrez les fichiers de ce dossier
+
+Nous utiliserons les autres  fichiers contenus dans le fichier zip pour les exercices au cours de la formation.
 
 Aussi enregistrez-les à un emplacement auquel vous pourrez facilement les retrouver.
 
