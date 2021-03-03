@@ -88,7 +88,7 @@ Pour cela, il faut d'abord que  :
 
  Une fois la synchronisation activée, vous devriez voir apparaître une nouvelle rubrique "Bibliothèques de groupe" dans Zotero, en-dessous de "Ma bibliothèque".
 
- Dans cette rubrique, devrait s'afficher la bibliothèque de groupe _URFISTbx_2021_ que vous venez de rejoindre.
+ Dans cette rubrique, devrait s'afficher la bibliothèque de groupe de la formation que vous venez de rejoindre.
 
  ![zotero_bib_groupe](img/zotero_bib_groupe.png)
 
