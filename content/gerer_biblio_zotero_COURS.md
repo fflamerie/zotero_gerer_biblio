@@ -166,6 +166,7 @@ Quelle que soit la méthode que vous utilisez pour ajouter des documents dans vo
 #### Recommandation 1, choisir la bonne source
 
 Privilégiez les sources fiables et exhaustives pour créer ou compléter vos documents, c'est-à-dire :
+
 * les sites d'éditeur et les bases de données bibliographiques pour les articles de revue et les chapitres de livre (SpringerLink, Scopus, Cairn, etc. // évitez Google Scholar),
 * les catalogues de bibliothèques pour les livres (Babord+, Sudoc, WorldCat // évitez Amazon).
 
@@ -176,8 +177,6 @@ Renseignez-vous sur les exigences minimales en termes de rédaction bibliographi
 #### Recommandation 3, ne pas procrastiner
 
 Procédez aux ajouts et modifications tout de suite! Tant que vous avez le document sous la main et/ou que vous avez l'information à portée de clic.
-
-
 
 #### Exercice 3b, autres méthodes d'ajout et nettoyage des documents ajoutés
 
@@ -371,15 +370,18 @@ Modifier un style bibliographique : support de formation Urfist Bordeaux : [Cré
 ![zotero_cite](img/zotero_cite.png)
 
 Ce que fait Zotero :
+
 * mettre en forme automatiquement les citations et les bibliographies,
 * en respectant de façon infaillible et minutieuse les règles de typographie et de ponctuation,
 * en triant correctement toutes les entrées de la bibliographie.
 
 Il vous évite ainsi d'effectuer ces tâches répétitives pour vous permettre de vous concentrer sur les aspects de la citation qu'il ne prend pas en charge :
+
 * la sélection des documents à citer,
 * la complétude et l'exactitude des informations bibliographiques à indiquer.
 
 Zotero fait également ce qui suit.
+
 * Insérer dans n'importe quel document (courriel, fichier .pptx, etc.) des références bibliographiques correctement mises en forme par un simple glisser-déposer.
 * Créer des bibliographies indépendantes dans différents formats (.html, .rtf).
 * Créer des bibliographies dynamiques collaboratives en ligne, grâce à des bibliothèques partagées privées ou publiques.
@@ -402,6 +404,7 @@ Le style bibliographique utilisé est un style auteur-date, le style **Elsevier 
 ![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Modules de traitement de texte](https://www.zotero.org/support/fr/word_processor_integration)
 
 Si vous utilisez d'autres logiciels que Word ou LibreOffice :
+
 * Billet du blog Zotero francophone : [Zotero et LaTeX](https://zotero.hypotheses.org/762)
 * Billet du blog Zotero francophone : [Markdown et Zotero](https://zotero.hypotheses.org/2258)
 
@@ -414,6 +417,7 @@ Support de formation Urfist Bordeaux : [Partager sa biblio avec Zotero](https://
 ![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Le répertoire de données Zotero](https://www.zotero.org/support/fr/zotero_data)
 
 **/!\\** 2 points de vigilance :
+
 * Assurez-vous que le répertoire de données Zotero fait bien partie des données que vous sauvegardez automatiquement et régulièrement.
 * Si vous avez un profil itinérant Windows, déplacez votre répertoire de données Zotero à un autre emplacement, comme dans l'exemple ci-dessous.
 
@@ -445,7 +449,7 @@ Vous trouverez davantage de détails et des exemples concernant cette questions 
 
 ### Des questions?
 
-* Lisez la **documentation**! Certaines pages sont disponibles uniquement en anglais, mais la documentation est exhaustive et détaillée. Nous vous recommandons comme point de départ la page d'accueil de la documentation : https://www.zotero.org/support/fr. Ensuite, sur chacune des pages que vous consulterez, la mention `fr` grisée ou noire vous indiquera si une version en français est disponible.
+* Lisez la **documentation**! Certaines pages sont disponibles uniquement en anglais, mais la documentation est exhaustive et détaillée. Nous vous recommandons comme point de départ la page d'accueil de la documentation : https://www.zotero.org/support/fr. Ensuite, sur chacune des pages que vous consulterez, la présence de la mention `fr` vous indiquera si une version en français est disponible.
 * Vous rencontrez une difficulté? Vous n'êtes probablement pas le premier ni le seul, consultez le **forum** et créez si besoin une nouvelle discussion : [Forum Zotero](https://forums.zotero.org/)
 * Vos bibliothécaires sont là pour vous aider également.
 
