@@ -469,7 +469,7 @@ Vous trouverez un premier ensemble de trucs et astuces pour optimiser et augment
 
 Dans cette rubrique "Tirer le meilleur parti de Zotero", le paramétrage de l'OpenURL de votre institution de recherche est un exemple de réglage complémentaire simple à effectuer et source de gain de temps et  d'efficacité pour localiser le texte intégral d'une ressource et y accéder.
 
-Dans l'onglet **_Avancées_ > _Générales_** des préférences de Zotero, dans la rubrique **_OpenURL_**, ouvrez le menu déroulant de la et naviguez dans la liste géographique pour sélectionner votre établissement.
+Dans l'onglet **_Avancées_ > _Générales_** des préférences de Zotero, dans la rubrique **_OpenURL_**, ouvrez le menu déroulant et naviguez dans la liste géographique pour sélectionner votre établissement.
 
 ![zotero_openurl](img/zotero_openurl.png)
 
