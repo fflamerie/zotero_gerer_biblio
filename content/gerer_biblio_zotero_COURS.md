@@ -355,7 +355,7 @@ Citez-vous de nombreux types de documents différents? Tous les styles ne prenne
 #### Langue de rédaction
 Rédigez-vous seulement en français? Seulement dans une autre langue? Dans différentes langues selon les cas? Si certains styles sont agnostiques du point de vue de la langue, d'autres ont au contraire une langue prédéfinie qui ne peut pas être modifiée. Ainsi le style _Nature_ est-il paramétré uniquement pour la langue anglaise, selon la norme britannique.
 
-Tous les styles "localisés" pour une langue autre que l'anglais comporte le nom de cette langue dans leur intitulé. Ainsi, rechercher **french** dans l'entrepôt des styles Zotero affichera uniquement les styles localisés pour la langue française. Les styles sans mention de langue sont soit "localisés" en anglais, soit agnostiques du point de vue de la langue.
+Tous les styles "localisés" pour une langue autre que l'anglais comporte le nom de cette langue dans leur intitulé. Ainsi, rechercher **français** dans l'entrepôt des styles Zotero affichera uniquement les styles localisés pour la langue française. Les styles sans mention de langue sont soit "localisés" en anglais, soit agnostiques du point de vue de la langue.
 
 ### Ressources
 
@@ -469,19 +469,17 @@ Vous trouverez un premier ensemble de trucs et astuces pour optimiser et augment
 
 Dans cette rubrique "Tirer le meilleur parti de Zotero", le paramétrage de l'OpenURL de votre institution de recherche est un exemple de réglage complémentaire simple à effectuer et source de gain de temps et  d'efficacité pour localiser le texte intégral d'une ressource et y accéder.
 
-Pour chacun des établissements du réseau documentaire bordelais, vous trouverez ci-dessous l'adresse OpenURL à renseigner dans le champ `Résolveur des liens` accessible depuis les "Préférences > Avancées > Générales".
+Dans l'onglet **_Avancées_ > _Générales_** des préférences de Zotero, dans la rubrique **_OpenURL_**, ouvrez le menu déroulant de la et naviguez dans la liste géographique pour sélectionner votre établissement.
 
-| Etablissement   |     URL OpenURL |
-|----------|-------------|
-| Université de Bordeaux | https://babordplus.hosted.exlibrisgroup.com/primo-explore/openurl?&Force_direct=false&vid=33PUDB_UB_VU1&institution=33PUDB_UB& |
-| Université Bordeaux Montaigne |   https://babordplus.hosted.exlibrisgroup.com/primo-explore/openurl?&Force_direct=false&vid=33PUDB_UBM_VU1&institution=33PUDB_UBM& |
-| Sciences Po Bordeaux | https://babordplus.hosted.exlibrisgroup.com/primo-explore/openurl?&Force_direct=false&vid=33PUDB_IEP_VU1&institution=33PUDB_IEP&|
-| INP Bordeaux |https://babordplus.hosted.exlibrisgroup.com/primo-explore/openurl?&Force_direct=false&vid=33PUDB_INP_VU1&institution=33PUDB_INP& |
-| Bordeaux Sciences Agro | https://babordplus.hosted.exlibrisgroup.com/primo-explore/openurl?&Force_direct=false&vid=33PUDB_BXSA_VU1&institution=33PUDB_BSA& |
+![zotero_openurl](img/zotero_openurl.png)
+
+Cela vous permettra de générer la page de Babord+ d'un document à partir de votre bibliothèque Zotero. Cette page Babord+ affiche toutes les options d'accès de l'université de Bordeaux, et vous pourrez ainsi trouver des PDF que Zotero ne sera pas parvenu à télécharger automatiquement.
+
+Il vous suffira pour cela de cliquer sur _Recherche dans la bibliothèque_, accessible depuis **le menu _Localiser_**, c'est-à-dire la flèche verte en haut du volet de droite dans votre bibliothèque Zotero.
 
 ![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Menu Localiser](https://www.zotero.org/support/fr/locate)
 
-![icone_zotero](img/icone_zotero.png) [Documentation Zotero : Liste des résolveurs de liens > Europe (page en anglais)](https://www.zotero.org/support/locate/openurl_resolvers#europe)
+
 
 #### Ajouter des moteurs de recherche intégrés à Zotero
 
