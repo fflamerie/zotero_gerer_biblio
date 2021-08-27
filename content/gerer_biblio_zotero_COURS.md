@@ -473,7 +473,7 @@ Dans l'onglet **_Avancées_ > _Générales_** des préférences de Zotero, dans 
 
 ![zotero_openurl](img/zotero_openurl.png)
 
-Cela vous permettra de générer la page de Babord+ d'un document à partir de votre bibliothèque Zotero. Cette page Babord+ affiche toutes les options d'accès de l'université de Bordeaux, et vous pourrez ainsi trouver des PDF que Zotero ne sera pas parvenu à télécharger automatiquement.
+Cela vous permettra de générer la page de Babord+ d'un document à partir de votre bibliothèque Zotero. Cette page Babord+ affiche toutes les options d'accès disponibles dans votre établissement, et vous pourrez ainsi trouver des PDF que Zotero ne sera pas parvenu à télécharger automatiquement.
 
 Il vous suffira pour cela de cliquer sur _Recherche dans la bibliothèque_, accessible depuis **le menu _Localiser_**, c'est-à-dire la flèche verte en haut du volet de droite dans votre bibliothèque Zotero.
 
