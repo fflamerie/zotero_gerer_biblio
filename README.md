@@ -1,6 +1,6 @@
 # Gérer facilement sa bibliographie avec Zotero
 
-Matériel de la formation ["Gérer facilement sa bibliographie avec Zotero"](https://sygefor.reseau-urfist.fr/#/training/8036/8943) à l'Urfist Bordeaux.
+Matériel de la formation ["Gérer facilement sa bibliographie avec Zotero"](https://sygefor.reseau-urfist.fr/#/training/9053/10462) à l'Urfist Bordeaux.
 
 ## Formation en présentiel
 
