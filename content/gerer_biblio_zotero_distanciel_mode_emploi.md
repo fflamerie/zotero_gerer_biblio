@@ -1,4 +1,4 @@
-# Gérer facilement sa bibliographie avec Zotero : mode d'emploi formation en distanciel 2021
+# Gérer facilement sa bibliographie avec Zotero : mode d'emploi formation en distanciel
 
 Pendant cette formation, nous utiliserons plusieurs bibliothèques Zotero. Nous travaillerons notamment tous ensemble dans la même **bibliothèque de groupe** Zotero. Cela nous permettra de mettre en commun les exemples et facilitera l'identification et la résolution des éventuelles difficultés que vous pourrez rencontrer.
 
@@ -19,6 +19,8 @@ N'hésitez pas à me solliciter avant la formation si vous rencontrez des diffic
 ![zotero][zotero] [Site web Zotero : Télécharger Zotero](https://www.zotero.org/download/)
 
 Vous devez installer à la fois l'application Zotero **ET** le connecteur Zotero adapté à votre navigateur (Chrome, Firefox ou Edge).
+
+**/!\ Safari n'est pas entièrement compatible avec Zotero aussi son utilisation est-elle déconseillée.**
 
 ![zotero_install](img/zotero_instal.png)
 
