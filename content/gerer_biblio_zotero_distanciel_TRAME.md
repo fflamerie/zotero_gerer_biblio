@@ -1,4 +1,4 @@
-# Gérer facilement sa bibliographie avec Zotero : modalité en distanciel
+# Gérer facilement sa bibliographie avec Zotero : feuille de route
 
 ## Objectifs
 
@@ -27,8 +27,6 @@ Qui êtes-vous d'un point de vue bibliographique?
 1. Utilisez-vous déjà un logiciel de gestion bibliographique? Si oui lequel?
 2. Quelles **sources** utilisez-vous pour effectuer vos recherches bibliographiques?
 3. Quels **types de documents** souhaitez-vous pouvoir enregistrer dans votre bibliothèque Zotero et citer?
-
-👉 N'hésitez pas à ajouter dans la conversation Zoom des questions ou des points précis auxquels vous souhaiteriez que nous apportions une réponse.
 
 ## 1. Constituer sa bibliothèque Zotero en important des références bibliographiques depuis diverses sources et en leur associant des fichiers joints
 
@@ -60,15 +58,6 @@ En naviguant sur les sites que vous utilisez habituellement pour vos recherches 
 5. [Ajouter des PDF et d'autres fichiers](https://www.zotero.org/support/fr/adding_items_to_zotero#ajouter_des_pdf_et_d_autres_fichiers) -> test possible TP 1-3
 6. [Imports massifs depuis des bases de données](https://www.zotero.org/support/fr/adding_items_to_zotero#imports_massifs_depuis_des_bases_de_donnees)
 
-### TP 1-2, vérifier et corriger les documents enregistrés
-
-Nous prenons **15 minutes** pour faire cette activité ensemble.
-
-Pour éviter les confusions, vous travaillez dans votre bibliothèque personnelle `Ma bibliothèque`; je continue à alimenter la bibliothèque de groupe de la formation.
-
-1. Importez dans la bibliothèque Zotero le fichier `zotero_TP_import.rdf`
-2. Vérifiez les documents importés : toutes les informations sont-elles exactes et complètes?
-3. Nous effectuons ensemble les mises à jour nécessaires.
 
 💡 **Conseil : vérifiez et modifiez au fur et à mesure les documents que vous enregistrez dans votre bibliothèque, en vous assurant au préalable des informations bibliographiques que vous devez enregistrer.**
 
@@ -78,7 +67,7 @@ Zotero propose des fonctions intelligentes pour rendre cela plus facile et plus 
 * cliquez avec le bouton droit de la souris sur le contenu d'un champ `Titre` pour transformer le texte avec toutes les _Initiales en Majuscules_ ou seulement une _Lettre capitale en début de phrase_  (et inversement),
 * etc.
 
-### TP 1-3, tester une autre méthode d'import dans Zotero
+### TP 1-2, tester une autre méthode d'import dans Zotero
 
 Nous prenons **15 minutes** pour cette activité.
 
