@@ -9,19 +9,19 @@ Matériel de la formation ["Gérer facilement sa bibliographie avec Zotero"](htt
 * Comprendre l'environnement de Zotero pour en optimiser et en augmenter l'usage
 
 ## Cours
-* Feuille de route : les principales étapes de la séance de formation - [TRAME à consulter en ligne en html](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_distanciel_TRAME.md) et [TRAME à télécharger en PDF](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_distanciel_TRAME.pdf)
-* Support de cours complet - [COURS à consulter en ligne en html](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_COURS.md) - [COURS à télécharger en PDF](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_COURS.pdf)
+Support de cours complet :
+* [COURS à consulter en ligne en html](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_COURS.md) 
+* [COURS à télécharger en PDF](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_COURS.pdf)
 
 ## Exercices
 ### Exercice 1 : ajouter des documents dans sa bibliothèque Zotero
-  * [fichier .RDF à importer](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/tp_import/gerer_biblio_zotero_tp_import.rdf) et [fichier .RDF corrigé](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/tp_import/gerer_biblio_zotero_tp_import_COR.rdf)
-  * [liste de DOI](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/tp_import/test_import_doi.txt)
-  * [fichiers .PDF à importer](https://github.com/fflamerie/zotero_gerer_biblio/tree/master/content/zip_distanciel/gerer_biblio_zotero_TP_import_testPDF)
+  * [liste de DOI](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/zotero_gerer_biblio_import-DOI.txt)
+  * [fichiers .PDF à importer](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/import-PDF)
  
 ### Exercice 2 : citer avec Zotero
 
-* [fichier .DOC à modifier](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/zotero_TP_citer_EXERCICE.doc) 
-* [fichier .PDF modèle](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/zotero_TP_citer_MODELE.pdf)
+* [fichier .DOC à modifier](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/zotero_gerer_biblio_TP_citer_EXERCICE.doc) 
+* [fichier .PDF modèle](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/zotero_gerer_biblio_TP_citer_MODELE.pdf)
 
 
 ## Suppléments
@@ -33,12 +33,6 @@ Matériel de la formation ["Gérer facilement sa bibliographie avec Zotero"](htt
 
 :card_file_box: Trucs et astuces pour optimiser l'utilisation de Zotero dans le contexte d'une revue de littérature ou d'une revue systématique : [à consulter en ligne en html](https://github.com/fflamerie/zotero_intro_FR/blob/master/content/zotero_truc_syst.md) - [à télécharger en PDF](https://github.com/fflamerie/zotero_intro_FR/blob/master/content/zotero_truc_syst.pdf)
 
-## Modalité à distance
-
-Lorsque cette formation est organisée à distance en visioconférence, il est demandé aux stagiaires d'installer au préalable Zotero sur leur ordinateur et de rejoindre une bibliothèque de groupe dédiée pour le stage.
-
-* [Fichiers envoyés en zip](https://github.com/fflamerie/zotero_gerer_biblio/tree/master/content/zip_distanciel) :package: une semaine avant la formation aux stagiaires 
-* [Mode d'emploi personnalisable au format .md](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_distanciel_mode_emploi.md) - une version PDF est incluse dans le zip cité précédemment
 
 ## Programme de la formation publié sur le site de l'Urfist
 
