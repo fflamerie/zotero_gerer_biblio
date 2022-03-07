@@ -29,9 +29,9 @@ Support de cours complet :
 
 Être ou ne pas être dans Zotero : quel choix pour vos PDF et autres fichiers joints ? - [schéma au format .odg](https://github.com/zfrancophone/zfrancophone-blog/blob/master/2019-09-zotfile/zotero_choix_gestion_fichiers.odg) et [schéma au format .pdf](https://github.com/zfrancophone/zfrancophone-blog/blob/master/2019-09-zotfile/zotero_choix_gestion_fichiers.pdf)
 
-### Zotero pour une revue de littérature ou une revue systématiques
+### Zotero pour une revue de littérature 
 
-:card_file_box: Trucs et astuces pour optimiser l'utilisation de Zotero dans le contexte d'une revue de littérature ou d'une revue systématique : [à consulter en ligne en html](https://github.com/fflamerie/zotero_intro_FR/blob/master/content/zotero_truc_syst.md) - [à télécharger en PDF](https://github.com/fflamerie/zotero_intro_FR/blob/master/content/zotero_truc_syst.pdf)
+:card_file_box: Trucs et astuces pour optimiser l'utilisation de Zotero dans le contexte d'une revue de littérature : [à consulter en ligne en html](https://github.com/fflamerie/zotero_intro_FR/blob/master/content/zotero_truc_syst.md) - [à télécharger en PDF](https://github.com/fflamerie/zotero_intro_FR/blob/master/content/zotero_truc_syst.pdf)
 
 
 ## Programme de la formation publié sur le site de l'Urfist
