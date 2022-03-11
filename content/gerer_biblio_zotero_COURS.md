@@ -63,7 +63,7 @@ Zotero permet de résoudre les difficultés suivantes que l'on peut rencontrer l
 
 #### Note concernant Safari
 
-Pourquoi Safari est-il barré ? La compatibilité avec Safari est malheureusement réuite.
+Pourquoi Safari est-il barré ? La compatibilité avec Safari est malheureusement réduite.
 
 De plus, le connecteur Zotero existant pour Safari 13 est beaucoup plus limité que celui pour Firefox, Chrome ou Edge. Par exemple, il ne prend pas en charge les fonctionnalités avancées telles que la **détection automatique de proxy** et **l'importation automatique de RIS/BibTeX**.
 
