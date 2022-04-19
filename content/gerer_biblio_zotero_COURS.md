@@ -17,7 +17,7 @@
 - [1. Introduction](#1-introduction)   
 - [2. Installer et configurer Zotero](#2-installer-et-configurer-zotero)   
 - [3. Constituer sa bibliothèque Zotero étape 1, ajouter des documents et des fichiers](#3-constituer-sa-bibliothèque-zotero-étape-1-ajouter-des-documents-et-des-fichiers)   
-- [4. Constituer sa bibliothèque Zotero étape 2, organiser le contenu](#4-constituer-sa-bibliothèque-zotero-étape-2-organiser-le-contenu)   
+- [4. Constituer sa bibliothèque Zotero étape 2, organiser le contenu, des références bibliographiques aux annotations de PDF](#4-constituer-sa-bibliothèque-zotero-étape-2-organiser-le-contenu-des-références-bibliographiques-aux-annotations-de-pdf)   
 - [5. Identifier et installer dans Zotero les styles bibliographiques de référence de son domaine](#5-identifier-et-installer-dans-zotero-les-styles-bibliographiques-de-référence-de-son-domaine)   
 - [6. Citer avec Zotero](#6-citer-avec-zotero)   
 - [7.  De la bibliothèque Zotero à la bibliographie en ligne](#7-de-la-bibliothèque-zotero-à-la-bibliographie-en-ligne)   
@@ -118,8 +118,8 @@ Voici quelques recommandations pour démarrer. Tous les paramétrages sont acces
 
 Rubrique "Gestion des fichiers"
 
-* Décochez la case "**Faire une capture automatique de la page lors de la création de documents à partir de pages Web**", pour éviter d'encombrer votre bibliothèque avec des captures de toutes les pages Web que vous enregistrerez.
-* Cochez la case "**Joindre automatiquement les fichiers PDF associés lors de l'enregistrement d'un document**", pour récupérer automatiquement les PDFs des articles lorsque vous êtes sur le site d'un éditeur ou tout autre site sur lequel le PDF est présent. Si vous êtes sur PubMed, Scopus ou une autre base de données bibliographiques, il faudra suivre le lien vers le site de l'éditeur pour enregistrer la référence bibliographique + le PDF de l'article. Et il faudra bien sûr, s'il s'agit d'une ressource payante, que votre institution soit abonnée.
+* Décochez la case "**Faire une capture automatique de la page lors de la création de documents à partir de pages Web**", pour éviter d'encombrer votre bibliothèque avec des captures de toutes les pages Web à partir desquelles vous enregistrerez des documents dans votre bibliothèque Zotero.
+* Cochez la case "**Joindre automatiquement les fichiers PDF associés lors de l'enregistrement d'un document**", pour récupérer automatiquement les PDFs des articles lorsque vous êtes sur le site d'un éditeur ou tout autre site sur lequel le PDF est présent. Si vous êtes sur PubMed, Scopus ou une autre base de données bibliographiques, il faudra suivre le lien vers le site de l'éditeur pour enregistrer la référence bibliographique et le PDF de l'article en même temps. Et il faudra bien sûr, s'il s'agit d'une ressource payante, que votre institution soit abonnée.
 * Cochez la case "**Récupérer automatiquement les métadonnées des PDF**".
 
 #### Onglet "Synchronisation"
@@ -143,7 +143,7 @@ Cochez _Synchroniser automatiquement_.
 
 ##### Synchronisation des fichiers
 
-* Ne cochez pas _Synchroniser les fichiers joints de ma bibliothèque en utilisant..._
+* Décochez _Synchroniser les fichiers joints de ma bibliothèque en utilisant..._, sauf si vous avez vous-même coché cette case antérieurement et paramétré le service à utiliser pour la synchronisation de vos fichiers joints.
 * Cochez _Synchroniser les fichiers joints dans les bibliothèques en utilisant le stockage de Zotero_.
 
 ![zotero_pref_sync](img/zotero_pref_sync.png)
@@ -185,7 +185,7 @@ Nous prenons **10 minutes** pour cette activité.
 
 En naviguant sur les sites que vous utilisez habituellement pour vos recherches bibliographiques, enregistrez de nouveaux documents dans la collection à votre nom dans la bibliothèque de groupe du stage.
 
-Vous pouvez enregistrer des livres, des liens vers des pages web ou encore des articles de presse ou de magazine, le tout est de tester l'enregistrement dans Zotero depuis les sites que vous consultez. Ajoutez des fichiers (pdf, jpg ou autres) si applicable.
+Vous pouvez enregistrer des livres, de articles de revue, des thèses, ou encore des liens vers des pages web, des articles de presse ou de magazine, le tout est de tester l'enregistrement dans Zotero depuis les sites que vous consultez. Ajoutez des fichiers (pdf, jpg ou autres) si applicable.
 
 
 ### Toutes les méthodes d'ajout
@@ -210,7 +210,8 @@ Les identifiants pris en charge sont les suivants :
 * DOI,
 * ISBN,
 * identifiant PubMed, le PMID,
-* identifiant arXiv Id.
+* identifiant arXiv Id,
+* bibcode ADS.
 
 Si vous disposez d'un fichier Excel comportant une colonne "ISBN" correctement renseignée, alors vous pouvez ajouter très facilement un lot d'ouvrages dans votre bibliothèque Zotero.
 
@@ -281,7 +282,7 @@ Procédez aux ajouts et modifications tout de suite! Tant que vous avez le docum
 
 ![zotero][zotero] [Documentation Zotero : Les types de documents et les champs associés dans Zotero > Champs citables non inclus dans Zotero](https://www.zotero.org/support/fr/kb/item_types_and_fields#champs_citables_non_inclus_dans_zotero)
 
-## 4. Constituer sa bibliothèque Zotero étape 2, organiser le contenu
+## 4. Constituer sa bibliothèque Zotero étape 2, organiser le contenu, des références bibliographiques aux annotations de PDF
 
 ![zotero_organize.png](img/zotero_organize.png)
 
@@ -334,7 +335,7 @@ Notez toutefois que même en décochant cette cas vous enregistrerez toujours le
 
 Pour conserver une liste de marqueurs personnels propre, facile à exploiter et bien distincte des marqueurs ajoutés automatiquement, la meilleure option est par conséquent de **préfixer** ses marqueurs personnels au moyen d'un signe typographique tel que le tiret bas `_`. Vos marqueurs personnels seront ainsi non seulement facilement identifiables, mais toujours présentés en premier dans le sélecteur de marqueurs.
 
-### Aller plus loin
+### Les recherches sauvegardés pour automatiser l'organisation
 
 💡 **Conseil : laissez Zotero travailler pour vous**
 
@@ -346,6 +347,23 @@ Pour retrouver toutes les références pour lesquelles un champ est vide, par ex
 ```
 Résumé -- Ne contient pas -- %
 ```
+
+### Le lecteur de PDF intégré à Zotero et ses outils d'annotation
+
+![lecteur_pdf](img/zotero_pdf-reader.jpg)
+
+Le lecteur de PDF intégré à Zotero depuis Zotero 6.0 offre notamment les fonctionnalités suivantes. Notez que Zotero 6.0 introduit également un nouvel **éditeur de notes**.
+
+* Ouvrir les PDF dans un lecteur intégré à la fenêtre principale de Zotero, dans une interface à onglets.
+* Modifier les informations bibliographiques d’un document tout en visualisant le PDF associé.
+* Annoter les PDF avec des surlignages et des annotations d'image et de texte, **en intégrant systématiquement les informations de citation**. Les informations de citation sont également automatiquement intégrés pour les extraits de texte copiés-collés depuis un PDF dans une note.
+* **Citer depuis les annotations** :  le nouveau bouton "Add Note" dans le module de traitement de texte insère une note et la citation associée.
+* Ajouter les annotations dans des notes Zotero, en appliquant une mise en forme automatique et personnalisée : affectation d'un style de titre à une couleur de surlignage, choix des guillemets ou du bloc citation pour les extraits de texte, etc.
+
+#### Stockage, import et export des annotations de PDF
+
+* Les annotations créées dans le lecteur de PDF de Zotero ne sont pas lisibles directement dans un lecteur de PDF externe. Elles ne sont en effet pas stockées dans le fichier PDF mais dans votre base de données Zotero. Elles peuvent bien sûr être exportées.
+* Zotero peut **importer les annotations** effectuées dans un lecteur de PDF externe, comme le faisait ZotFile.
 
 ### Ressources
 
@@ -361,10 +379,17 @@ Résumé -- Ne contient pas -- %
 
 ![zotero][zotero] [Documentation Zotero : Documents connexes](https://www.zotero.org/support/fr/related)
 
+![zotero][zotero] [Documentation Zotero : The Zotero PDF Reader and Note Editor](https://www.zotero.org/support/pdf_reader)
+
+![zotero][zotero] [Documentation Zotero : Note Templates](https://www.zotero.org/support/note_templates)
+
+![zotero][zotero] [Documentation Zotero : Why does Zotero store PDF annotations in its database instead of in the PDF file?](https://www.zotero.org/support/kb/annotations_in_database)
+
 Billets du blog Zotero francophone :
 
 * [Comment organiser sa bibliothèque?](https://zotero.hypotheses.org/756)
 * [Optimiser l’organisation de sa bibliothèque](https://zotero.hypotheses.org/)
+* [Zotero 6 : transformer votre flux de travail de recherche](https://zotero.hypotheses.org/4145)
 
 Exemples d'organisations de bibliothèque Zotero par des utilisateurs : [ressources associées au billet "Comment organiser sa bibliothèque?" dans la bibliothèque de groupe zfrancophone](zotero://select/groups/2233096/collections/SZEXH6L3)
 
@@ -497,6 +522,22 @@ Ensuite, et surtout, assurez-vous que ces documents sont complets et exacts.
 *  **S'il manque des informations bibliographiques**, il est logique que le style ne puisse pas les afficher lorsqu'il génère les citations et la bibliographie.
 *  **Si vous faites un usage inadéquat ou détourné de certains champs**, vous générerez également une bibliographie détournée ou inadéquate, ne correspondant pas au résultat que produit le style normalement.
 
+#### Comparatif de styles bibliographiques en SHS
+
+Les bibliothèques universitaires de Nanterre proposent un tableau comparatif synthétique des styles suivants :
+
+* APA 7ème édition (auteur-date),
+* Petit Chicago (auteur-date),
+* Tapuscrit (auteur-date),
+* Presses universitaires de Rennes (note),
+* Tapuscrit (note),
+* Triangle (note),
+* Université de Liège - Droit (note),
+* Université de Bordeaux - Ecole doctorale de droit (note).
+
+![tableau_comp_styles](img/zotero_comp_styles_nanterre.PNG)
+
+Voir : Willemin, E. (2022, avril 5). Quel style Zotero choisir pour son mémoire / sa thèse ? Université Paris Nanterre - Bibliothèques universitaires. http://bu.parisnanterre.fr/sautoformer/quel-style-zotero-choisir-pour-son-memoire-sa-these
 
 ### Ressources
 
@@ -504,7 +545,7 @@ Ensuite, et surtout, assurez-vous que ces documents sont complets et exacts.
 
 ![zotero][zotero] [Documentation Zotero : Préférences > Citer](https://www.zotero.org/support/fr/preferences/cite)
 
-Modifier un style bibliographique : support de formation Urfist Bordeaux : [Créer des styles bibliographiques CSL](https://github.com/fflamerie/zotero_csl_2018)
+Modifier un style bibliographique : support de formation Urfist Bordeaux : [Créer des styles bibliographiques CSL](https://github.com/fflamerie/zotero_csl)
 
 Modifier un style bibliographique : billet du blog Zotero francophone : [Apporter de petites modifications à un style bibliographique](https://zotero.hypotheses.org/3746)
 
@@ -581,6 +622,7 @@ Le groupe Zotero permet ensuite de définir très précisément qui a le droit d
 ### Ressources
 
 ![zotero][zotero][Documentation Zotero : Les groupes Zotero](https://www.zotero.org/support/fr/groups)
+
 ![zotero][zotero][Documentation Zotero : Synchronisation](https://www.zotero.org/support/fr/sync)
 
 Billets du blog Zotero francophone

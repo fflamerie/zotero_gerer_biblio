@@ -1,0 +1,164 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Book rdf:about="urn:isbn:978-2-247-13983-5">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Paris, France</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Dalloz, impr. 2014</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pacteau</foaf:surname>
+                        <foaf:givenName>Bernard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>2019_gerer_sa_biblio</dc:subject>
+        <dc:identifier>ISBN 978-2-247-13983-5</dc:identifier>
+        <dc:date>impr. 2014, cop. 2014</dc:date>
+        <z:libraryCatalog>Library Catalog - www.sudoc.abes.fr</z:libraryCatalog>
+        <z:language>français</z:language>
+        <dc:title>Jean-Baptiste Sirey (1762-1845): un père de l'étude et de l'édition du contentieux moderne</dc:title>
+        <z:shortTitle>Jean-Baptiste Sirey (1762-1845)</z:shortTitle>
+        <z:numPages>131</z:numPages>
+    </bib:Book>
+    <bib:Document rdf:about="http://theconversation.com/la-moulinette-hacher-menu-les-projets-de-culture-scientifique-121412">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>The Conversation</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eastes</foaf:surname>
+                        <foaf:givenName>Richard-Emmanuel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>2019_gerer_sa_biblio</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://theconversation.com/la-moulinette-hacher-menu-les-projets-de-culture-scientifique-121412</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-09-24 08:57:05</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>Pour aider le grand public à comprendre les dernières avancées de la recherche, mais aussi mesurer leurs impacts, la médiation scientifique doit faire du sur-mesure. Voici un outil qui peut y aider.</dcterms:abstract>
+        <dc:title>La moulinette : « Hacher menu » les projets de culture scientifique</dc:title>
+        <z:shortTitle>La moulinette</z:shortTitle>
+    </bib:Document>
+    <bib:Thesis rdf:about="#item_34291">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Paris, France</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Université de la Sorbonne Nouvelle</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mahjoub</foaf:surname>
+                        <foaf:givenName>Naziha</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Arkoun</foaf:surname>
+                        <foaf:givenName>Mohammed</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:subject>2019_gerer_sa_biblio</dc:subject>
+        <dc:date>1988</dc:date>
+        <z:libraryCatalog>Library Catalog - www.sudoc.abes.fr</z:libraryCatalog>
+        <z:type>DOCTORAT D'ETAT</z:type>
+        <z:language>français</z:language>
+        <dcterms:abstract>DEPUIS LA PLUS HAUTE ANTIQUITE JUSQU'A NOS JOURS, L'HOMME A TOUJOURS RECHERCHE UN RECOURS POUR EXORCISER LA PEUR QUI L'HABITE ET EN PARTICULIER LA PEUR DE LA MORT. EN ISLAM, LA PEUR A DONNE NAISSANCE A UNE FORME DE PENSEE, CELLE DE LA MYSTIQUE ISLAMIQUE ET A UNE ARCHITECTURE ORIGINALE, CELLE DE LA ZAWIYA, ESPACE SACRE. NOUS AVONS RETROUVE UNE RELATION ETROITE ENTRE LA STRUCTURE DU MONUMENT, LE RITUEL, LES GESTES ET LA PEUR. LA REPRESENTATION GEOMETRIQUE DE CETTE RECHERCHE DE DIEU EST LA ZAWIYA. BIEN PLUS, LE MONUMENT N'EST PLUS SEULEMENT LE LIEU DE SEPULTURE D'UN WALI, MAIS L'IMAGE MEME DU COSMOS. SINCE ANCIENT TIMES UNTILL TO-DAY, MAN HAS ALWAYS SOUGHT A REFUGE TO EXORCISE FEAR WHICH IS IN HIM, AND IN PARTICULAR HIS DREAD OF DEATH. IN ISLAM, FEAR HAS GIVEN BIRTH TO A WAY OF THINKING, THAT OF ISLAMIC MYSTICISM, AND AT A SPECIFIC AND ORIGINAL ARCHITECTURE : THE ZAWIYA AS A SACRED AREA. THERE IS A CLOSE RELATION BETWEEN THE MONUMENT STRUCTURE, THE RITUAL, THE ACTS AND DREAD. THIS GEOMETRICAL REPRESENTATION FOR THE SEARCH OF GOD IS THE &quot;ZAWIYA&quot;. THIS MONUMENT IS NOT ONLY THE WALI'S SEPULTURE, BUT IT IS ALSO THE COSMOS ITSELF.</dcterms:abstract>
+        <dc:title>&quot;LES ZAWIYA&quot; DES WALI A TUNIS ET DANS SES ENVIRONS DU IXEME SIECLE A NOS JOURS, OU LA PEUR ET LES LIEUX PRIVILEGIES D'EXPRESSION DE LA PEUR</dc:title>
+    </bib:Thesis>
+    <bib:Article rdf:about="https://link.aps.org/doi/10.1103/PhysRevLett.119.160401">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0031-9007,%201079-7114"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roos</foaf:surname>
+                        <foaf:givenName>C. F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alberti</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Meschede</foaf:surname>
+                        <foaf:givenName>D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hauke</foaf:surname>
+                        <foaf:givenName>P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>H.</foaf:surname>
+                        <foaf:givenName>Häffner</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>2019_gerer_sa_biblio</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.aps.org/doi/10.1103/PhysRevLett.119.160401</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2017-10-16</dc:date>
+        <dcterms:dateSubmitted>2017-11-14 08:51:24</dcterms:dateSubmitted>
+        <z:libraryCatalog>CrossRef</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Revealing Quantum Statistics with a Pair of Distant Atoms</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0031-9007,%201079-7114">
+        <prism:volume>119</prism:volume>
+        <prism:number>16</prism:number>
+        <dc:title>Physical Review Letters</dc:title>
+        <dc:identifier>ISSN 0031-9007, 1079-7114</dc:identifier>
+        <dc:identifier>DOI 10.1103/PhysRevLett.119.160401</dc:identifier>
+    </bib:Journal>
+</rdf:RDF>
