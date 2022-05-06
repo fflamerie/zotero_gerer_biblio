@@ -67,13 +67,13 @@ Pourquoi Safari est-il barré ? La compatibilité avec Safari est malheureusemen
 
 De plus, le connecteur Zotero existant pour Safari 13 est beaucoup plus limité que celui pour Firefox, Chrome ou Edge. Par exemple, il ne prend pas en charge les fonctionnalités avancées telles que la **détection automatique de proxy** et **l'importation automatique de RIS/BibTeX**.
 
-![zotero][zotero] [Base de connaissance Zotero : Connecteur Zotero et Safari 13](https://www.zotero.org/support/fr/kb/safari_compatibility)
+![zotero][zotero] [Base de connaissance Zotero : Zotero Connector and Safari](https://www.zotero.org/support/kb/safari_compatibility)
 
 ### Zotero est un logiciel libre
 
 Pourquoi est-ce important?
 
-* Les utilisateurs peuvent contribuer au logiciel - voir [la liste complète des modules complémentaires à Zotero](https://www.zotero.org/support/https://www.zotero.org/support/plugins), et participer à la communauté des utilisateurs par le biais du [Forum Zotero](https://forums.zotero.org/).
+* Les utilisateurs peuvent contribuer au logiciel - voir [la liste complète des modules complémentaires à Zotero](https://www.zotero.org/support/plugins), et participer à la communauté des utilisateurs par le biais du [Forum Zotero](https://forums.zotero.org/).
 * Le développement est agile et orienté vers les utilisateurs.
 * Zotero est développé par une organisation à but non lucratif, sans intérêt financier pour vos données ; vous n'êtes pas obligé de créer un compte pour utiliser Zotero.
 
@@ -88,7 +88,7 @@ Vous devez installer à la fois l'application Zotero **ET** le connecteur Zotero
 
 ![zotero_install](img/zotero_instal.png)
 
-![zotero][zotero] [Documentation Zotero : Installation](https://www.zotero.org/support/fr/installation)
+![zotero][zotero] [Documentation Zotero : Installation Instructions](https://www.zotero.org/support/installation)
 
 ### Comment vérifier si l'installation a fonctionné ?
 
@@ -106,9 +106,9 @@ Si l'installation du module de traitement de texte n'a pas fonctionné, vous pou
 4. Cliquez sur le deuxième onglet _Traitements de texte_.
 5. À ce stade, vous pouvez choisir d'installer ou de réinstaller un ou plusieurs modules pour traitement de texte, en fonction des logiciels de traitement de texte installés sur votre ordinateur.
 
-![zotero][zotero] [Documentation Zotero : Modules pour logiciel de traitement de texte](https://www.zotero.org/support/fr/word_processor_integration)
+![zotero][zotero] [Documentation Zotero : Word Processor Plugins](https://www.zotero.org/support/word_processor_integration)
 
-![zotero][zotero] [Documentation Zotero : Préférences](https://www.zotero.org/support/fr/preferences)
+![zotero][zotero] [Documentation Zotero : Preferences](https://www.zotero.org/support/preferences)
 
 ### Configuration minimale des préférences
 
@@ -148,7 +148,7 @@ Cochez _Synchroniser automatiquement_.
 
 ![zotero_pref_sync](img/zotero_pref_sync.png)
 
-![zotero][zotero] [Documentation Zotero : Synchronisation](https://www.zotero.org/support/fr/sync)
+![zotero][zotero] [Documentation Zotero : Syncing](https://www.zotero.org/support/sync)
 
 Une fois la synchronisation activée, vous devriez voir apparaître une nouvelle rubrique "Bibliothèques de groupe" dans Zotero, en-dessous de "Ma bibliothèque".
 
@@ -227,7 +227,7 @@ Vous pouvez également récupérer des métadonnées pour plusieurs PDF en même
 
 Exemple : un PDF envoyé par un collègue
 
-![zotero][zotero] [Documentation Zotero : Récupérer les métadonnées des PDF](https://www.zotero.org/support/fr/retrieve_pdf_metadata)
+![zotero][zotero] [Documentation Zotero : Retrieve PDF Metadata](https://www.zotero.org/support/retrieve_pdf_metadata)
 
 #### 3, manuellement
 
@@ -274,13 +274,13 @@ Procédez aux ajouts et modifications tout de suite! Tant que vous avez le docum
 
 #### Ressources
 
-![zotero][zotero] [Documentation Zotero : Ajouter des documents à Zotero > Editer des documents](https://www.zotero.org/support/fr/adding_items_to_zotero#editer_des_documents)
+![zotero][zotero] [Documentation Zotero : Adding Items to Zotero > Editing Items](https://www.zotero.org/support/adding_items_to_zotero#editing_items)
 
-![zotero][zotero] [Documentation Zotero : Ajouter des documents à Zotero > Verifier et modifier vos enregistrements](https://www.zotero.org/support/fr/adding_items_to_zotero#verifier_et_modifier_vos_enregistrements)
+![zotero][zotero] [Documentation Zotero : Adding Items to Zotero > Verify and Edit Your Records](https://www.zotero.org/support/adding_items_to_zotero#verify_and_edit_your_records)
 
-![zotero][zotero] [Base de connaissance Zotero : Comment puis-je mettre en forme certains mots d'un titre: par ex. en italique, en exposant ou en indice ?](https://www.zotero.org/support/fr/kb/rich_text_bibliography)
+![zotero][zotero] [Base de connaissance Zotero : How do I use rich text formatting, like italics and sub/superscript, in titles?](https://www.zotero.org/support/kb/rich_text_bibliography)
 
-![zotero][zotero] [Documentation Zotero : Les types de documents et les champs associés dans Zotero > Champs citables non inclus dans Zotero](https://www.zotero.org/support/fr/kb/item_types_and_fields#champs_citables_non_inclus_dans_zotero)
+![zotero][zotero] [Documentation Zotero : Zotero Item Types and Fields > Citeable Fields not Included in Zotero](https://www.zotero.org/support/kb/item_types_and_fields#citeable_fields_not_included_in_zotero)
 
 ## 4. Constituer sa bibliothèque Zotero étape 2, organiser le contenu, des références bibliographiques aux annotations de PDF
 
@@ -367,17 +367,17 @@ Le lecteur de PDF intégré à Zotero depuis Zotero 6.0 offre notamment les fonc
 
 ### Ressources
 
-![zotero][zotero] [Documentation Zotero : Détection des doublons](https://www.zotero.org/support/fr/duplicate_detection)
+![zotero][zotero] [Documentation Zotero : Duplicate Detection](https://www.zotero.org/support/duplicate_detection)
 
-![zotero][zotero] [Documentation Zotero : Collections et marqueurs](https://www.zotero.org/support/fr/collections_and_tags)
+![zotero][zotero] [Documentation Zotero : Collections and Tags](https://www.zotero.org/support/collections_and_tags)
 
-![zotero][zotero] [Documentation Zotero : Rechercher](https://www.zotero.org/support/fr/searching)
+![zotero][zotero] [Documentation Zotero : Searching](https://www.zotero.org/support/searching)
 
-![zotero][zotero] [Documentation Zotero : Tri](https://www.zotero.org/support/fr/sorting)
+![zotero][zotero] [Documentation Zotero : Sorting](https://www.zotero.org/support/sorting)
 
-![zotero][zotero] [Documentation Zotero : Notes](https://www.zotero.org/support/fr/notes)
+![zotero][zotero] [Documentation Zotero : Notes](https://www.zotero.org/support/notes)
 
-![zotero][zotero] [Documentation Zotero : Documents connexes](https://www.zotero.org/support/fr/related)
+![zotero][zotero] [Documentation Zotero : Related Items](https://www.zotero.org/support/related)
 
 ![zotero][zotero] [Documentation Zotero : The Zotero PDF Reader and Note Editor](https://www.zotero.org/support/pdf_reader)
 
@@ -541,9 +541,9 @@ Voir : Willemin, E. (2022, avril 5). Quel style Zotero choisir pour son mémoire
 
 ### Ressources
 
-![zotero][zotero] [Documentation Zotero : Les styles bibliographiques](https://www.zotero.org/support/fr/styles)
+![zotero][zotero] [Documentation Zotero : Citation Styles](https://www.zotero.org/support/styles)
 
-![zotero][zotero] [Documentation Zotero : Préférences > Citer](https://www.zotero.org/support/fr/preferences/cite)
+![zotero][zotero] [Documentation Zotero : Preferences > Cite](https://www.zotero.org/support/preferences/cite)
 
 Modifier un style bibliographique : support de formation Urfist Bordeaux : [Créer des styles bibliographiques CSL](https://github.com/fflamerie/zotero_csl)
 
@@ -583,9 +583,9 @@ Le style bibliographique utilisé est un style auteur-date, le style **ISO-690 (
 
 ### Ressources
 
-![zotero][zotero] [Documentation Zotero : Créer des bibliographies](https://www.zotero.org/support/fr/creating_bibliographies)
+![zotero][zotero] [Documentation Zotero : Creating Bibliographies bibliographies](https://www.zotero.org/support/creating_bibliographies)
 
-![zotero][zotero] [Documentation Zotero : Modules de traitement de texte](https://www.zotero.org/support/fr/word_processor_integration)
+![zotero][zotero] [Documentation Zotero : Word Processor Plugins](https://www.zotero.org/support/word_processor_integration)
 
 Si vous utilisez d'autres logiciels que Word ou LibreOffice :
 
@@ -621,9 +621,9 @@ Le groupe Zotero permet ensuite de définir très précisément qui a le droit d
 
 ### Ressources
 
-![zotero][zotero][Documentation Zotero : Les groupes Zotero](https://www.zotero.org/support/fr/groups)
+![zotero][zotero][Documentation Zotero : Groups](https://www.zotero.org/support/groups)
 
-![zotero][zotero][Documentation Zotero : Synchronisation](https://www.zotero.org/support/fr/sync)
+![zotero][zotero][Documentation Zotero : Syncing](https://www.zotero.org/support/sync)
 
 Billets du blog Zotero francophone
 
@@ -634,7 +634,7 @@ Billets du blog Zotero francophone
 
 ## 8. Où vont vos données Zotero?
 
-![zotero][zotero] [Documentation Zotero : Le répertoire de données Zotero](https://www.zotero.org/support/fr/zotero_data)
+![zotero][zotero] [Documentation Zotero : The Zotero Data Directory](https://www.zotero.org/support/zotero_data)
 
 **/!\\** 2 points de vigilance :
 
@@ -647,11 +647,11 @@ Billets du blog Zotero francophone
 
 ### Des questions?
 
-* Lisez la **documentation**! Certaines pages sont disponibles uniquement en anglais, mais la documentation est exhaustive et détaillée. Nous vous recommandons comme point de départ la page d'accueil de la documentation : https://www.zotero.org/support/fr. Ensuite, sur chacune des pages que vous consulterez, la présence de la mention `fr` vous indiquera si une version en français est disponible.
+* Lisez la **documentation**! Certaines pages sont disponibles uniquement en anglais, mais la documentation est exhaustive et détaillée. Nous vous recommandons comme point de départ la page d'accueil de la documentation : https://www.zotero.org/support. Ensuite, sur chacune des pages que vous consulterez, la présence de la mention `fr` vous indiquera si une version en français est disponible.
 * Vous rencontrez une difficulté? Vous n'êtes probablement pas le premier ni le seul, consultez le **forum** et créez si besoin une nouvelle discussion : [Forum Zotero](https://forums.zotero.org/)
 
 
-![zotero][zotero] [Documentation Zotero : Obtenir de l'aide](https://www.zotero.org/support/fr/getting_help)
+![zotero][zotero] [Documentation Zotero : Getting Help](https://www.zotero.org/support/getting_help)
 
 [zotero]: img/icone_zotero.png
 
@@ -662,7 +662,7 @@ Nous avons parcouru les principale fonctionnalités de Zotero, mais Zotero peut 
 
 Vous trouverez un premier ensemble de trucs et astuces pour optimiser et augmenter votre usage de Zotero dans les billets du [blog Zotero francophone](https://zotero.hypotheses.org/).
 
-![zotero][zotero] Dans la documentation Zotero, la rubrique [Tirer le meilleur parti de Zotero](https://www.zotero.org/support/fr/start) constitue un bon point de départ pour explorer toutes les potentialités du logiciel.
+![zotero][zotero] Dans la documentation Zotero, la rubrique [Getting the Most Out of Zotero](https://www.zotero.org/support/start) constitue un bon point de départ pour explorer toutes les potentialités du logiciel.
 
 #### Configurer l'option "Rechercher dans la bibliothèque"
 
@@ -676,7 +676,7 @@ Cela vous permettra de générer la page du système documentaire de votre étab
 
 Il vous suffira pour cela de cliquer sur _Recherche dans la bibliothèque_, accessible depuis le menu _Localiser_, c'est-à-dire la flèche verte en haut du volet de droite dans votre bibliothèque Zotero.
 
-![zotero][zotero] [Documentation Zotero : Menu Localiser](https://www.zotero.org/support/fr/locate)
+![zotero][zotero] [Documentation Zotero : Locate](https://www.zotero.org/support/locate)
 
 
 #### Ajouter des moteurs de recherche intégrés à Zotero
