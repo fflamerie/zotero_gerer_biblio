@@ -356,9 +356,10 @@ Le lecteur de PDF intégré à Zotero depuis Zotero 6.0 offre notamment les fonc
 
 * Ouvrir les PDF dans un lecteur intégré à la fenêtre principale de Zotero, dans une interface à onglets.
 * Modifier les informations bibliographiques d’un document tout en visualisant le PDF associé.
-* Annoter les PDF avec des surlignages et des annotations d'image et de texte, **en intégrant systématiquement les informations de citation**. Les informations de citation sont également automatiquement intégrés pour les extraits de texte copiés-collés depuis un PDF dans une note.
-* **Citer depuis les annotations** :  le nouveau bouton "Add Note" dans le module de traitement de texte insère une note et la citation associée.
-* Ajouter les annotations dans des notes Zotero, en appliquant une mise en forme automatique et personnalisée : affectation d'un style de titre à une couleur de surlignage, choix des guillemets ou du bloc citation pour les extraits de texte, etc.
+* Annoter les PDF avec des surlignages et des annotations d'image et d'extraits de texte, **en intégrant systématiquement les informations de citation**.
+* **Ajouter les annotations dans des notes Zotero** : créer automatiquement une note à partir de toutes les annotations d'un PDF, ou ajouter des annotations provenant de différents PDF à une même note.
+* **Citer depuis les annotations** :  le nouveau bouton "Add Note" dans le module de traitement de texte insère le contenu d'une note Zotero et les citations associées.
+
 
 #### Stockage, import et export des annotations de PDF
 
@@ -366,6 +367,10 @@ Le lecteur de PDF intégré à Zotero depuis Zotero 6.0 offre notamment les fonc
 * Zotero peut **importer les annotations** effectuées dans un lecteur de PDF externe, comme le faisait ZotFile.
 
 ### Ressources
+
+📺 Vidéo de "La Boîte à outils des  historien·ne·s" concernant le lecteur de PDF de Zotero v6 :
+
+Heimburger, F. (2022, avril 21). Découvrir Zotero 6 - Le lecteur de pdf et la prise de notes en vidéo. La boîte à outils des historien·ne·s. https://boiteaoutils.info/2022/04/decouvrir-zotero-6-le-lecteur-de-pdf-et-la-prise-de-notes-en-video/
 
 ![zotero][zotero] [Documentation Zotero : Duplicate Detection](https://www.zotero.org/support/duplicate_detection)
 
@@ -381,9 +386,8 @@ Le lecteur de PDF intégré à Zotero depuis Zotero 6.0 offre notamment les fonc
 
 ![zotero][zotero] [Documentation Zotero : The Zotero PDF Reader and Note Editor](https://www.zotero.org/support/pdf_reader)
 
-![zotero][zotero] [Documentation Zotero : Note Templates](https://www.zotero.org/support/note_templates)
-
 ![zotero][zotero] [Documentation Zotero : Why does Zotero store PDF annotations in its database instead of in the PDF file?](https://www.zotero.org/support/kb/annotations_in_database)
+
 
 Billets du blog Zotero francophone :
 
