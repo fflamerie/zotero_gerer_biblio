@@ -14,11 +14,11 @@ Support de cours complet :
 * [COURS à télécharger en PDF](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_COURS.pdf)
 
 ## Exercices
-### Exercice 1 : ajouter des documents dans sa bibliothèque Zotero
+### Exercice "Autres méthodes pour ajouter des documents"
   * [liste de DOI](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/zotero_gerer_biblio_import-DOI.txt)
   * [fichiers .PDF à importer](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/import-PDF)
  
-### Exercice 2 : citer avec Zotero
+### Exercice "Citer avec Zotero"
 
 * [fichier .DOC à modifier](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/zotero_gerer_biblio_TP_citer_EXERCICE.doc) 
 * [fichier .PDF modèle](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/zotero_gerer_biblio_TP_citer_MODELE.pdf)
