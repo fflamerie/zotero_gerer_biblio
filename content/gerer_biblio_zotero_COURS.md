@@ -179,7 +179,7 @@ Ouvrez Zotero et cliquez sur le bouton "_Save to Zotero_" de votre navigateur po
 
 Exemple : [un article de la revue "Natures Sciences Sociétés"](https://doi.org/10.1051/nss/2019025)
 
-#### Exercice 3a, enregistrer des documents depuis les sites en ligne
+#### Exercice "Enregistrer des documents depuis les sites en ligne avec le connecteur Zotero"
 
 Nous prenons **10 minutes** pour cette activité.
 
@@ -235,7 +235,7 @@ Parfois, il n'y a pas de métadonnées disponibles encodées dans la page web qu
 
 Dans Zotero, vous pouvez créer un nouveau document en cliquant sur *Fichier > Nouveau document* ou sur le cercle vert avec un plus. Dans les deux cas, vous devrez choisir **le type de document** pour lequel vous souhaitez créer un document (par exemple, "Livre", "Rapport", etc.). Lorsque vous sélectionnez le type de document, un document vide apparaît. Vous pouvez alors remplir les champs en fonction du document que vous avez devant vous. Dans tous les cas, il est préférable d'être exhaustif et de donner le plus d'informations possible.
 
-#### Exercice 3b, essayer une autre méthode d'ajout
+#### Exercice "Autres méthodes pour ajouter des documents"
 
 Nous prenons **10 minutes** pour cette activité.
 
@@ -304,7 +304,7 @@ Nous nous concentrons sur les fonctionnalités les plus utiles lorsque l'on comm
 
 ⚠️ Dans Zotero, l'icône associée à une **collection** est un dossier, mais les collections ressemblent plus à des **listes de lecture musicales** (pensez à iTunes, Spotify, etc.) qu'à des dossiers dans le système de fichiers de votre ordinateur.
 
-### Exercice 4, démarrer avec l'organisation
+### Exercice 4 "Démarrer avec l'organisation de sa bibliothèque"
 
 Nous prenons **10 minutes** pour cette activité.
 
@@ -359,7 +359,6 @@ Le lecteur de PDF intégré à Zotero depuis Zotero 6.0 offre notamment les fonc
 * Annoter les PDF avec des surlignages et des annotations d'image et d'extraits de texte, **en intégrant systématiquement les informations de citation**.
 * **Ajouter les annotations dans des notes Zotero** : créer automatiquement une note à partir de toutes les annotations d'un PDF, ou ajouter des annotations provenant de différents PDF à une même note.
 * **Citer depuis les annotations** :  le nouveau bouton "Add Note" dans le module de traitement de texte insère le contenu d'une note Zotero et les citations associées.
-
 
 #### Stockage, import et export des annotations de PDF
 
@@ -577,11 +576,11 @@ Zotero fait également ce qui suit.
 * Créer des bibliographies indépendantes dans différents formats (.html, .rtf) :  c'est le menu contextuel _Créer une bibliographie à partir des documents sélectionnés..._
 * Créer des bibliographies dynamiques collaboratives en ligne, grâce à des bibliothèques partagées privées ou publiques : c'est l'une des fonctionnalités des **groupes** Zotero.
 
-### Exercice 6, utiliser le module Word de Zotero
+### Exercice "Citer avec Zotero"
 
 Nous prenons **15 minutes** pour cette activité.
 
-L'objectif est de reproduire exactement le résultat présenté dans le fichier de modèle remis sous forme imprimée et disponible au format PDF dans [la rubrique "Exercice 2 : citer avec Zotero" du support de formation](https://github.com/fflamerie/zotero_gerer_biblio#exercice-2--citer-avec-zotero).
+L'objectif est de reproduire exactement le résultat présenté dans le fichier de modèle remis sous forme imprimée et disponible au format PDF dans [la rubrique Exercice "Citer avec Zotero" du support de formation](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/README.md#exercice-citer-avec-zotero).
 
 Le style bibliographique utilisé est un style auteur-date, le style **ISO-690 (author-date, no abstract, Français)**.
 
@@ -651,7 +650,7 @@ Billets du blog Zotero francophone
 
 ### Des questions?
 
-* Lisez la **documentation**! Certaines pages sont disponibles uniquement en anglais, mais la documentation est exhaustive et détaillée. Nous vous recommandons comme point de départ la page d'accueil de la documentation : https://www.zotero.org/support. Ensuite, sur chacune des pages que vous consulterez, la présence de la mention `fr` vous indiquera si une version en français est disponible.
+* Lisez la **documentation**! Certaines pages sont disponibles uniquement en anglais, mais la documentation est exhaustive et détaillée. Nous vous recommandons comme point de départ la page d'accueil de la documentation : https://www.zotero.org/support.
 * Vous rencontrez une difficulté? Vous n'êtes probablement pas le premier ni le seul, consultez le **forum** et créez si besoin une nouvelle discussion : [Forum Zotero](https://forums.zotero.org/)
 
 
@@ -680,7 +679,7 @@ Cela vous permettra de générer la page du système documentaire de votre étab
 
 Il vous suffira pour cela de cliquer sur _Recherche dans la bibliothèque_, accessible depuis le menu _Localiser_, c'est-à-dire la flèche verte en haut du volet de droite dans votre bibliothèque Zotero.
 
-![zotero][zotero] [Documentation Zotero : Locate](https://www.zotero.org/support/locate)
+![zotero][zotero] [Documentation Zotero : Locate Menu](https://www.zotero.org/support/locate)
 
 
 #### Ajouter des moteurs de recherche intégrés à Zotero
