@@ -33,6 +33,7 @@ Support de cours complet :
 
 :card_file_box: Trucs et astuces pour optimiser l'utilisation de Zotero dans le contexte d'une revue de littérature : [à consulter en ligne en html](https://github.com/fflamerie/zotero_intro_FR/blob/master/content/zotero_truc_syst.md) - [à télécharger en PDF](https://github.com/fflamerie/zotero_intro_FR/blob/master/content/zotero_truc_syst.pdf)
 
+:bookmark_tabs: Billet du blog Zotero francophone : [Zotero pour les revues de littérature](https://zotero.hypotheses.org/4359)
 
 ## Programme de la formation publié sur le site de l'Urfist
 
