@@ -365,9 +365,7 @@ Le lecteur de PDF intégré à Zotero depuis Zotero 6.0 offre notamment les fonc
 
 ### Ressources
 
-📺 Vidéo de "La Boîte à outils des  historien·ne·s" concernant le lecteur de PDF de Zotero v6 :
-
-Heimburger, F. (2022, avril 21). Découvrir Zotero 6 - Le lecteur de pdf et la prise de notes en vidéo. La boîte à outils des historien·ne·s. https://boiteaoutils.info/2022/04/decouvrir-zotero-6-le-lecteur-de-pdf-et-la-prise-de-notes-en-video/
+#### Ressources pour organiser sa bibliothèque
 
 ![zotero][zotero] [Documentation Zotero : Détection des doublons](https://docs.zotero-fr.org/duplicate_detection)
 
@@ -381,20 +379,35 @@ Heimburger, F. (2022, avril 21). Découvrir Zotero 6 - Le lecteur de pdf et la p
 
 ![zotero][zotero] [Documentation Zotero : Documents connexes](https://docs.zotero-fr.org/related)
 
-![zotero][zotero] [Documentation Zotero : Le lecteur PDF et l'éditeur de notes de Zotero](https://docs.zotero-fr.org/pdf_reader)
-
-![zotero][zotero] [Base de connaissance Zotero : Pourquoi Zotero stocke-t-il les annotations PDF dans sa base de données plutôt que dans le fichier PDF ?](https://docs.zotero-fr.org/kb/annotations_in_database)
-
-
 Billets du blog Zotero francophone :
 
 * [Comment organiser sa bibliothèque?](https://zotero.hypotheses.org/756)
 * [Optimiser l’organisation de sa bibliothèque](https://zotero.hypotheses.org/3298)
-* [Zotero 6 : transformer votre flux de travail de recherche](https://zotero.hypotheses.org/4145)
 
 Exemples d'organisations de bibliothèque Zotero par des utilisateurs : [ressources associées au billet "Comment organiser sa bibliothèque?" dans la bibliothèque de groupe zfrancophone](zotero://select/groups/2233096/collections/SZEXH6L3)
 
 ![zotero][zotero] [Forum Zotero : How/ Why do you use Zotero?](https://forums.zotero.org/discussion/comment/340945#Comment_340945)
+
+#### Ressources pour annoter avec Zotero
+
+![zotero][zotero] [Documentation Zotero : Le lecteur PDF et l'éditeur de notes de Zotero](https://docs.zotero-fr.org/pdf_reader)
+
+![zotero][zotero] [Base de connaissance Zotero : Pourquoi Zotero stocke-t-il les annotations PDF dans sa base de données plutôt que dans le fichier PDF ?](https://docs.zotero-fr.org/kb/annotations_in_database)
+
+Billet du blog Zotero francophone : [Zotero 6 : transformer votre flux de travail de recherche](https://zotero.hypotheses.org/4145)
+
+📺 Vidéo de "La Boîte à outils des  historien·ne·s" concernant le lecteur de PDF de Zotero v6 :
+
+Heimburger, F. (2022, avril 21). Découvrir Zotero 6 - Le lecteur de pdf et la prise de notes en vidéo. La boîte à outils des historien·ne·s. https://boiteaoutils.info/2022/04/decouvrir-zotero-6-le-lecteur-de-pdf-et-la-prise-de-notes-en-video/
+
+📑Mini-tutoriels sur Twitter :
+
+Bilal, M. (2022, août 30). Zotero 101 : A step-by-step guide with visuals [how to take notes and annotate PDFs in Zotero]. Twitter. https://twitter.com/MushtaqBilalPhD/status/1564522758696013824
+
+Bilal, M. (2022, septembre 11). Zotero 101 : A step-by-step guide with visuals [how to make groups and do « collaborative annotations. »]. Twitter. https://twitter.com/MushtaqBilalPhD/status/1568829219383218179
+
+Bilal, M. (2022, octobre 17). Zotero 101 : A step-by-step guide with visuals [how to supercharge your writing using Zotero’s Note Editor]. Twitter. https://twitter.com/MushtaqBilalPhD/status/1581927147685687297
+
 
 ## 5. Identifier et installer dans Zotero les styles bibliographiques de référence de son domaine
 
@@ -663,7 +676,7 @@ Nous avons parcouru les principale fonctionnalités de Zotero, mais Zotero peut 
 
 Vous trouverez un premier ensemble de trucs et astuces pour optimiser et augmenter votre usage de Zotero dans les billets du [blog Zotero francophone](https://zotero.hypotheses.org/).
 
-![zotero][zotero] Dans la documentation Zotero, la rubrique [https://docs.zotero-fr.org/](https://www.zotero.org/support/start) constitue un bon point de départ pour explorer toutes les potentialités du logiciel.
+![zotero][zotero] Dans la documentation Zotero, la rubrique [Tirer le meilleur parti de Zotero](https://docs.zotero-fr.org/locate/) constitue un bon point de départ pour explorer toutes les potentialités du logiciel.
 
 #### Configurer l'option "Rechercher dans la bibliothèque"
 
