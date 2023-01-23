@@ -20,7 +20,7 @@
 - [4. Constituer sa bibliothèque Zotero étape 2, organiser le contenu, des références bibliographiques aux annotations de PDF](#4-constituer-sa-bibliothèque-zotero-étape-2-organiser-le-contenu-des-références-bibliographiques-aux-annotations-de-pdf)   
 - [5. Identifier et installer dans Zotero les styles bibliographiques de référence de son domaine](#5-identifier-et-installer-dans-zotero-les-styles-bibliographiques-de-référence-de-son-domaine)   
 - [6. Citer avec Zotero](#6-citer-avec-zotero)   
-- [7.  De la bibliothèque Zotero à la bibliographie en ligne](#7-de-la-bibliothèque-zotero-à-la-bibliographie-en-ligne)   
+- [7. De la bibliothèque Zotero à la bibliographie en ligne](#7-de-la-bibliothèque-zotero-à-la-bibliographie-en-ligne)   
 - [8. Où vont vos données Zotero?](#8-où-vont-vos-données-zotero)   
 - [9. Conclusion](#9-conclusion)   
 
@@ -35,6 +35,12 @@ Qui êtes-vous d'un point de vue bibliographique?
 1. Utilisez-vous déjà un logiciel de gestion bibliographique? Si oui lequel?
 2. Quels **bases de données, moteurs de recherche, etc.** utilisez-vous pour effectuer vos recherches bibliographiques?
 3. Quels **types de documents** souhaitez-vous pouvoir enregistrer dans votre bibliothèque Zotero et citer?
+
+Pendant le tour de table, répondez dans la conversation Zoom aux deux questions suivantes, sur le thème **La biblio et vous : 1 problème et 1 voeu**.
+
+*   :thinking: **1 problème** : Avec quel aspect êtes-vous le moins à l'aise dans la constitution ou la rédaction de votre bibliographie?
+*  	:flashlight: **1 voeu** : Le génie de la lampe Zotero peut exhaucer un de vos voeux pour vous simplifier la biblio : quel souhait formulez-vous?
+
 
 ## 1. Introduction
 
@@ -606,7 +612,7 @@ Si vous utilisez d'autres logiciels que Word ou LibreOffice :
 * Billet du blog Zotero francophone : [Zotero et LaTeX](https://zotero.hypotheses.org/762)
 * Billet du blog Zotero francophone : [Markdown et Zotero](https://zotero.hypotheses.org/2258)
 
-## 7.  De la bibliothèque Zotero à la bibliographie en ligne
+## 7. De la bibliothèque Zotero à la bibliographie en ligne
 
 ### Les groupes Zotero
 
