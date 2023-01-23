@@ -69,9 +69,7 @@ Zotero permet de résoudre les difficultés suivantes que l'on peut rencontrer l
 
 #### Note concernant Safari
 
-Pourquoi Safari est-il barré ? La compatibilité avec Safari est malheureusement réduite.
-
-De plus, le connecteur Zotero existant pour Safari 13 est beaucoup plus limité que celui pour Firefox, Chrome ou Edge. Par exemple, il ne prend pas en charge les fonctionnalités avancées telles que la **détection automatique de proxy** et **l'importation automatique de RIS/BibTeX**.
+Pourquoi Safari est-il barré ? Le connecteur Zotero existant pour Safari est beaucoup plus limité que celui pour Firefox, Chrome ou Edge. Par exemple, il ne prend pas en charge les fonctionnalités avancées telles que la **détection automatique de proxy** et **l'importation automatique de RIS/BibTeX**.
 
 ![zotero][zotero] [Base de connaissance Zotero : Connecteur Zotero et Safari](https://docs.zotero-fr.org/kb/safari_compatibility/)
 
@@ -633,7 +631,7 @@ Le groupe Zotero permet ensuite de définir très précisément qui a le droit d
 
 * Le **quota de 300 Mo** d’espace de stockage gratuit sur le serveur Zotero concerne les fichiers joints et non les références bibliographiques : si vous ne synchronisez pas vos fichiers joints vous n’aurez aucun problème de dépassement de votre espace de stockage. Pour les bibliothèques de groupe, l'espace de stockage est décompté sur le quota du propriétaire du groupe.
 * Le compte en ligne vous permet d’**enregistrer des documents directement dans votre bibliothèque en ligne**. Vous pouvez ainsi ajouter des documents dans votre bibliothèque Zotero même si Zotero n’est pas installé sur l’ordinateur que vous utilisez. Il faut en revanche que le connecteur Zotero du navigateur internet soit installé, ou que vous utilisez l'ajout par identifiant.
-* Vous retrouvez de fait dans votre bibliothèque en ligne une grande partie des fonctionnalités de votre bibliothèque locale, à l’exception notamment des recherches enregistrées et des options de menu contextuel de modifications automatiques des champs (« Transformer le texte » pour les titre, « Inverser nom/prénom », etc.).
+* Vous retrouvez de fait dans votre bibliothèque en ligne une partie des fonctionnalités de votre bibliothèque locale,  à l’exception notamment des recherches enregistrées et des options de menu contextuel de modifications automatiques des champs (« Transformer le texte » pour les titre, « Inverser nom/prénom », etc.). A noter que l'application locale est indispensable pour l'interaction avec **les extensions de traitement de texte**.
 * Si le droit de consulter la bibliothèque de groupe peut être accordé à tout internaute, **cette consultation est limitée aux références bibliographiques** : les fichiers joints demeurent toujours seulement accessibles aux membres du groupe.
 * Veillez à **la bonne attribution des droits** en fonction de l’organisation souhaitée. Par exemple, si les droits des membres du groupe sont limités à la seule consultation de la bibliothèque, n’oubliez pas d’attribuer le rôle d’administrateur à toutes les personnes qui doivent ajouter des documents dans la bibliothèque ou les modifier.
 * Un groupe Zotero n’implique pas forcément plusieurs contributeurs. Vous pouvez être le seul contributeur d’un groupe dont la bibliothèque peut être consultée par tous, ou encore vous pouvez créer un groupe simplement pour disposer d’une bibliothèque distincte de votre bibliothèque personnelle.
@@ -644,6 +642,8 @@ Le groupe Zotero permet ensuite de définir très précisément qui a le droit d
 ![zotero][zotero] [Documentation Zotero : Les groupes Zotero](https://docs.zotero-fr.org/groups)
 
 ![zotero][zotero][Documentation Zotero : Synchronisation](https://docs.zotero-fr.org/sync)
+
+![zotero][zotero][Documentation Zotero : Est-ce que la bibliothèque en ligne est identique à l’application de bureau Zotero ?](https://docs.zotero-fr.org/kb/web_vs_desktop/)
 
 Billets du blog Zotero francophone
 
