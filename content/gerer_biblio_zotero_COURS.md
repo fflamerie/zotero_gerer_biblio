@@ -85,6 +85,10 @@ Vous trouverez davantage de détails et des exemples concernant cette questions 
 
 ## 2. Installer et configurer Zotero
 
+**Si vous aviez installé Zotero 6 et n'avez pas encore effectué la mise à jour vers Zotero 7, c'est le moment de le faire.**
+
+Pour cela, dans le menu de Zotero cliquez sur *Aide* > *Vérifier les mises à jour..."*, puis suivez les indications.
+
 ### Installer Zotero
 ![zotero][zotero] [Site web Zotero : Télécharger Zotero](https://www.zotero.org/download/)
 
@@ -96,35 +100,35 @@ Vous devez installer à la fois l'application Zotero **ET** le connecteur Zotero
 
 ### Comment vérifier si l'installation a fonctionné ?
 
-Pour profiter pleinement de Zotero, le logiciel doit être connecté à votre navigateur et votre traitement de texte (Microsoft Word, LibreOffice Writer).
+Pour profiter pleinement de Zotero, le logiciel doit être connecté à votre navigateur et à votre traitement de texte Microsoft Word ou LibreOffice Writer.
 
 1. Vérifiez si Zotero est installé en ouvrant l'application sur votre ordinateur.
-2. Ouvrez votre navigateur et vérifiez que Zotero apparaît dans la barre supérieure, à côté de la barre de recherche.
+2. Ouvrez votre navigateur et vérifiez que l'icône Zotero apparaît dans la barre d'outils.
 3. Ouvrez votre traitement de texte et vérifiez si l'extension Zotero est installée. En général, après l'installation de Zotero, un nouvel onglet apparaît dans votre traitement de texte. En fonction de votre logiciel, Zotero peut aussi être affiché avec d'autres "Compléments".
 
 Si l'installation du module de traitement de texte n'a pas fonctionné, vous pouvez le réinstaller à partir de Zotero lui-même.
 
 1. Ouvrez Zotero.
-2. Allez à *Edition > Préférences* (ou *Zotero > Préférences* sur Mac OS).
+2. Allez à *Edition > Paramètres* (ou *Zotero > Paramètres* sur Mac OS).
 3. Cliquez sur l'onglet *Citer*.
-4. Cliquez sur le deuxième onglet _Traitements de texte_.
+4. Descendez à la rubrique _Traitements de texte_.
 5. À ce stade, vous pouvez choisir d'installer ou de réinstaller un ou plusieurs modules pour traitement de texte, en fonction des logiciels de traitement de texte installés sur votre ordinateur.
 
 ![zotero][zotero] [Documentation Zotero : Modules pour logiciel de traitement de texte](https://docs.zotero-fr.org/word_processor_integration)
 
 ![zotero][zotero] [Documentation Zotero : Préférences](https://docs.zotero-fr.org/preferences)
 
-### Configuration minimale des préférences
+### Configuration minimale des paramètres
 
-Voici quelques recommandations pour démarrer. Tous les paramétrages sont accessibles depuis les _Préférences_ de Zotero.
+Voici quelques recommandations pour démarrer. Tous les paramétrages sont accessibles depuis les _Paramètres_ de Zotero.
 
 #### Onglet "Générales"
 
 Rubrique "Gestion des fichiers"
 
-* Décochez la case "**Faire une capture automatique de la page lors de la création de documents à partir de pages Web**", pour éviter d'encombrer votre bibliothèque avec des captures de toutes les pages Web à partir desquelles vous enregistrerez des documents dans votre bibliothèque Zotero.
 * Cochez la case "**Joindre automatiquement les fichiers PDF associés lors de l'enregistrement d'un document**", pour récupérer automatiquement les PDFs des articles lorsque vous êtes sur le site d'un éditeur ou tout autre site sur lequel le PDF est présent. Si vous êtes sur PubMed, Scopus ou une autre base de données bibliographiques, il faudra suivre le lien vers le site de l'éditeur pour enregistrer la référence bibliographique et le PDF de l'article en même temps. Et il faudra bien sûr, s'il s'agit d'une ressource payante, que votre institution soit abonnée.
 * Cochez la case "**Récupérer automatiquement les métadonnées des PDF**".
+* Décochez la case "**Faire une capture automatique de la page lors de la création de documents à partir de pages Web**", pour éviter d'encombrer votre bibliothèque avec des captures de toutes les pages Web à partir desquelles vous enregistrerez des documents dans votre bibliothèque Zotero.
 
 #### Onglet "Synchronisation"
 
@@ -137,7 +141,7 @@ Nous allons recourir à cette fonctionnalité de groupe en utilisant la biblioth
 
 Pour faire apparaître cette bibliothèque de groupe dans Zotero, vous devez configurer la synchronisation Zotero.
 
-Ces paramètres sont accessibles depuis les _Préférences_ > _Synchronisation_.
+Ces réglages sont accessibles depuis les _Paramètres_ > _Synchronisation_.
 
 Pour démarrer, nous nous en tenons aux paramètres suivants, après la saisie de votre nom d'utilisateur et de votre mot de passe.
 
