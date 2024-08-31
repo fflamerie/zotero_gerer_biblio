@@ -1,4 +1,4 @@
-
+Paramètre
 # Gérer facilement sa bibliographie avec Zotero : support de cours
 
 ## Objectifs
@@ -30,17 +30,8 @@
 
 ##  0. Tour de table
 
-Qui êtes-vous d'un point de vue bibliographique?
-
-1. Utilisez-vous déjà un logiciel de gestion bibliographique? Si oui lequel?
-2. Quels **bases de données, moteurs de recherche, etc.** utilisez-vous pour effectuer vos recherches bibliographiques?
-3. Quels **types de documents** souhaitez-vous pouvoir enregistrer dans votre bibliothèque Zotero et citer?
-
-Pendant le tour de table, répondez dans la conversation Zoom aux deux questions suivantes, sur le thème **La biblio et vous : 1 problème et 1 voeu**.
-
-*   :thinking: **1 problème** : Avec quel aspect êtes-vous le moins à l'aise dans la constitution ou la rédaction de votre bibliographie?
-*  	:flashlight: **1 voeu** : Le génie de la lampe Zotero peut exhaucer un de vos voeux pour vous simplifier la biblio : quel souhait formulez-vous?
-
+1. A quelle université ou à quel organisme appartenez-vous? Quel est votre domaine de recherche?
+2. Quelles sont vos attentes pour le stage?
 
 ## 1. Introduction
 
@@ -58,7 +49,7 @@ Toutes ces tâches techniques sont effectuées par le logiciel, mais il faut se 
 * trier et organiser ses références,
 * sélectionner les références pertinentes à citer.
 
-Zotero permet de résoudre les difficultés suivantes que l'on peut rencontrer lorsque l'on fait de la bibliographie sans logiciel (la liste n'est pas exhautive).
+Zotero permet de résoudre les difficultés suivantes que l'on peut rencontrer lorsque l'on fait de la bibliographie sans logiciel (la liste n'est pas exhaustive).
 
 * Des tas de PDF en vrac avec des noms incompréhensibles
 * Aucun lien entre vos références bibliographique, vos fichiers et vos notes
@@ -69,7 +60,7 @@ Zotero permet de résoudre les difficultés suivantes que l'on peut rencontrer l
 
 #### Note concernant Safari
 
-Pourquoi Safari est-il barré ? Le connecteur Zotero existant pour Safari est beaucoup plus limité que celui pour Firefox, Chrome ou Edge. Par exemple, il ne prend pas en charge les fonctionnalités avancées telles que la **détection automatique de proxy** et **l'importation automatique de RIS/BibTeX**.
+Pourquoi Safari est-il barré ? Le connecteur Zotero pour Safari est beaucoup plus limité que celui pour Firefox, Chrome ou Edge. Par exemple, il ne prend pas en charge les fonctionnalités avancées telles que la **détection automatique de proxy** ou **l'importation automatique de RIS/BibTeX**.
 
 ![zotero][zotero] [Base de connaissance Zotero : Connecteur Zotero et Safari](https://docs.zotero-fr.org/kb/safari_compatibility/)
 
@@ -85,14 +76,14 @@ Vous trouverez davantage de détails et des exemples concernant cette questions 
 
 ## 2. Installer et configurer Zotero
 
-**Si vous aviez installé Zotero 6 et n'avez pas encore effectué la mise à jour vers Zotero 7, c'est le moment de le faire.**
+🚧**Si vous aviez installé Zotero 6 et n'avez pas encore effectué la mise à jour vers Zotero 7, c'est le moment de le faire.**
 
 Pour cela, dans le menu de Zotero cliquez sur *Aide* > *Vérifier les mises à jour..."*, puis suivez les indications.
 
 ### Installer Zotero
 ![zotero][zotero] [Site web Zotero : Télécharger Zotero](https://www.zotero.org/download/)
 
-Vous devez installer à la fois l'application Zotero **ET** le connecteur Zotero adapté à votre navigateur (Chrome, Firefox ou Edge).
+Vous devez installer à la fois l'**application** Zotero **ET** le **connecteur** Zotero adapté à votre navigateur internet (Chrome, Firefox ou Edge).
 
 ![zotero_install](img/zotero_instal.png)
 
@@ -100,10 +91,10 @@ Vous devez installer à la fois l'application Zotero **ET** le connecteur Zotero
 
 ### Comment vérifier si l'installation a fonctionné ?
 
-Pour profiter pleinement de Zotero, le logiciel doit être connecté à votre navigateur et à votre traitement de texte Microsoft Word ou LibreOffice Writer.
+Pour profiter pleinement de Zotero, le logiciel doit être connecté à votre navigateur internet et à votre traitement de texte Microsoft Word ou LibreOffice Writer.
 
 1. Vérifiez si Zotero est installé en ouvrant l'application sur votre ordinateur.
-2. Ouvrez votre navigateur et vérifiez que l'icône Zotero apparaît dans la barre d'outils.
+2. Ouvrez votre navigateur et vérifiez que l'icône Zotero apparaît dans la barre d'outils. Si elle n'apparaît pas, suivez les indications données dans la page dédiée de la documentation Zotero : [Pourquoi n'y a-t-il pas de bouton d'enregistrement dans la barre d'outils de mon navigateur ?] (https://docs.zotero-fr.org/kb/no_toolbar_button/#pourquoi-ny-a-t-il-pas-de-bouton-denregistrement-dans-la-barre-doutils-de-mon-navigateur)
 3. Ouvrez votre traitement de texte et vérifiez si l'extension Zotero est installée. En général, après l'installation de Zotero, un nouvel onglet apparaît dans votre traitement de texte. En fonction de votre logiciel, Zotero peut aussi être affiché avec d'autres "Compléments".
 
 Si l'installation du module de traitement de texte n'a pas fonctionné, vous pouvez le réinstaller à partir de Zotero lui-même.
@@ -118,19 +109,21 @@ Si l'installation du module de traitement de texte n'a pas fonctionné, vous pou
 
 ![zotero][zotero] [Documentation Zotero : Préférences](https://docs.zotero-fr.org/preferences)
 
+💬 _Dans Zotero 7 les "Préférences" sont désormais nommées "Paramètres", la documentation devrait prochainement être mise à jour pour prendre en compte ce changement._
+
 ### Configuration minimale des paramètres
 
 Voici quelques recommandations pour démarrer. Tous les paramétrages sont accessibles depuis les _Paramètres_ de Zotero.
 
-#### Onglet "Générales"
+#### Section "Général"
 
 Rubrique "Gestion des fichiers"
 
 * Cochez la case "**Joindre automatiquement les fichiers PDF associés lors de l'enregistrement d'un document**", pour récupérer automatiquement les PDFs des articles lorsque vous êtes sur le site d'un éditeur ou tout autre site sur lequel le PDF est présent. Si vous êtes sur PubMed, Scopus ou une autre base de données bibliographiques, il faudra suivre le lien vers le site de l'éditeur pour enregistrer la référence bibliographique et le PDF de l'article en même temps. Et il faudra bien sûr, s'il s'agit d'une ressource payante, que votre institution soit abonnée.
 * Cochez la case "**Récupérer automatiquement les métadonnées des PDF**".
-* Décochez la case "**Faire une capture automatique de la page lors de la création de documents à partir de pages Web**", pour éviter d'encombrer votre bibliothèque avec des captures de toutes les pages Web à partir desquelles vous enregistrerez des documents dans votre bibliothèque Zotero.
+* Décochez la case "**Faire une capture automatique de la page lors de la création de documents à partir de pages Web**", pour éviter d'encombrer votre bibliothèque avec des captures de toutes les pages Web à partir desquelles vous enregistrez des documents dans votre bibliothèque Zotero.
 
-#### Onglet "Synchronisation"
+#### Section "Synchronisation"
 
 Il n'est pas nécessaire de se créer un compte en ligne ni d'activer la synchronisation pour utiliser Zotero. C'est en revanche indispensable pour les deux fonctionnalités suivantes :
 
@@ -158,7 +151,7 @@ Cochez _Synchroniser automatiquement_.
 
 ![zotero][zotero] [Documentation Zotero : Synchronisation](https://docs.zotero-fr.org/sync)
 
-Une fois la synchronisation activée, vous devriez voir apparaître une nouvelle rubrique "Bibliothèques de groupe" dans Zotero, en-dessous de "Ma bibliothèque".
+Une fois la synchronisation activée, vous devriez voir apparaître une nouvelle rubrique "Bibliothèques de groupe" dans le panneau de gauche de Zotero, en-dessous de "Ma bibliothèque".
 
 Dans cette rubrique, devrait s'afficher la bibliothèque de groupe que vous venez de rejoindre ; vous devriez y trouver une collection (icône dossier) à votre nom d'utilisateur Zotero.
 
@@ -169,7 +162,7 @@ Dans cette rubrique, devrait s'afficher la bibliothèque de groupe que vous vene
 
 ![zotero_collect](img/zotero_collect.png)
 
-Une référence bibliographique, un **document** dans votre bibliothèque Zotero, est constituée d'informations, de **métadonnées**, décrivant un article, un livre, etc. et vous permettant de le retrouver facilement par la suite. Zotero structure les métadonnées que vous collectez sur les documents. Lorsque vous citez vos documents avec Zotero, il génère alors des bibliographies cohérentes. Zotero vous permet également de stocker des fichiers numériques avec les références, sous forme de **pièces jointes**.
+Une référence bibliographique, un **document** dans votre bibliothèque Zotero, est constituée d'informations, de **métadonnées**, décrivant un article, un livre, etc. et vous permettant de le retrouver facilement par la suite. Zotero structure les métadonnées que vous collectez sur les documents. Lorsque vous citez vos documents avec Zotero, ce dernier génère alors des bibliographies cohérentes. Zotero vous permet également de stocker des fichiers numériques avec les références, sous forme de **pièces jointes**.
 
 ### Enregistrer des documents dans votre navigateur
 
@@ -183,7 +176,7 @@ pour ajouter des documents dans votre bibliothèque.
 
 Le connecteur Zotero est l'extension que vous avez installée dans votre navigateur. Cette extension détecte les références bibliographiques disponibles sur les pages que vous visitez.
 
-Ouvrez Zotero et cliquez sur le bouton "_Save to Zotero_" de votre navigateur pour enregistrer la référence bibliographique en tant que document dans votre bibliothèque Zotero. Zotero essaiera également d'enregistrer en même temps le fichier PDF en texte intégral en tant que pièce jointe.
+Ouvrez Zotero et cliquez sur le bouton "_Save to Zotero_" de votre navigateur pour enregistrer la référence bibliographique en tant que document dans votre bibliothèque Zotero. Zotero essaie également d'enregistrer en même temps le fichier PDF en texte intégral en tant que pièce jointe.
 
 Exemple : [un article de la revue "Natures Sciences Sociétés"](https://doi.org/10.1051/nss/2019025)
 
@@ -193,7 +186,7 @@ Nous prenons **10 minutes** pour cette activité.
 
 En naviguant sur les sites que vous utilisez habituellement pour vos recherches bibliographiques, enregistrez de nouveaux documents dans la collection à votre nom dans la bibliothèque de groupe du stage.
 
-Vous pouvez enregistrer des livres, de articles de revue, des thèses, ou encore des liens vers des pages web, des articles de presse ou de magazine, le tout est de tester l'enregistrement dans Zotero depuis les sites que vous consultez. Ajoutez des fichiers (pdf, jpg ou autres) si applicable.
+Vous pouvez enregistrer des livres, des articles de revue, des thèses, ou encore des pages web, des articles de presse ou de magazine, le tout est de tester l'enregistrement dans Zotero depuis les sites que vous consultez. Ajoutez des fichiers (pdf, jpg ou autres) si applicable.
 
 
 ### Toutes les méthodes d'ajout
@@ -225,9 +218,9 @@ Si vous disposez d'un fichier Excel comportant une colonne "ISBN" correctement r
 
 #### 5, depuis des PDF
 
-Si vous avez déjà des PDF sur votre ordinateur, il peut être possible d'en récupérer les métadonnées a posteriori.
+Si vous avez déjà des PDF sur votre ordinateur, il peut être possible d'en récupérer les métadonnées _a posteriori_.
 
-⚠️ **Cela n'est pas la méthode par défaut recommandée**.  Cette fonctionnalité est utile pour traiter un lot de PDF que vous avez en stock, mais cela ne doit pas être votre méthode habituelle pour ajouter du contenu à votre bibliothèque Zotero.
+⚠️ **Cela n'est pas la méthode par défaut recommandée**.  Cette fonctionnalité est utile pour traiter un lot de PDFs que vous avez en stock, mais elle ne doit pas être votre méthode habituelle pour ajouter du contenu à votre bibliothèque Zotero.
 
 Pour ajouter un PDF à Zotero, il suffit de le faire glisser depuis un dossier et de le déposer dans votre bibliothèque. Zotero recherche automatiquement les métadonnées et crée automatiquement un document attaché au fichier PDF lorsque cela est possible. Cependant, il se peut que le PDF que vous avez ajouté à votre bibliothèque Zotero ne soit pas lisible par la machine ou ne soit pas reconnu par Zotero. Dans ce cas, aucune métadonnée ne sera récupérée. Vous devrez ajouter des métadonnées à l'aide d'un identifiant (DOI, ISBN,etc.) ou manuellement, en utilisant la fonction _Créer un document parent_.
 
@@ -239,9 +232,9 @@ Exemple : un PDF envoyé par un collègue
 
 #### 3, manuellement
 
-Parfois, il n'y a pas de métadonnées disponibles encodées dans la page web que vous visitez ou le document que vous avez entre les mains n'est pas indexé dans un catalogue en ligne. Vous devrez alors créer ou modifier la référence vous-même.
+Parfois, il n'y a pas de métadonnées disponibles encodées dans la page web que vous visitez ou le document que vous avez entre les mains n'est pas indexé dans un catalogue en ligne. Vous devez alors créer ou modifier la référence vous-même.
 
-Dans Zotero, vous pouvez créer un nouveau document en cliquant sur *Fichier > Nouveau document* ou sur le cercle vert avec un plus. Dans les deux cas, vous devrez choisir **le type de document** pour lequel vous souhaitez créer un document (par exemple, "Livre", "Rapport", etc.). Lorsque vous sélectionnez le type de document, un document vide apparaît. Vous pouvez alors remplir les champs en fonction du document que vous avez devant vous. Dans tous les cas, il est préférable d'être exhaustif et de donner le plus d'informations possible.
+Dans Zotero, vous pouvez créer un nouveau document en cliquant sur le bouton _Nouveau document_ de la barre d'outils. Vous devez choisir **le type de document** pour lequel vous souhaitez créer un document (par exemple, "Livre", "Rapport", etc.). Lorsque vous sélectionnez le type de document, un document vide apparaît. Vous pouvez alors remplir les champs en fonction du document que vous avez devant vous. Dans tous les cas, il est préférable d'être exhaustif et de donner le plus d'informations possible.
 
 #### Exercice "Autres méthodes pour ajouter des documents"
 
@@ -259,7 +252,7 @@ N'oubliez pas de vérifier et de modifier les documents que vous enregistrez dan
 
 Zotero propose des fonctions intelligentes pour rendre cela plus facile et plus rapide que d'effectuer chaque modification entièrement manuellement. Par exemple :
 
-* cliquez avec le bouton droit de la souris sur le contenu d'un champ `Créateur` pour inverser le nom et le prénom,
+* cliquez avec le bouton droit de la souris sur le contenu d'un champ `Créateur` pour inverser le nom et le prénom ou corriger la casse,
 * cliquez avec le bouton droit de la souris sur le contenu d'un champ `Titre` pour transformer le texte avec toutes les _Initiales en Majuscules_ ou seulement une _Lettre capitale en début de phrase_  (et inversement),
 * etc.
 
@@ -269,8 +262,8 @@ Quelle que soit la méthode que vous utilisez pour ajouter des documents dans vo
 
 Privilégiez les sources fiables et exhaustives pour créer ou compléter vos documents, c'est-à-dire :
 
-* les sites d'éditeur et les bases de données bibliographiques pour les articles de revue et les chapitres de livre (SpringerLink, Scopus, Cairn, etc. // évitez Google Scholar),
-* les catalogues de bibliothèques pour les livres (Babord+, Sudoc, WorldCat // évitez Amazon).
+* **les sites d'éditeur et les bases de données bibliographiques** pour les articles de revue et les chapitres de livre (SpringerLink, Scopus, Cairn, etc. // évitez Google Scholar),
+* **les catalogues de bibliothèques** pour les livres (Babord+, Sudoc, WorldCat // évitez Amazon).
 
 #### Recommandation 2, anticiper les normes
 
@@ -312,7 +305,7 @@ Nous nous concentrons sur les fonctionnalités les plus utiles lorsque l'on comm
 
 ### Exercice 4 "Démarrer avec l'organisation de sa bibliothèque"
 
-Nous prenons **10 minutes** pour cette activité.
+Nous prenons **5 minutes** pour cette activité.
 
 #### Indexer avec les marqueurs
 
@@ -326,22 +319,18 @@ Nous prenons **10 minutes** pour cette activité.
 * Recherche rapide : quelle différence faites-vous entre une recherche dans `Champs & Marqueurs` et une recherche dans `Partout` ?
 * Créez une recherche sauvegardée pour récupérer tous les articles marqués **a_lire** ET ajoutés dans votre bibliothèque au cours des 7 derniers jours.
 
-#### Prendre des notes
-
-* Pouvez-vous créer différents types de notes ?
-* Quel usage feriez-vous des notes ?
 
 ### Conserver ou non les marqueurs enregistrés automatiquement?
 
 Par défaut, Zotero enregistre automatiquement les mots-clés associés au document dans la base à partir de laquelle vous l'avez enregistré  : indexation Rameau dans le Sudoc, mots-clés auteur dans les sites d'éditeur et les bases de données bibliographiques, indexation contrôlée dans les bases de données bibliographiques. Tous ces termes hétérogènes accumulés peuvent finir par produire une liste de termes redondants (synonymes, variantes diverses d'un même mot) difficile à exploiter, et qui vienne parasiter votre liste de marqueurs personnels.
 
-Vous pouvez désactiver cet enregistrement depuis les _Préférences_ > _Générales_ > _Divers_ > _Ajouter automatiquement aux documents des marqueurs à partir des mots-clés fournis_.
+Vous pouvez désactiver cet enregistrement depuis les _Paramètres_ > _Général_ > _Divers_ > _Ajouter automatiquement aux documents des marqueurs à partir des mots-clés fournis_.
 
 Notez toutefois que même en décochant cette cas vous enregistrerez toujours les mots-clés associés lorsque vous ajoutez des documents via un **import de fichier** et non via le navigateur. Décocher cette case ne désactive pas l'import du champ _keywords_ (ou équivalent) présent dans un fichier bibliographique. Il y a donc de fortes chances que vous retrouviez tout de même des marqueurs ajoutés automatiquement dans votre bibliothèque. Par ailleurs, il est parfois utile de se référer aux mots-clés auteur ou aux indexations contrôlées d'une base de données.
 
 Pour conserver une liste de marqueurs personnels propre, facile à exploiter et bien distincte des marqueurs ajoutés automatiquement, la meilleure option est par conséquent de **préfixer** ses marqueurs personnels au moyen d'un signe typographique tel que le tiret bas `_`. Vos marqueurs personnels seront ainsi non seulement facilement identifiables, mais toujours présentés en premier dans le sélecteur de marqueurs.
 
-### Les recherches sauvegardés pour automatiser l'organisation
+### Les recherches sauvegardées pour automatiser l'organisation
 
 💡 **Conseil : laissez Zotero travailler pour vous**
 
@@ -353,23 +342,29 @@ Pour retrouver toutes les références pour lesquelles un champ est vide, par ex
 ```
 Résumé -- Ne contient pas -- %
 ```
+### Le lecteur de fichiers intégré à Zotero et ses outils d'annotation
 
-### Le lecteur de PDF intégré à Zotero et ses outils d'annotation
+![lecteur_pdf](img/lecteur_pdf_FR.png)
 
-![lecteur_pdf](img/zotero_pdf-reader.jpg)
+Le **lecteur de PDF** intégré à partir de Zotero 6 prend en charge depuis Zotero 7 les fichiers **EPUB** et les **captures de pages web**. Il offre notamment les fonctionnalités suivantes. Notez que ces fonctionnalités se combinent à celles d'un puissant **éditeur de notes**.
 
-Le lecteur de PDF intégré à Zotero depuis Zotero 6.0 offre notamment les fonctionnalités suivantes. Notez que Zotero 6.0 introduit également un nouvel **éditeur de notes**.
-
-* Ouvrir les PDF dans un lecteur intégré à la fenêtre principale de Zotero, dans une interface à onglets.
-* Modifier les informations bibliographiques d’un document tout en visualisant le PDF associé.
-* Annoter les PDF avec des surlignages et des annotations d'image et d'extraits de texte, **en intégrant systématiquement les informations de citation**.
-* **Ajouter les annotations dans des notes Zotero** : créer automatiquement une note à partir de toutes les annotations d'un PDF, ou ajouter des annotations provenant de différents PDF à une même note.
+* Ouvrir les fichiers soit dans la fenêtre principale de Zotero dans une interface à onglets, soit dans des fenêtres distinctes.
+* Modifier les informations bibliographiques d’un document tout en visualisant le fichier associé.
+* **Annoter** les fichiers avec des outils variés, parmi lesquels :
+ * créer des annotations textuelles ou manuscrites (uniquement dans les fichiers PDF),
+ * surligner et souligner avec 8 couleurs différentes,
+ * extraire du texte et des images et les commenter.
+* Intégrer systématiquement les **informations de citation**, y compris la page, à chaque annotation.
+* **Ajouter les annotations dans des notes Zotero** : créer automatiquement une note à partir de toutes les annotations d'un fichier, ou ajouter des annotations provenant de différents fichiers à une même note.
 * **Citer depuis les annotations** :  le nouveau bouton "Add Note" dans le module de traitement de texte insère le contenu d'une note Zotero et les citations associées.
 
-#### Stockage, import et export des annotations de PDF
+#### Stockage, import et export des annotations
 
-* Les annotations créées dans le lecteur de PDF de Zotero ne sont pas lisibles directement dans un lecteur de PDF externe. Elles ne sont en effet pas stockées dans le fichier PDF mais dans votre base de données Zotero. Elles peuvent bien sûr être exportées.
+* Les annotations créées dans le lecteur de fichiers de Zotero ne sont pas lisibles directement dans un lecteur de PDF externe. Elles ne sont en effet pas stockées dans le fichier mais dans votre base de données Zotero.
 * Zotero peut **importer les annotations** effectuées dans un lecteur de PDF externe, comme le faisait ZotFile.
+* Pour exporter des PDF avec leurs annotations intégrées, procédez comme suit.
+ * Sélectionnez les documents parents des PDF dans votre bibliothèque Zotero.
+ * Dans la barre de menu de Zotero, choisissez l'option *Fichier* > *Exporter le PDF...*.
 
 ### Ressources
 
@@ -402,50 +397,39 @@ Exemples d'organisations de bibliothèque Zotero par des utilisateurs : [ressour
 
 ![zotero][zotero] [Base de connaissance Zotero : Pourquoi Zotero stocke-t-il les annotations PDF dans sa base de données plutôt que dans le fichier PDF ?](https://docs.zotero-fr.org/kb/annotations_in_database)
 
-Billet du blog Zotero francophone : [Zotero 6 : transformer votre flux de travail de recherche](https://zotero.hypotheses.org/4145)
-
-📺 Vidéo de "La Boîte à outils des  historien·ne·s" concernant le lecteur de PDF de Zotero v6 :
+📺 Vidéo de "La Boîte à outils des  historien·ne·s" concernant le lecteur de PDF de Zotero 6 :
 
 Heimburger, F. (2022, avril 21). Découvrir Zotero 6 - Le lecteur de pdf et la prise de notes en vidéo. La boîte à outils des historien·ne·s. https://boiteaoutils.info/2022/04/decouvrir-zotero-6-le-lecteur-de-pdf-et-la-prise-de-notes-en-video/
-
-📑Mini-tutoriels sur Twitter :
-
-Bilal, M. (2022, août 30). Zotero 101 : A step-by-step guide with visuals [how to take notes and annotate PDFs in Zotero]. Twitter. https://twitter.com/MushtaqBilalPhD/status/1564522758696013824
-
-Bilal, M. (2022, septembre 11). Zotero 101 : A step-by-step guide with visuals [how to make groups and do « collaborative annotations. »]. Twitter. https://twitter.com/MushtaqBilalPhD/status/1568829219383218179
-
-Bilal, M. (2022, octobre 17). Zotero 101 : A step-by-step guide with visuals [how to supercharge your writing using Zotero’s Note Editor]. Twitter. https://twitter.com/MushtaqBilalPhD/status/1581927147685687297
-
 
 ## 5. Identifier et installer dans Zotero les styles bibliographiques de référence de son domaine
 
 ### Les types de style bibliographique
 
-Un style bibliographique définit la façon dont les éléments bibliographiques d’un document doivent être organisés et mis en forme.
+Un style bibliographique définit la façon dont les éléments bibliographiques d’un document sont organisés et mis en forme. C’est ainsi le style qui prescrit quelles informations bibliographiques sont affichées, dans quel ordre et selon quelle mise en forme (gras, italique, guillemets, ponctuation, retraits et espacements, etc.).
 
 On considère 2 éléments.
 
-*  Les **citations** : elles peuvent être insérées sous la forme d'appels de citation (nombre, nom de l'auteur et date, etc.) **dans le texte** ou de références plus ou moins abrégées **en note** de bas de page ou de fin.
-*   La **bibliographie**.
+* Les **citations** : elles peuvent être insérées soit sous la forme d’**appels de citation** (numéro, nom de l’auteur et date, etc.) **dans le texte**, soit sous la forme de références plus ou moins abrégées en **notes** de bas de page ou de fin.
+* La **bibliographie** ou **liste des références citées**.
 
-On distingue différents types de style bibliographiques, correspondant à des formats de style Zotero différents. On trouve ainsi dans [l'entrepôt des styles Zotero](https://www.zotero.org/styles), plus de 10'000 styles regroupés en 2 grands ensembles :
+On distingue différents types de style bibliographiques, correspondant à des formats de style Zotero différents. On trouve ainsi dans [le dépôt des styles Zotero](https://www.zotero.org/styles), plus de 10'000 styles regroupés en 2 grands ensembles :
 
 *   les styles _**in-text**_, dans lesquels un appel de citation dans le texte renvoie à une entrée de la bibliographie,
-*   les styles _**note**_, dans lesquels un marqueur (symbole, nombre, etc.) pointe vers une note de bas de page ou de fin, qui permet d’identifier le document cité.
+*   les styles _**note**_, dans lesquels un marqueur (symbole, nombre, etc.) pointe vers une note de bas de page ou de fin.
 
 #### Les styles _in-text_ numériques
-Dans le texte : chaque référence citée est appelée par un **numéro**.
+Les styles numériques sont les plus simples et les plus univoques. Dans le texte, chaque référence citée est appelée par un **numéro**. Une même référence conserve le même numéro tout au long du texte.
 
 >Yeast cells were grown at 25°C in batch cultures on 0.5% methanol for 36 hours <span style="color:#0000CD;">[21, 22]</span>.
 
-Dans la bibliographie : les références sont classées par **ordre d’apparition dans le texte**.
+Dans la bibliographie, les références sont classées par **ordre d’apparition dans le texte**.
 
 ><span style="color:#0000CD;">21\.</span> Zwart KB, Veenhuis M, Harder W (1983) Significance of yeast peroxisomes in the metabolism of choline and ethanolamine. Antonie Van Leeuwenhoek 49: 369-385.
 >
 ><span style="color:#0000CD;">22\.</span> van der Klei IJ, Harder W, Veenhuis M (1991) Methanol metabolism in a peroxisome-deficient mutant of Hansenula polymorpha: a physiological study. Arch Microbiol 156: 15-23.
 
 #### Les styles _in-text_ numériques composites
-Les styles numériques composites, dans lesquels une entrée bibliographique peut contenir plusieurs références, sont très utilisés en chimie.
+Dans les styles numériques composites, une entrée bibliographique peut contenir plusieurs références.
 
 **Ce type de style n'est pas pris en charge par CSL, le langage dans lequel sont écrits les styles bibliographiques utilisés par Zotero.**
 
@@ -457,25 +441,28 @@ Dans la bibliographie :
 
 ><span style="color:#0000CD;">1\. a)</span> Zwart KB, et al. (1983) Antonie van Leeuwenhoek 49: 369-385, <span style="color:#0000CD;">b)</span> van der Klei IJ, et al. (1991) Arch Microbiol 156: 15-23.
 
-#### Les styles _in-text_ auteur et auteur-date
-Dans le texte : chaque référence citée est appelée par le **nom de l'auteur** ou **le nom de l'auteur et la date de publication**.
+#### Les styles _in-text_ auteur-date
+
+Les styles auteur-date sont un peu plus complexes que les styles numériques, car l’appel de citation est composé du nom d’un ou de plusieurs des auteurs et de la date. Ces styles intègrent ainsi des règles de **désambiguïsation**, c’est-à-dire des règles prescrivant l’ajout d’informations pour distinguer des appels de citation qui font référence à des documents différents mais qui pourraient être identiques. Pour distinguer deux articles parus la même année avec le même nom de premier auteur, on ajoute par exemple un suffixe à chacun des appels de citation : (Smith 2017a ; Smith 2017b).
+
+Dans le texte, chaque référence citée est appelée par **le nom de l'auteur et la date de publication**.
 
 > Yeast cells were grown at 25°C in batch cultures on 0.5% methanol for 36 hours <span style="color:#0000CD;">(van der Klei et al. 1991; Zwart et al. 1983)</span>
 >
 >Yeast cells were grown at 25°C in batch cultures on 0.5% methanol for 36 hours <span style="color:#0000CD;">(van der Klei et al.; Zwart et al.)</span></cite>
 
-Dans la bibliographie : les références sont classées par **ordre alphabétique d'auteur**.
+Dans la bibliographie, les références sont classées par **ordre alphabétique d'auteur**.
 
 >van der Klei IJ, Harder W, Veenhuis M (1991) Methanol metabolism in a peroxisome-deficient mutant of Hansenula polymorpha: a physiological study. Arch Microbiol 156: 15-23.
 >
 >Zwart KB, Veenhuis M, Harder W (1983) Significance of yeast peroxisomes in the metabolism of choline and ethanolamine. Antonie Van Leeuwenhoek 49: 369-385.
 
 #### Les styles _in-text_ label
-Dans le texte : chaque référence citée est appelée par un **code**.
+Dans le texte, chaque référence citée est appelée par un **code**.
 
 >Yeast cells were grown at 25°C in batch cultures on 0.5% methanol for 36 hours <span style="color:#0000CD;">[ZwVH1983; vaHV1991]</span>.</cite>
 
-Dans la bibliographie : les références sont classées par **ordre d’apparition dans le texte**.
+Dans la bibliographie, les références sont classées par **ordre d’apparition dans le texte**.
 
 ><span style="color:#0000CD;">[ZwVH1983]</span> Zwart KB, Veenhuis M, Harder W (1983) Significance of yeast peroxisomes in the metabolism of choline and ethanolamine. Antonie Van Leeuwenhoek 49: 369-385.
 >
@@ -493,19 +480,21 @@ Un label personnalisé peut être défini, mais cela devra être fait manuelleme
 * Par conséquent, il faudra **désambiguïser** manuellement des labels qui seraient identiques mais se rapporteraient à des articles différents (même premier auteur et même année).
 
 #### Les styles _note_
-Dans le texte :
+Les styles avec notes, utilisés plutôt dans les domaines des lettres et arts et des sciences humaines, sont les plus complexes. Les citations ne sont pas des codes insérés dans le texte, mais des références rédigées de façon plus ou moins abrégée, insérées en tant que note de bas de page ou de fin de document. Il est de plus parfois fait usage de mentions latines tels que _ibidem_, _op. cit._, etc., selon des règles de substitution précises.
+
+On trouve ainsi dans le texte un appel de note, et en bas de page ou en fin de document le contenu de la note.
 
 >"In the Island of St. Kilda, according to Martin, <span style="color:#0000CD;">[*]</span> the men do not acquire beards until the age of thirty or upwards, and even then the beards are very thin. “
 >
 ><span style="color:#0000CD;">[*]</span>'Voyage to St. Kilda' (3rd edit. 1753), p. 37.
 
-Dans la bibliographie : certains styles _note_ incluent une bibliographie de tous les documents cités. Les références sont en général classées **par ordre alphabétique d'auteur**.
+Dans la bibliographie, les références sont en général classées par **ordre alphabétique d’auteur**. Notez que certains styles avec notes ne prévoient pas de liste récapitulative des références citées.
 
 Le format du marqueur doit être paramétré dans le **traitement de texte**.
 
-**Exemple dans Word 2010**
+**Exemple dans LibreOffice**
 
-![marqueur_note_word](img/word_note.png)
+![marqueur_note_libre_office](img/libreoffice_note.png)
 
 ### Comment choisir un style bibliographique lorsqu'aucun n'est imposé?
 
@@ -518,26 +507,67 @@ Vous utilisez le style de l'ED droit de Bordeaux? Consultez la [Documentation du
 
 
 #### Critère de choix 2, typologie documentaire prise en charge
-Citez-vous de nombreux types de documents différents? Tous les styles ne prennent pas en charge tous les types de documents. Le style _Nature_, par exemple, ne sera pas le plus adapté si vous citez des documents non publiés comme les thèses. La revue _Nature_ demande aux auteurs de citer un nombre restreint de types de document (voir les [instructions aux auteurs](http://www.nature.com.docelec.u-bordeaux.fr/nature/for-authors/formatting-guide), rubrique _References_), aussi le style CSL pour Zotero _Nature_ encode-t-il la mise en forme des citations uniquement pour ces types de document.
+
+Citez-vous de nombreux types de documents différents? Tous les styles ne prennent pas en charge tous les types de documents. Le style _Nature_, par exemple, ne sera pas le plus adapté si vous citez des documents non publiés comme les thèses. La revue _Nature_ demande aux auteurs de citer un nombre restreint de types de document (voir les [instructions aux auteurs](http://www.nature.com/nature/for-authors/formatting-guide), rubrique _References_), aussi le style CSL pour Zotero _Nature_ encode-t-il la mise en forme des citations uniquement pour ces types de document.
 
 #### Critère de choix 3, langue de rédaction
-Rédigez-vous seulement en français? Seulement dans une autre langue? Dans différentes langues selon les cas? Si certains styles sont agnostiques du point de vue de la langue, d'autres ont au contraire une langue prédéfinie qui ne peut pas être modifiée. Ainsi le style _Nature_ est-il paramétré uniquement pour la langue anglaise, selon la norme britannique.
 
-Tous les styles "localisés" pour une langue autre que l'anglais comporte le nom de cette langue dans leur intitulé. Ainsi, rechercher **français** dans l'entrepôt des styles Zotero affichera uniquement les styles localisés pour la langue française. Les styles sans mention de langue sont soit "localisés" en anglais, soit agnostiques du point de vue de la langue.
+Rédigez-vous seulement en français ? Seulement dans une autre langue ? Dans différentes langues selon les cas ? Si certains styles sont agnostiques du point de vue de la langue, d'autres ont au contraire une langue prédéfinie qui ne peut pas être modifiée. Ainsi le style « Nature » est-il paramétré uniquement pour la langue anglaise, selon la norme britannique.
 
-#### L'aperçu des styles de Zotero pour comparer facilement différents styles bibliographiques
+Tous les styles localisés pour une langue autre que l’anglais comporte le nom de cette langue dans leur intitulé. Ainsi, rechercher « français » dans l’entrepôt des styles Zotero affichera uniquement les styles localisés pour la langue française. Les styles sans mention de langue sont soit localisés en anglais, soit agnostiques du point de vue de la langue.
 
-Zotero possède un outil intégré pour comparer les styles, l'_Aperçu des styles_, accessible depuis les _Préférences > Citer_.
+Limiter l’utilisation d’un style à une langue déterminée permet d’éviter les erreurs de la part des utilisateurs : quelle que soit la langue par défaut de l’utilisateur, ce dernier ne pourra pas rédiger les éléments bibliographiques dans une autre langue que celle prévue par le style bibliographique. Une revue publiant des articles dans une unique langue se prémunira ainsi des erreurs de langue en localisant son style bibliographique. Par ailleurs, cela permet de définir précisément et rigoureusement la ponctuation et de s’assurer du respect scrupuleux des règles de typographie, prescrivant par exemple d’insérer une espace insécable avant le point-virgule en français.
+
+#### Comparer facilement des styles dans Zotero
+
+Deux outils facilitent la comparaison des styles bibliographiques dans Zotero :
+* la fonctionnalité _Aperçu des styles_ intégrée dans Zotero et accessible depuis les depuis les _Paramètres_ > _Citer_.
+* le module complémentaire [ZoteroPreview](https://github.com/dcartertod/zotero-plugins), qui doit être installé en plus de Zotero.
 
 ![pref_styles_outils](img/pref_styles_outils.png)
 
-L'_Aperçu des styles_ vous permet de comparer rapidement tout ou partie des styles que vous avez installés, en générant des appels de citation et une bibliographie à partir de documents sélectionnés dans votre bibliothèque.
+On ne considère pas ici l'affichage de l'en-tête du panneau de droite sous la forme d'une entrée bibliographique. Cette fonctionnalité n'affiche en effet pas la **citation**, or il s'agit d'un élément important à prendre en compte dans la comparaison de styles.
+
+![en-tête du panneau de droite de Zotero sous la forme d'une entrée de bibliographie](img/entete_entree_bib.png)
+
+
+##### L'aperçu des styles
+
+L’aperçu des styles présente le double avantage d’être intégré à Zotero et de générer un aperçu à partir d’une ou plusieurs références sélectionnées dans la bibliothèque Zotero. En revanche plusieurs clics sont nécessaires pour générer l’aperçu, dont la lecture peut être difficile si vous avez installé un grand nombre de styles.
 
 ![apercu](img/apercu_styles.png)
 
-Afin que cet aperçu soit significatif et parlant, il importe de s'assurer de deux points.
+##### ZoteroPreview
 
-Tout d'abord, assurez-vous que ces documents reflètent la **diversité de types de document** que vous allez citer (article, chapitre, mais aussi thèse ou encore brevet ou film ) : vous vérifierez ainsi que tous ces types sont bien pris en compte par les styles que vous comparez.
+[ZoteroPreview](https://github.com/dcartertod/zotero-plugins) offre un affichage immédiat de la mise en forme effectuée par un style bibliographique, en revanche il n’est pas possible de sélectionner plusieurs références ni plusieurs styles en même temps. ZoteroPreview est un module complémentaire et il n’est donc pas installé par défaut dans Zotero. Il convient de suivre les indications suivantes pour l’installer.
+
+L’installation d’un module complémentaire dans Zotero consiste à charger dans Zotero un fichier d’un format particulier, le format `.xpi`. Ainsi, pour installer un module complémentaire, il faut procéder selon les étapes suivantes.
+    • Enregistrer sur son ordinateur le fichier `.xpi`mis à disposition sur le site du module complémentaire que l’on souhaite installer.
+    • Dans Zotero, aller dans le menu _Outils_ > _Extensions_.
+    • Cliquer sur la roue dentée et choisir _Install Plugin From File_.
+    • Sélectionner et charger le fichier `.xpi`.
+Il faut parfois redémarrer Zotero pour finaliser l’installation.
+
+![fenêtre d'installation d'un module complémentaire](img/install_module.png)
+
+La prévisualisation affiche à la fois la citation et l'entrée bibliographique du document, en haut ou en bas du panneau de droite, avec un bouton de copie.
+
+<!--![ZoteroPreview : la prévisualisation d'un document et les boutons de copie](img/zotero_preview_ref.pnf)-->
+
+
+La section _Zotero Preview_ des  _Paramètres_ de Zotero, ajoutée lors de l'installation du module, permet de définir :
+
+* le style bibliographique à appliquer,
+* l'emplacement de la prévisualisation,
+* la taille des caractères et l'espacement des interlignes.
+
+ <!--![ZoteroPreview : fenêtre de paramétrage](img/zotero_preview_settings.pnf)-->
+
+##### Points de vigilance
+
+Quel que soit l'outil et la méthode utilisés pour comparer des styles, afin que cela soit significatif et parlant, il importe de s'assurer de deux points.
+
+Tout d'abord, assurez-vous que les documents que vous utilisez comme exemples reflètent la **diversité de types de documents** que vous allez citer (article, chapitre, mais aussi thèse ou encore brevet ou film ) : vous vérifierez ainsi que tous ces types sont bien pris en compte par les styles que vous comparez.
 
 Ensuite, et surtout, assurez-vous que ces documents sont complets et exacts.
 
@@ -579,7 +609,7 @@ Bien sûr, vous pouvez appliquer les règles de citation à la main, mais Zotero
 
 * compter les auteurs et afficher _et al._ si nécessaire ;
 * calculer, générer et mettre à jour des citations textuelles précises, qu'elles soient numériques ou sur le modèle auteur-date ;
-* inclure toutes les références que vous avez citées dans votre texte dans la bibliographie ;
+* inclure toutes les références que vous avez citées dans votre texte (et seulement celles-là) dans la bibliographie ;
 * trier cette bibliographie en fonction des exigences du style de citation ;
 * gérer et corriger la ponctuation, les majuscules, les indentations ;
 * _et bien plus encore..._
@@ -663,7 +693,7 @@ Billets du blog Zotero francophone
 **/!\\** 2 points de vigilance :
 
 * Assurez-vous que le répertoire de données Zotero fait bien partie des données que vous sauvegardez automatiquement et régulièrement.
-* Si vous avez un profil itinérant Windows, déplacez votre répertoire de données Zotero à un autre emplacement, comme dans l'exemple ci-dessous.
+* Si vous avez un profil itinérant Windows, déplacez votre répertoire de données Zotero à un autre emplacement.
 
 ![zotero_pref_emplacement_perso](img/zotero_pref_emplacement_perso.png)
 
@@ -688,17 +718,19 @@ Vous trouverez un premier ensemble de trucs et astuces pour optimiser et augment
 
 ![zotero][zotero] Dans la documentation Zotero, la rubrique [Tirer le meilleur parti de Zotero](https://docs.zotero-fr.org/locate/) constitue un bon point de départ pour explorer toutes les potentialités du logiciel.
 
-#### Configurer l'option "Rechercher dans la bibliothèque"
+#### Configurer l'option "Recherche dans la bibliothèque"
 
 Dans cette rubrique "Tirer le meilleur parti de Zotero", le paramétrage de l'OpenURL de votre institution est un exemple de réglage complémentaire simple à effectuer, source de gain de temps et d'efficacité pour localiser le texte intégral d'une ressource et y accéder.
 
-Dans l'onglet _Préférences_>_Avancées_ > _Générales_ , rubrique _OpenURL_, ouvrez le menu déroulant et naviguez dans la liste géographique pour sélectionner votre établissement.
+Dans la section _Paramètres_>_Général_, rubrique _Localiser_, ouvrez le menu déroulant _Résolveur de liens_ et naviguez dans la liste géographique pour sélectionner votre établissement.
 
 ![zotero_openurl](img/zotero_openurl.png)
 
 Cela vous permettra de générer la page du système documentaire de votre établissement (Babord+ dans les universités de Bordeaux) correspondant au document sélectionné dans votre bibliothèque Zotero. Cette page affiche toutes les options d'accès disponibles dans votre établissement, et vous pourrez ainsi trouver des PDF que Zotero ne sera pas parvenu à télécharger automatiquement.
 
-Il vous suffira pour cela de cliquer sur _Recherche dans la bibliothèque_, accessible depuis le menu _Localiser_, c'est-à-dire la flèche verte en haut du volet de droite dans votre bibliothèque Zotero.
+Il vous suffira pour cela de cliquer sur _Recherche dans la bibliothèque_, accessible depuis le menu _Localiser_, c'est-à-dire la flèche entourée d'un cercle en bas de la barre de raccourcis du panneau de droite.
+
+![bouton_localiser](img/bouton_localiser.png)
 
 ![zotero][zotero] [Documentation Zotero : Le menu Localiser](https://docs.zotero-fr.org/locate)
 
