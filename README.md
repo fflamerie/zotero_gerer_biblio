@@ -9,9 +9,7 @@ Matériel de la formation ["Gérer facilement sa bibliographie avec Zotero"](htt
 * Comprendre l'environnement de Zotero pour en optimiser et en augmenter l'usage
 
 ## Cours
-Support de cours complet :
-* [COURS à consulter en ligne en html](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_COURS.md) 
-* [COURS à télécharger en PDF](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_COURS.pdf)
+Support de cours complet : [COURS à consulter en ligne en html](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_COURS.md)  
 
 ## Exercices
 ### Exercice "Autres méthodes pour ajouter des documents"
