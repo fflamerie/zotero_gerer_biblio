@@ -1,6 +1,6 @@
 # Gérer facilement sa bibliographie avec Zotero
 
-Matériel de la formation ["Gérer facilement sa bibliographie avec Zotero"](https://sygefor.reseau-urfist.fr/#/training/9695/11446) à l'Urfist Bordeaux.
+Matériel de la formation ["Gérer facilement sa bibliographie avec Zotero"](https://sygefor.reseau-urfist.fr/#/training/10642/12966?from=true) à l'Urfist Bordeaux.
 
 ## Objectifs
 
@@ -39,9 +39,9 @@ Fatigué de devoir rédiger et mettre en forme manuellement vos références bib
 
 Zotero est un logiciel de gestion bibliographique robuste et fiable, gratuit et libre, et plus encore un assistant de recherche personnel.
 
-Il simplifie et automatise toutes les étapes de la bibliographie, de l'import des références bibliographiques à leur citation dans un document rédigé, en générant tant les appels de citation ou les notes de bas de page que la bibliographie. Grâce à Zotero, vous disposez ainsi d'une base de données cohérente et organisée, recensant à la fois les références bibliographiques et les documents qu’elles décrivent, acceptant une large typologie documentaire, des livres aux pages internet, et exploitable en un clic dans de multiples contextes.
+Il simplifie et automatise toutes les étapes de la bibliographie, de l'import des références bibliographiques à leur citation dans un document rédigé, en générant tant les appels de citation ou les notes de bas de page que la bibliographie. Grâce à Zotero, vous disposez d'une base de données cohérente et organisée, exploitable en un clic dans de multiples contextes. Zotero intègre également un lecteur de PDF, vous permettant d’annoter les PDF, de générer des notes à partir de ces annotations et enfin d’insérer ces notes et les citations associées directement dans votre document de traitement de texte.
 
-L’enjeu du stage est de permettre aux participants de maîtriser l'interface et les principales fonctionnalités de Zotero, ainsi que d'identifier les ressources disponibles pour un usage plus avancé du logiciel (forum, documentation, modules complémentaires, etc.).
+A l’issue du stage, les participants maîtriseront l'interface et les principales fonctionnalités de Zotero. Ils sauront identifier les ressources disponibles pour un usage plus avancé du logiciel : forum, documentation, modules complémentaires, etc.
 
 * Installer et configurer Zotero
 * Constituer sa bibliothèque Zotero, en ajoutant des références bibliographiques depuis diverses sources (bases de données en ligne, catalogues de bibliothèque, fichiers PDF, etc.) et en leur associant des fichiers joints
