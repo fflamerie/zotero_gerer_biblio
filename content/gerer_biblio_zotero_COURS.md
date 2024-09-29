@@ -8,10 +8,6 @@
 
 ## Sommaire
 
-<!-- MDTOC maxdepth:1 firsth1:0 numbering:0 flatten:0 bullets:1 updateOnSave:0 -->
-
-- [Objectifs](#objectifs)   
-- [Sommaire](#sommaire)   
 - [0. Tour de table](#0-tour-de-table)   
 - [1. Introduction](#1-introduction)   
 - [2. Installer et configurer Zotero](#2-installer-et-configurer-zotero)   
@@ -22,10 +18,6 @@
 - [7. De la bibliothèque Zotero à la bibliographie en ligne](#7-de-la-bibliothèque-zotero-à-la-bibliographie-en-ligne)   
 - [8. Où vont vos données Zotero?](#8-où-vont-vos-données-zotero)   
 - [9. Conclusion](#9-conclusion)   
-
-<!-- /MDTOC -->
-
-<div style="page-break-after: always;"></div>
 
 ##  0. Tour de table
 
