@@ -294,7 +294,7 @@ Nous nous concentrons sur les fonctionnalités les plus utiles quand on commence
 
 ⚠️ Dans Zotero, l'icône associée à une **collection** est un dossier, mais les collections ressemblent davantage à des **listes de lecture musicales** (pensez à iTunes, Spotify, etc.) qu'à des dossiers dans le système de fichiers de votre ordinateur.
 
-### Exercice 4 "Démarrer avec l'organisation de sa bibliothèque"
+### Exercice "Démarrer avec l'organisation de sa bibliothèque"
 
 Nous prenons **5 minutes** pour cette activité.
 
@@ -358,7 +358,7 @@ Zotero peut **importer les annotations** effectuées dans un lecteur de PDF exte
 Pour **exporter** de Zotero des PDF avec leurs annotations intégrées, procédez comme suit.
 
  * Sélectionnez les documents parents des PDF dans votre bibliothèque Zotero.
- * Dans la barre de menu de Zotero, choisissez l'option *Fichier* > *Exporter le PDF...*.
+ * Dans la barre de menu de Zotero, choisissez l'option *Fichier* > *Exporter le PDF...*
 
 ### Ressources
 
