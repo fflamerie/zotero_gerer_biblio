@@ -233,7 +233,20 @@ Nous prenons **10 minutes** pour cette activité.
 
 Ajoutez des documents en utilisant l'une des méthodes suivantes.
 
-* **Baguette magique** : utilisez [cette liste de DOI](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/zotero_gerer_biblio_import-DOI.txt).
+* **Baguette magique** : utilisez les DOI ci-dessous :
+
+```
+10.3389/FMARS.2017.00031
+10.3389/fncir.2012.00077
+10.3389/fnsys.2013.00014
+10.3390/s17122757
+10.3397/1.3702019
+10.3724/SP.J.1118.2018.17252
+10.3757/jser.49.Suppl-6_36
+10.3758/BF03328608
+10.3923/jeasci.2018.9380.9384
+```
+
 * **Saisie manuelle** : un rapport interne, une présentation ou tout autre document que vous ne trouvez pas en ligne.
 * **A partir d'un PDF** : utilisez vos propres fichiers ou [les fichiers de ce dossier](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/import-PDF).
 
@@ -244,7 +257,7 @@ N'oubliez pas de vérifier et de modifier les documents que vous enregistrez dan
 Zotero propose des fonctions intelligentes pour rendre cela plus facile et plus rapide que d'effectuer chaque modification entièrement manuellement. Par exemple :
 
 * cliquez avec le bouton droit de la souris sur le contenu d'un champ `Créateur` pour inverser le nom et le prénom ou corriger la casse,
-* cliquez avec le bouton droit de la souris sur le contenu d'un champ `Titre` pour transformer le texte avec toutes les _Initiales en Majuscules_ ou seulement une _Lettre capitale en début de phrase_ (et inversement),
+* cliquez avec le bouton droit de la souris sur le contenu d'un champ `Titre` pour transformer le texte avec toutes les _Initiales en Majuscules_ ou une _Lettre capitale en début de phrase_,
 * etc.
 
 Quelle que soit la méthode que vous utilisez pour ajouter des documents dans votre bibliothèque, il peut y avoir des coquilles à corriger ou des informations à ajouter.
@@ -313,7 +326,7 @@ Nous prenons **5 minutes** pour cette activité.
 
 ### Conserver ou non les marqueurs enregistrés automatiquement?
 
-Par défaut, Zotero enregistre automatiquement les mots-clés associés au document dans la base à partir de laquelle vous l'avez enregistré  : indexation Rameau dans le Sudoc, mots-clés auteur dans les sites d'éditeur et les bases de données bibliographiques, indexation contrôlée dans les bases de données bibliographiques. Tous ces termes hétérogènes accumulés peuvent finir par produire une liste de termes redondants (synonymes, variantes diverses d'un même mot) difficile à exploiter, et qui vient parasiter votre liste de marqueurs personnels.
+Par défaut, Zotero enregistre automatiquement les mots-clés associés au document dans la base à partir de laquelle vous l'avez enregistré : indexation Rameau dans le Sudoc, mots-clés auteur dans les sites d'éditeur et les bases de données bibliographiques, indexation contrôlée dans les bases de données bibliographiques. Tous ces termes hétérogènes accumulés peuvent finir par produire une liste de termes redondants (synonymes, variantes diverses d'un même mot) difficile à exploiter, et qui vient parasiter votre liste de marqueurs personnels.
 
 Vous pouvez désactiver cet enregistrement depuis les _Paramètres_ > _Général_ > _Divers_ > _Ajouter automatiquement aux documents des marqueurs à partir des mots-clés fournis_.
 
