@@ -59,7 +59,7 @@ Pourquoi Safari est-il barré ? Le connecteur Zotero pour Safari est beaucoup pl
 
 Pourquoi est-ce important?
 
-* Les utilisateurs peuvent contribuer au logiciel - voir [la liste complète des modules complémentaires à Zotero](https://www.zotero.org/support/plugins), et participer à la communauté des utilisateurs par le biais du [Forum Zotero](https://forums.zotero.org/).
+* Les utilisateurs peuvent contribuer au logiciel - voir [la liste complète des extensions de Zotero](https://www.zotero.org/support/plugins), et participer à la communauté des utilisateurs par le biais du [Forum Zotero](https://forums.zotero.org/).
 * Le développement est agile et orienté vers les utilisateurs.
 * Zotero est développé par une organisation à but non lucratif, sans intérêt financier pour vos données ; vous n'êtes pas obligé de créer un compte pour utiliser Zotero.
 
@@ -88,15 +88,15 @@ Pour profiter pleinement de Zotero, le logiciel doit être connecté à votre na
 2. Ouvrez votre navigateur et vérifiez que l'icône Zotero apparaît dans la barre d'outils. Si elle n'apparaît pas, suivez les indications fournies dans la page dédiée de la documentation Zotero : [Pourquoi n'y a-t-il pas de bouton d'enregistrement dans la barre d'outils de mon navigateur ?](https://docs.zotero-fr.org/kb/no_toolbar_button/#pourquoi-ny-a-t-il-pas-de-bouton-denregistrement-dans-la-barre-doutils-de-mon-navigateur)
 3. Ouvrez votre traitement de texte et vérifiez si l'extension Zotero est installée. En général, après l'installation de Zotero, un nouvel onglet apparaît dans votre traitement de texte. En fonction de votre logiciel, Zotero peut aussi être affiché avec d'autres "Compléments".
 
-Si l'installation du module de traitement de texte n'a pas fonctionné, vous pouvez le réinstaller à partir de Zotero lui-même.
+Si l'installation de l'extension de traitement de texte n'a pas fonctionné, vous pouvez la réinstaller à partir de Zotero lui-même.
 
 1. Ouvrez Zotero.
 2. Allez à *Edition > Paramètres* (ou *Zotero > Paramètres* sur Mac OS).
 3. Cliquez sur l'onglet *Citer*.
 4. Descendez à la rubrique _Traitements de texte_.
-5. À ce stade, vous pouvez choisir d'installer ou de réinstaller un ou plusieurs modules pour traitement de texte, en fonction des logiciels de traitement de texte installés sur votre ordinateur.
+5. À ce stade, vous pouvez choisir d'installer ou de réinstaller un ou plusieurs extensions pour traitement de texte, en fonction des logiciels de traitement de texte installés sur votre ordinateur.
 
-![zotero][zotero] [Documentation Zotero : Modules pour logiciel de traitement de texte](https://docs.zotero-fr.org/word_processor_integration)
+![zotero][zotero] [Documentation Zotero : Les extensions pour logiciel de traitement de texte](https://docs.zotero-fr.org/word_processor_integration)
 
 ![zotero][zotero] [Documentation Zotero : Préférences](https://docs.zotero-fr.org/preferences)
 
@@ -360,7 +360,7 @@ Le **lecteur de PDF** intégré à partir de Zotero 6 prend en charge depuis Zot
   * extraire du texte et des images et les commenter.
 * Intégrer systématiquement les **informations de citation**, y compris la page, à chaque annotation.
 * **Ajouter les annotations dans des notes Zotero** : créer automatiquement une note à partir de toutes les annotations d'un fichier, ou ajouter des annotations provenant de différents fichiers à une même note.
-* **Citer depuis les annotations** :  le nouveau bouton "Add Note" dans le module de traitement de texte insère le contenu d'une note Zotero et les citations associées.
+* **Citer depuis les annotations** :  le nouveau bouton "Add Note" dans le extension de traitement de texte insère le contenu d'une note Zotero et les citations associées.
 
 #### Stockage, import et export des annotations
 
@@ -528,7 +528,7 @@ Limiter l’utilisation d’un style à une langue déterminée permet d’évit
 Deux outils facilitent la comparaison des styles bibliographiques dans Zotero :
 
 * la fonctionnalité _Aperçu des styles_ intégrée dans Zotero et accessible depuis les depuis les _Paramètres_ > _Citer_,
-* le module complémentaire [ZoteroPreview](https://github.com/dcartertod/zotero-plugins), qui doit être installé en plus de Zotero.
+* l'extension [ZoteroPreview](https://github.com/dcartertod/zotero-plugins), qui doit être installée en plus de Zotero.
 
 ![pref_styles_outils](img/pref_styles_outils.png)
 
@@ -545,24 +545,24 @@ L’aperçu des styles présente le double avantage d’être intégré à Zoter
 
 ##### ZoteroPreview
 
-[ZoteroPreview](https://github.com/dcartertod/zotero-plugins) offre un affichage immédiat de la mise en forme effectuée par un style bibliographique, en revanche il n’est pas possible de sélectionner plusieurs références ni plusieurs styles en même temps. ZoteroPreview est un module complémentaire et il n’est donc pas installé par défaut dans Zotero.
+[ZoteroPreview](https://github.com/dcartertod/zotero-plugins) offre un affichage immédiat de la mise en forme effectuée par un style bibliographique, en revanche il n’est pas possible de sélectionner plusieurs références ni plusieurs styles en même temps. ZoteroPreview est une extension et il n’est donc pas installé par défaut dans Zotero.
 
-L’installation d’un module complémentaire dans Zotero consiste à charger dans Zotero un fichier d’un format particulier, le format `.xpi`. Ainsi, pour installer un module complémentaire, il faut procéder selon les étapes suivantes.
+L’installation d’une extension dans Zotero consiste à charger dans Zotero un fichier d’un format particulier, le format `.xpi`. Ainsi, pour installer une extension, il faut procéder selon les étapes suivantes.
 
-* Enregistrer sur son ordinateur le fichier `.xpi`mis à disposition sur le site du module complémentaire que l’on souhaite installer.
+* Enregistrer sur son ordinateur le fichier `.xpi`mis à disposition sur le site de l'extension que l’on souhaite installer.
 * Dans Zotero, aller dans le menu _Outils_ > _Extensions_.
 * Cliquer sur la roue dentée et choisir _Install Plugin From File_.
 * Sélectionner et charger le fichier `.xpi`.
 
 Il faut parfois redémarrer Zotero pour finaliser l’installation.
 
-![fenêtre d'installation d'un module complémentaire](img/install_module.png)
+![fenêtre d'installation d'une extension](img/install_module.png)
 
 ZoteroPreview affiche un aperçu de la citation et/ou de l'entrée bibliographique du document dans le panneau de droite, avec un bouton de copie.
 
 ![ZoteroPreview : la prévisualisation d'un document et les boutons de copie](img/zotero_preview_ref.png)
 
-La section _ZoteroPreview_ des  _Paramètres_ de Zotero, ajoutée lors de l'installation du module, permet de définir :
+La section _ZoteroPreview_ des  _Paramètres_ de Zotero, ajoutée lors de l'installation de l'extension, permet de définir :
 
 * le style bibliographique à appliquer,
 * la position de l'aperçu dans le panneau de droite (en haut, en bas ou après la section Info),
@@ -644,7 +644,7 @@ Le style bibliographique utilisé est un style auteur-date, le style **ISO-690 (
 
 ![zotero][zotero] [Documentation Zotero : Créer des bibliographies](https://docs.zotero-fr.org/creating_bibliographies)
 
-![zotero][zotero] [Documentation Zotero : Modules pour logiciel de traitement de texte](https://docs.zotero-fr.org/word_processor_integration)
+![zotero][zotero] [Documentation Zotero : Les extensions pour logiciel de traitement de texte](https://docs.zotero-fr.org/word_processor_integration)
 
 Si vous utilisez d'autres logiciels que Word ou LibreOffice :
 
