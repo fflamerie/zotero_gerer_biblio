@@ -1,6 +1,6 @@
 # Gérer facilement sa bibliographie avec Zotero
 
-Matériel de la formation "Gérer facilement sa bibliographie avec Zotero" à l'Urfist de Bordeaux.
+Matériel de la formation "Gérer facilement sa bibliographie avec Zotero" - stage Urfist.
 
 ## Objectifs
 
