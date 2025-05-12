@@ -1,6 +1,6 @@
 # Gérer facilement sa bibliographie avec Zotero
 
-Matériel de la formation ["Gérer facilement sa bibliographie avec Zotero"](https://sygefor.reseau-urfist.fr/#/training/10642/12966?from=true) à l'Urfist Bordeaux.
+Matériel de la formation "Gérer facilement sa bibliographie avec Zotero" à l'Urfist de Bordeaux.
 
 ## Objectifs
 
@@ -10,6 +10,8 @@ Matériel de la formation ["Gérer facilement sa bibliographie avec Zotero"](htt
 
 ## Cours
 Support de cours complet : [COURS à consulter en ligne en html](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_COURS.md)  
+
+Supplément sur la gestion des PDF : Être ou ne pas être dans Zotero : quel choix pour vos PDF et autres fichiers joints ? - [schéma au format .odg](https://github.com/zfrancophone/zfrancophone-blog/blob/master/2019-09-zotfile/zotero_choix_gestion_fichiers.odg) et [schéma au format .pdf](https://github.com/zfrancophone/zfrancophone-blog/blob/master/2019-09-zotfile/zotero_choix_gestion_fichiers.pdf)
 
 ## Exercices
 ### Exercice "Autres méthodes pour ajouter des documents"
@@ -23,27 +25,12 @@ Le style bibliographique utilisé est un style auteur-date, le style **ISO-690 (
 * [fichier .DOC à modifier](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/zotero_gerer_biblio_TP_citer_EXERCICE.doc) 
 * [fichier .PDF modèle](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/zotero_gerer_biblio_TP_citer_MODELE.pdf)
 
-
-## Suppléments
-### Gestion des PDF
-
-Être ou ne pas être dans Zotero : quel choix pour vos PDF et autres fichiers joints ? - [schéma au format .odg](https://github.com/zfrancophone/zfrancophone-blog/blob/master/2019-09-zotfile/zotero_choix_gestion_fichiers.odg) et [schéma au format .pdf](https://github.com/zfrancophone/zfrancophone-blog/blob/master/2019-09-zotfile/zotero_choix_gestion_fichiers.pdf)
-
-### Zotero pour une revue de littérature 
-
-:card_file_box: Trucs et astuces pour optimiser l'utilisation de Zotero dans le contexte d'une revue de littérature : [à consulter en ligne en html](https://github.com/fflamerie/zotero_intro_FR/blob/master/content/zotero_truc_syst.md) - [à télécharger en PDF](https://github.com/fflamerie/zotero_intro_FR/blob/master/content/zotero_truc_syst.pdf)
-
-:bookmark_tabs: Billet du blog Zotero francophone : [Zotero pour les revues de littérature](https://zotero.hypotheses.org/4359)
-
 ## Programme de la formation publié sur le site de l'Urfist
 
-Fatigué de devoir rédiger et mettre en forme manuellement vos références bibliographiques ? De reprendre tout le classement de votre bibliographie lorsque vous insérez une nouvelle citation ? Lassé de gérer la dispersion et l'absence de liens entre vos références bibliographiques, les fichiers des articles (et d'autres fichiers), vos notes, etc.?
-
+Fatigué de devoir rédiger et mettre en forme manuellement vos références bibliographiques ? De reprendre tout le classement de votre bibliographie lorsque vous insérez une nouvelle citation ? Lassé de gérer la dispersion et l'absence de liens entre vos références bibliographiques, vos PDF, vos notes, etc.?
 Zotero est un logiciel de gestion bibliographique robuste et fiable, gratuit et libre, et plus encore un assistant de recherche personnel.
-
 Il simplifie et automatise toutes les étapes de la bibliographie, de l'import des références bibliographiques à leur citation dans un document rédigé, en générant tant les appels de citation ou les notes de bas de page que la bibliographie. Grâce à Zotero, vous disposez d'une base de données cohérente et organisée, exploitable en un clic dans de multiples contextes. Zotero intègre également un lecteur de PDF, vous permettant d’annoter les PDF, de générer des notes à partir de ces annotations et enfin d’insérer ces notes et les citations associées directement dans votre document de traitement de texte.
-
-A l’issue du stage, les participants maîtriseront l'interface et les principales fonctionnalités de Zotero. Ils sauront identifier les ressources disponibles pour un usage plus avancé du logiciel : forum, documentation, modules complémentaires, etc.
+A l’issue du stage, les participants maîtriseront l'interface et les principales fonctionnalités de Zotero. Ils sauront identifier les ressources disponibles pour un usage plus avancé du logiciel : forum, documentation, extensions, etc.
 
 * Installer et configurer Zotero
 * Constituer sa bibliothèque Zotero, en ajoutant des références bibliographiques depuis diverses sources (bases de données en ligne, catalogues de bibliothèque, fichiers PDF, etc.) et en leur associant des fichiers joints
