@@ -25,7 +25,7 @@ Le style bibliographique utilisé est un style auteur-date, le style **ISO-690 (
 * [fichier .DOC à modifier](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/zotero_gerer_biblio_TP_citer_EXERCICE.doc) 
 * [fichier .PDF modèle](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/zotero_gerer_biblio_TP_citer_MODELE.pdf)
 
-## Programme de la formation publié sur le site de l'Urfist
+## Programme
 
 Fatigué de devoir rédiger et mettre en forme manuellement vos références bibliographiques ? De reprendre tout le classement de votre bibliographie lorsque vous insérez une nouvelle citation ? Lassé de gérer la dispersion et l'absence de liens entre vos références bibliographiques, vos PDF, vos notes, etc.?
 Zotero est un logiciel de gestion bibliographique robuste et fiable, gratuit et libre, et plus encore un assistant de recherche personnel.
