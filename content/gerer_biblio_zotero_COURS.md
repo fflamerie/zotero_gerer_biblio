@@ -8,16 +8,16 @@
 
 ## Sommaire
 
-- [0. Tour de table](#0-tour-de-table)   
-- [1. Introduction](#1-introduction)   
-- [2. Installer et configurer Zotero](#2-installer-et-configurer-zotero)   
-- [3. Constituer sa bibliothèque Zotero étape 1, ajouter des documents et des fichiers](#3-constituer-sa-bibliothèque-zotero-étape-1-ajouter-des-documents-et-des-fichiers)   
-- [4. Constituer sa bibliothèque Zotero étape 2, organiser le contenu, des références bibliographiques aux annotations de PDF](#4-constituer-sa-bibliothèque-zotero-étape-2-organiser-le-contenu-des-références-bibliographiques-aux-annotations-de-pdf)   
-- [5. Identifier et installer dans Zotero les styles bibliographiques de référence de son domaine](#5-identifier-et-installer-dans-zotero-les-styles-bibliographiques-de-référence-de-son-domaine)   
-- [6. Citer avec Zotero](#6-citer-avec-zotero)   
-- [7. De la bibliothèque Zotero à la bibliographie en ligne](#7-de-la-bibliothèque-zotero-à-la-bibliographie-en-ligne)   
-- [8. Où vont vos données Zotero?](#8-où-vont-vos-données-zotero)   
-- [9. Conclusion](#9-conclusion)   
+- 0. Tour de table  
+- 1. Introduction   
+- 2. Installer et configurer Zotero 
+- 3. Constituer sa bibliothèque Zotero étape 1, ajouter des documents et des fichiers
+- 4. Constituer sa bibliothèque Zotero étape 2, organiser le contenu, des références bibliographiques aux annotations de PDF
+- 5. Identifier et installer dans Zotero les styles bibliographiques de référence de son domaine
+- 6. Citer avec Zotero   
+- 7. De la bibliothèque Zotero à la bibliographie en ligne  
+- 8. Où vont vos données Zotero?  
+- 9. Conclusion  
 
 ##  0. Tour de table
 
@@ -333,6 +333,17 @@ Vous pouvez désactiver cet enregistrement depuis les _Paramètres_ > _Général
 Notez toutefois que même en décochant cette case vous enregistrerez toujours les mots-clés associés lorsque vous ajoutez des documents via un **import de fichier** et non via le navigateur. Décocher cette case ne désactive pas l'import du champ _keywords_ (ou équivalent) présent dans un fichier bibliographique. Il y a donc de fortes chances que vous retrouviez tout de même des marqueurs ajoutés automatiquement dans votre bibliothèque. Par ailleurs, il est parfois utile de se référer aux mots-clés auteurs ou aux indexations contrôlées d'une base de données.
 
 Pour conserver une liste de marqueurs personnels propre, facile à exploiter et bien distincte des marqueurs ajoutés automatiquement, la meilleure option est par conséquent de **préfixer** ses marqueurs personnels au moyen d'un signe typographique tel que le tiret bas `_`. Vos marqueurs personnels seront ainsi non seulement facilement identifiables, mais toujours présentés en premier dans le sélecteur de marqueurs.
+
+### Pourquoi privilégier les marqueurs plutôt que les collections?
+
+On peut avancer 3 raisons principales.
+
+* **Lisibilité** : grâce aux **marqueurs colorés** vous visualisez rapidement tous les documents associés à un marqueur. Vous pouvez de plus facilement **filtrer** vos marqueurs dans le sélecteur de marqueurs. Cela autorise à en créer beaucoup sans risque de confusion.
+* **Portabilité** : les marqueurs font partie des informations bibliographiques du document et sont ainsi, par exemple, exportés au même titre que toutes les autres informations bibliographiques lorsque vous exportez des documents dans un fichier au format .ris, . csv, etc. Les collections et les recherches enregistrées relèvent en revanche de **l'interface** de votre bibliothèque, l'information du classement dans une collection n'est pas enregistrée en tant qu'information bibliographique du document.
+* **Gestion automatisée** : grâce aux scripts de [l'extension Actions & Tags](https://github.com/windingwind/zotero-actions-tags), on peut facilement gérer une quantité importante de marqueurs, les scinder, les supprimer de façon globale ou sélective, etc. [L'extension Zutilo](https://github.com/wshanks/Zutilo/blob/master/i18n/fr/readme/docs/COMMANDS.md) permet quant à elle de copier tous les marqueurs associés à une référence et de les coller vers une ou plusieurs références.
+
+👉 Pour en savoir plus sur les extensions, reportez-vous à mes autres stages : [Zotero pour les revues de littérature](https://github.com/fflamerie/zotero_revlit) et [Approfondissement Zotero : les extensions de Zotero
+](https://github.com/fflamerie/zotero_modules).
 
 ### Les recherches sauvegardées pour automatiser l'organisation
 
@@ -734,9 +745,9 @@ Dans la section _Paramètres_>_Général_, rubrique _Localiser_, ouvrez le menu 
 
 ![zotero_openurl](img/zotero_openurl.png)
 
-Cela vous permettra de générer la page du système documentaire de votre établissement (Babord+ dans les universités de Bordeaux) correspondant au document sélectionné dans votre bibliothèque Zotero. Cette page affiche toutes les options d'accès disponibles dans votre établissement, et vous pourrez ainsi trouver des PDF que Zotero ne sera pas parvenu à télécharger automatiquement.
+Cela vous permettra de générer, dans le système documentaire de votre établissement, la page correspondant au document sélectionné dans votre bibliothèque Zotero. Cette page affiche toutes les options d'accès disponibles dans votre établissement, y compris si le document est disponible au format imprimé et non au format électronique. Certains établissements optent pour un paramétrage sans affichage d'une page intermédiaire, et vous êtes alors automatiquement redirigé vers le texte intégral.
 
-Il vous suffira pour cela de cliquer sur _Recherche dans la bibliothèque_, accessible depuis le menu _Localiser_, c'est-à-dire la flèche entourée d'un cercle en bas de la barre de raccourcis du panneau de droite.
+L'option _Recherche dans la bibliothèque_ est accessible depuis le menu _Localiser_, c'est-à-dire la flèche entourée d'un cercle en bas de la barre de raccourcis du panneau de droite.
 
 ![bouton_localiser](img/bouton_localiser.png)
 
