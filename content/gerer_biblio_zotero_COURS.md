@@ -537,7 +537,7 @@ Les bibliothèques universitaires de Nanterre proposent un tableau comparatif sy
 * Université de Liège - Droit (note),
 * Université de Bordeaux - Ecole doctorale de droit (note).
 
-![Tableau comparatif de styles de l'Université Paris Nanterre](img/zotero_comp_styles_nanterre.PNG)
+![Tableau comparatif de styles de l'Université Paris Nanterre](img/zotero_comp_styles_nanterre.png)
 
 Voir : Willemin, E. (2022, avril 5). Quel style Zotero choisir pour son mémoire / sa thèse ? Université Paris Nanterre - Bibliothèques universitaires. http://bu.parisnanterre.fr/sautoformer/quel-style-zotero-choisir-pour-son-memoire-sa-these
 
